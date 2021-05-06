@@ -1,0 +1,651 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: modest-nokiamessaging-plugin 20091201100000\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.12.01 10:00-0400\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "nm_account_authentication"
+msgstr "Verificatie"
+
+msgid "nm_account_existing"
+msgstr "Bestaande account"
+
+msgid "nm_account_existing_intro"
+msgstr ""
+"De Nokia Messaging-account voor het doorsturen van e-mail naar dit apparaat "
+"bestaat al."
+
+msgid "nm_account_existing_no_info"
+msgstr "U kunt handmatig op nieuwe berichten controleren"
+
+msgid "nm_account_existing_rb_no"
+msgstr "Afzonderlijke mailbox maken"
+
+msgid "nm_account_existing_rb_yes"
+msgstr "Dit adres aan de account toevoegen"
+
+msgid "nm_account_setup_complete"
+msgstr ""
+"Het instellen van de account is voltooid.\n"
+"\n"
+"Tik op 'Voltooien' om de instellingen op te slaan. U kunt deze instellingen "
+"in het menu bewerken via 'Accounts bewerken'."
+
+msgid "nm_account_setup_completing_email_setup"
+msgstr "Bezig met voltooien van e-mailinstellingen"
+
+msgid "nm_account_setup_contacting_email_server"
+msgstr "Bezig met verbinden met e-mailserver"
+
+msgid "nm_account_setup_email_adv_details"
+msgstr "Geavanceerde instellingen"
+
+msgid "nm_account_setup_email_delivery"
+msgstr "E-mailontvangst"
+
+msgid "nm_account_setup_email_details"
+msgstr "E-mailgegevens"
+
+msgid "nm_account_setup_getting_email_settings"
+msgstr "Bezig met verzamelen van e-mailinstellingen"
+
+msgid "nm_account_setup_retrieving_terms_conditions"
+msgstr "Bezig met ophalen van servicevoorwaarden"
+
+msgid "nm_account_setup_terms_conditions"
+msgstr "Servicevoorwaarden"
+
+msgid "nm_account_setup_validating"
+msgstr "Bezig met valideren"
+
+msgid "nm_authentication_failed"
+msgstr ""
+"Gebruikersnaam of wachtwoord onjuist. Controleer uw referenties en probeer "
+"het opnieuw."
+
+msgid "nm_authentication_subscriptionexpired"
+msgstr ""
+"Uw abonnement is verlopen. Neem contact op met Nokia Care of uw "
+"internetprovider."
+
+msgid "nm_authentication_trialexpired"
+msgstr ""
+"Uw proefperiode is verlopen. Neem contact op met Nokia Care of uw "
+"internetprovider."
+
+msgid "nm_bd_dialog_cancel"
+msgstr "Annuleren"
+
+msgid "nm_bd_dialog_ok"
+msgstr "Doorgaan"
+
+msgid "nm_bd_mailboxes"
+msgstr "Mailboxen"
+
+msgid "nm_bd_reset"
+msgstr "Account opnieuw instellen"
+
+msgid "nm_bd_service_info"
+msgstr "Service-informatie"
+
+msgid "nm_bd_synchronization"
+msgstr "Synchronisatie"
+
+msgid "nm_cancel_not_allowed"
+msgstr "Bewerking is bezig. Een ogenblik geduld."
+
+msgid "nm_ckdg_ib_maximum_characters_reached"
+msgstr "Maximaal aantal tekens bereikt"
+
+msgid "nm_error_title"
+msgstr "Fout"
+
+msgid "nm_fi_day_friday"
+msgstr "Vrijdag"
+
+msgid "nm_fi_day_monday"
+msgstr "Maandag"
+
+msgid "nm_fi_day_saturday"
+msgstr "Zaterdag"
+
+msgid "nm_fi_day_sunday"
+msgstr "Zondag"
+
+msgid "nm_fi_day_thursday"
+msgstr "Donderdag"
+
+msgid "nm_fi_day_tuesday"
+msgstr "Dinsdag"
+
+msgid "nm_fi_day_wednesday"
+msgstr "Woensdag"
+
+msgid "nm_fi_emailsetup_servername"
+msgstr "Servernaam"
+
+msgid "nm_fi_end_time"
+msgstr "Eindtijd"
+
+msgid "nm_fi_options_access_point"
+msgstr "Toegangspunt"
+
+msgid "nm_fi_options_addnewmailbox"
+msgstr "Nieuwe mailbox toevoegen"
+
+msgid "nm_fi_options_days"
+msgstr "Dagen"
+
+msgid "nm_fi_options_delete"
+msgstr "Verwijderen"
+
+msgid "nm_fi_options_drafts"
+msgstr "Concepten synchroniseren"
+
+msgid "nm_fi_options_edit"
+msgstr "Bewerken"
+
+msgid "nm_fi_options_email_download_size"
+msgstr "Downloadgrootte"
+
+msgid "nm_fi_options_email_download_size_full_message"
+msgstr "Volledig bericht"
+
+msgid "nm_fi_options_email_download_size_headers_only"
+msgstr "Alleen koppen"
+
+msgid "nm_fi_options_email_download_size_headers_plus"
+msgstr "Gedeeltelijk bericht"
+
+msgid "nm_fi_options_email_remove_older_than"
+msgstr "Items verwijderen die ouder zijn dan"
+
+msgid "nm_fi_options_hours"
+msgstr "Uren"
+
+msgid "nm_fi_options_inbox"
+msgstr "Inbox synchroniseren"
+
+msgid "nm_fi_options_password"
+msgstr "Wachtwoord"
+
+msgid "nm_fi_options_password_required"
+msgstr "Wachtwoord vereist om de naam te wijzigen"
+
+msgid "nm_fi_options_reset_data"
+msgstr "Gegevens opnieuw instellen"
+
+msgid "nm_fi_options_sent_items"
+msgstr "Verzonden items synchroniseren"
+
+msgid "nm_fi_options_server_name"
+msgstr "Servernaam"
+
+msgid "nm_fi_options_signature"
+msgstr "Handtekening"
+
+msgid "nm_fi_options_start"
+msgstr "Start"
+
+msgid "nm_fi_options_sync_days"
+msgstr "Nokia Messaging: Dagen synchroniseren"
+
+msgid "nm_fi_options_sync_interval"
+msgstr "Verzenden en ontvangen"
+
+msgid "nm_fi_options_sync_power"
+msgstr "Synchronisatie uitschakelen wanneer"
+
+msgid "nm_fi_options_sync_while_roaming"
+msgstr "Synchroniseren tijdens roaming"
+
+msgid "nm_fi_options_use_secure_login_incoming"
+msgstr "Veilig aanmelden bij binnenkomende server"
+
+msgid "nm_fi_options_use_secure_login_outgoing"
+msgstr "Veilig aanmelden bij uitgaande server"
+
+msgid "nm_fi_options_user_name"
+msgstr "Gebruikersnaam"
+
+msgid "nm_fi_start_time"
+msgstr "Starttijd"
+
+msgid "nm_fi_sync_days_all"
+msgstr "Elke dag"
+
+msgid "nm_fi_sync_days_custom"
+msgstr "Aangepast"
+
+msgid "nm_fi_sync_days_never"
+msgstr "Nooit"
+
+msgid "nm_fi_sync_days_weekdays"
+msgstr "Doordeweeks"
+
+msgid "nm_fi_sync_days_weekends"
+msgstr "In het weekend"
+
+msgid "nm_fi_sync_drafts"
+msgstr "Concepten synchroniseren"
+
+msgid "nm_fi_sync_inbox"
+msgstr "Inbox synchroniseren"
+
+msgid "nm_fi_sync_read_server_enabled"
+msgstr "Berichten markeren als gelezen op server"
+
+msgid "nm_fi_sync_sent_items"
+msgstr "Verzonden items synchroniseren"
+
+msgid "nm_ib_advsetup_settings_saved"
+msgstr "Instellingen opgeslagen"
+
+msgid "nm_ib_daemon_not_connected"
+msgstr "Nokia Messaging Daemon niet beschikbaar"
+
+msgid "nm_imum_nc_wizard_confirm_lose_changes"
+msgstr ""
+"Alle wijzigingen in de instellingen gaan verloren.\n"
+"Toch doorgaan?"
+
+msgid "nm_initializing_synchronization"
+msgstr "Synchronisatie initialiseren"
+
+msgid "nm_invalid_server_settings"
+msgstr ""
+"Kan geen contact opnemen met de e-mailprovider. Controleer uw instellingen."
+
+msgid "nm_mail_de_intro_bundle"
+msgstr ""
+"Accepteer de servicevoorwaarden om uw Nokia Messaging-account te activeren "
+"en uw e-mails automatisch te ontvangen."
+
+msgid "nm_mail_de_intro_default"
+msgstr ""
+"Nokia Messaging is een abonnementsservice die uw e-mail automatisch "
+"doorstuurt naar uw inbox. U kunt u nu aanmelden zonder dat hier extra kosten "
+"aan verbonden zijn."
+
+msgid "nm_mail_de_intro_isp"
+msgstr ""
+"Nokia Messaging is een abonnementsservice die met uw e-mailserviceprovider "
+"samenwerkt en uw e-mail automatisch doorstuurt naar uw inbox. U kunt u nu "
+"aanmelden zonder dat hier extra kosten aan verbonden zijn."
+
+msgid "nm_mail_de_no"
+msgstr "Nee, bedankt"
+
+msgid "nm_mail_de_password"
+msgstr "Wachtwoord"
+
+msgid "nm_mail_de_tos_link"
+msgstr ""
+"Door op 'Volgende' te tikken, accepteer ik alle [Servicevoorwaarden] voor "
+"deze proefaccount."
+
+msgid "nm_mail_de_tos_link_bundle"
+msgstr "Door op 'Volgende' te tikken, accepteer ik alle [Servicevoorwaarden]."
+
+msgid "nm_mail_de_tos_link_manual_text"
+msgstr "U kunt handmatig op nieuwe berichten controleren."
+
+msgid "nm_mail_de_yes"
+msgstr "Ja, ik wil me graag aanmelden."
+
+msgid "nm_mail_de_yes_bundle"
+msgstr "Activeer mijn account"
+
+msgid "nm_mail_fi_email_address"
+msgstr "E-mailadres"
+
+msgid "nm_mail_fi_incoming_port"
+msgstr "Binnenkomende poort"
+
+msgid "nm_mail_fi_incoming_server"
+msgstr "Binnenkomende server"
+
+msgid "nm_mail_fi_mailbox_name"
+msgstr "Naam van mailbox"
+
+msgid "nm_mail_fi_my_name"
+msgstr "Mijn naam"
+
+msgid "nm_mail_fi_outgoing_port"
+msgstr "Uitgaande poort"
+
+msgid "nm_mail_fi_outgoing_server"
+msgstr "Uitgaande server"
+
+msgid "nm_mail_fi_password"
+msgstr "Wachtwoord"
+
+msgid "nm_mail_fi_password_prompt"
+msgstr ""
+"Het ingevoerde wachtwoord is onjuist. Voer het juiste wachtwoord in om het "
+"instellen van de Nokia Messaging-account te voltooien."
+
+msgid "nm_mail_fi_user_name"
+msgstr "Gebruikersnaam"
+
+msgid "nm_mail_fi_username"
+msgstr "Gebruikersnaam"
+
+msgid "nm_mail_fi_username_hint"
+msgstr "Vereist door bepaalde ISP's"
+
+msgid "nm_mail_fi_username_password_prompt"
+msgstr ""
+"E-mailadres wordt al gebruikt voor een Nokia Messaging-account. Voer de "
+"Nokia Messaging-accountreferenties in om het instellen van uw e-mail te "
+"voltooien."
+
+msgid "nm_mail_ib_setting_failed"
+msgstr "Kan instellingen niet opslaan"
+
+msgid "nm_mail_type"
+msgstr "E-mailtype"
+
+msgid "nm_mail_type_imap"
+msgstr "IMAP"
+
+msgid "nm_mail_type_pop"
+msgstr "POP"
+
+msgid "nm_me_folder_drafts"
+msgstr "Concepten"
+
+msgid "nm_me_folder_inbox"
+msgstr "Inbox"
+
+msgid "nm_me_folder_sent"
+msgstr "Verzonden items"
+
+msgid "nm_me_inbox_options"
+msgstr "Instellingen"
+
+msgid "nm_me_inbox_options_global"
+msgstr "<Native protocol>"
+
+msgid "nm_me_inbox_options_nes"
+msgstr "Nokia Messaging"
+
+msgid "nm_nms_cannot_download_attachment"
+msgstr "Bijlage te groot om te downloaden"
+
+msgid "nm_nms_downloading_attachment"
+msgstr "Bezig met downloaden"
+
+msgid "nm_nms_password_prompt"
+msgstr ""
+"Voer het Nokia Messaging-wachtwoord in. Dit is het wachtwoord voor het "
+"eerste e-mailadres dat u hebt ingesteld voor Nokia Messaging."
+
+msgid "nm_ods_email_intro"
+msgstr ""
+"Uw e-mailadres en andere technische informatie zoals uw apparaat-id worden "
+"naar Nokia verstuurd. Nokia bewaart geen persoonlijke gegevens zonder uw "
+"toestemming."
+
+msgid "nm_ods_error_account_locked"
+msgstr ""
+"Account geblokkeerd na buitensporig veel mislukte aanmeldingen. Neem contact "
+"op met Nokia Care of uw internetprovider."
+
+msgid "nm_ods_error_cant_setup"
+msgstr ""
+"Probleem bij het instellen van de mailbox. Controleer de instellingen en "
+"probeer het later opnieuw."
+
+msgid "nm_ods_error_generic"
+msgstr ""
+"Probleem bij het instellen van de mailbox. Controleer de instellingen en "
+"probeer het later opnieuw. (%04x)"
+
+msgid "nm_ods_error_restart"
+msgstr "Het instellen wordt opnieuw gestart (%04lX)"
+
+msgid "nm_ods_phone_number"
+msgstr "Telefoonnummer"
+
+msgid "nm_ods_phone_number_required"
+msgstr "Voer uw telefoonnummer in om de e-mailinstellingen te verifiëren"
+
+msgid "nm_ods_setup_failed_emailid_exists_else_where"
+msgstr ""
+"Het e-mailadres staat al geregistreerd voor een andere Nokia Messaging-"
+"account"
+
+msgid "nm_ods_setup_failed_notenabled"
+msgstr ""
+"Uw account is niet geactiveerd. Neem contact op met Nokia Care of uw "
+"internetprovider."
+
+msgid "nm_ods_unable_to_connect"
+msgstr ""
+"Wizard Instellen kan geen verbinding maken met de e-mailserver met de "
+"beschikbare informatie."
+
+msgid "nm_reset_account"
+msgstr "Opnieuw instellen"
+
+msgid "nm_set_up_mail_at_later_time"
+msgstr "Later instellen"
+
+msgid "nm_set_up_mailbox_anyway"
+msgstr "Mailbox toch instellen"
+
+msgid "nm_set_up_mailbox_anyway_help_text"
+msgstr ""
+"Mogelijk kunt u verbinding maken als u het wachtwoord hebt gecontroleerd of "
+"andere instellingen hebt aangepast."
+
+msgid "nm_sync_hours_customize"
+msgstr "Aanpassen"
+
+msgid "nm_sync_hours_on_all_day"
+msgstr "De hele dag"
+
+msgid "nm_synchronizing"
+msgstr "Synchroniseren"
+
+msgid "nm_ti_intellisync_settings"
+msgstr "Instellingen voor Nokia Messaging"
+
+msgid "nm_ti_intellisync_settings_mailboxes"
+msgstr "Nokia Messaging: Mailboxen"
+
+msgid "nm_ti_intellisync_settings_synchronization"
+msgstr "Nokia Messaging: Synchronisatie"
+
+msgid "nm_ti_mailbox_settings"
+msgstr "Mailboxinstellingen"
+
+msgid "nm_ti_options_mailbox_account"
+msgstr "Account"
+
+msgid "nm_ti_options_mailbox_user_info"
+msgstr "Gebruikersgegevens"
+
+msgid "nm_ti_options_mailboxes"
+msgstr "Mailboxen"
+
+msgid "nm_ti_options_native_protocol"
+msgstr "Instellingen voor <Native protocol>"
+
+msgid "nm_ti_options_nokia_email"
+msgstr "Instellingen voor Nokia Messaging"
+
+msgid "nm_ti_options_service_info"
+msgstr "Service-informatie"
+
+msgid "nm_ti_options_serviceinfo"
+msgstr "Service-informatie"
+
+msgid "nm_ti_options_what_to_sync"
+msgstr "Wat synchroniseren"
+
+msgid "nm_ti_options_when_to_sync"
+msgstr "Wanneer synchroniseren"
+
+msgid "nm_try_different_email_address"
+msgstr "Probeer een ander e-mailadres"
+
+msgid "nm_unable_to_set_up_this_mailbox_with_info_provided"
+msgstr "Kan deze mailbox niet instellen met de beschikbare informatie"
+
+msgid "nm_use_secure_login"
+msgstr "Veilig aanmelden"
+
+msgid "nm_va_delete_message_service"
+msgstr "De Nokia Messaging-service en alle bijbehorende mailboxen verwijderen?"
+
+msgid "nm_va_delete_multimail_mailbox"
+msgstr ""
+"Van het apparaat verwijderen?\n"
+"'%s'"
+
+msgid "nm_va_delete_nokia_messaging"
+msgstr ""
+"De Nokia Messaging-service en alle bijbehorende mailboxen van het apparaat "
+"verwijderen?"
+
+msgid "nm_va_deleting_multimail_mailbox"
+msgstr ""
+"Bezig met verwijderen van mailbox\n"
+"'%s'"
+
+msgid "nm_va_intellisync"
+msgstr "Nokia Messaging"
+
+msgid "nm_va_multimail_mailbox_added_message"
+msgstr ""
+"Na de volgende synchronisatie met de mailserver is er een nieuwe mailbox "
+"beschikbaar"
+
+msgid "nm_va_multimail_mailbox_delete_failed"
+msgstr "Mailbox verwijderen mislukt"
+
+msgid "nm_va_multimail_mailbox_password_change_failed"
+msgstr ""
+"Wijzigen van naam is mislukt. Controleer het wachtwoord en probeer het "
+"opnieuw."
+
+msgid "nm_va_multimail_mailbox_removed_message"
+msgstr ""
+"De geselecteerde mailbox wordt verwijderd na de volgende synchronisatie met "
+"de mailserver."
+
+msgid "nm_va_options_access_point_default"
+msgstr "Standaard"
+
+msgid "nm_va_options_older_than_1_month"
+msgstr "1 maand"
+
+msgid "nm_va_options_older_than_1_week"
+msgstr "1 week"
+
+msgid "nm_va_options_older_than_2_weeks"
+msgstr "2 weken"
+
+msgid "nm_va_options_older_than_3_days"
+msgstr "3 dagen"
+
+msgid "nm_va_options_older_than_5_days"
+msgstr "5 dagen"
+
+msgid "nm_va_options_server_name"
+msgstr "Servernaam"
+
+msgid "nm_va_options_service_info"
+msgstr "Nokia Messaging: Service-informatie"
+
+msgid "nm_va_options_signature"
+msgstr "Handtekening"
+
+msgid "nm_va_options_signature_default_text"
+msgstr "Verzonden vanaf mijn Nokia N900 via Nokia Messaging"
+
+msgid "nm_va_options_signature_for_mailbox_name"
+msgstr "Handtekening voor %s"
+
+msgid "nm_va_options_sync_hours_all_day"
+msgstr "De hele dag"
+
+msgid "nm_va_options_sync_hours_custom_time"
+msgstr "Nokia Messaging: Uren synchroniseren"
+
+msgid "nm_va_options_sync_hours_customize"
+msgstr "Aanpassen"
+
+msgid "nm_va_options_sync_interval_12_hours"
+msgstr "Elke 12 uur"
+
+msgid "nm_va_options_sync_interval_1_day"
+msgstr "Elke 24 uur"
+
+msgid "nm_va_options_sync_interval_1_hour"
+msgstr "Elk uur"
+
+msgid "nm_va_options_sync_interval_4_hours"
+msgstr "Elke 4 uur"
+
+msgid "nm_va_options_sync_interval_half_hour"
+msgstr "Elke 30 minuten"
+
+msgid "nm_va_options_sync_interval_push"
+msgstr "z.s.m."
+
+msgid "nm_va_options_sync_interval_qtr_hour"
+msgstr "Elke 15 minuten"
+
+msgid "nm_va_options_sync_power_20"
+msgstr "Batterij op 20%"
+
+msgid "nm_va_options_sync_power_5"
+msgstr "Batterij op 5%"
+
+msgid "nm_va_options_sync_power_never"
+msgstr "Nooit"
+
+msgid "nm_va_options_sync_power_server"
+msgstr "Serverwaarde"
+
+msgid "nm_va_options_sync_power_server_battery_level"
+msgstr "Batterij op %ld%%"
+
+msgid "nm_va_options_use_signature"
+msgstr "Handtekening gebruiken"
+
+msgid "nm_va_options_user_name"
+msgstr "Gebruikersnaam"
+
+msgid "nm_va_reset_data"
+msgstr ""
+"Het vervangen van de gegevens op het apparaat door gegevens van de server "
+"kan enkele minuten in beslag nemen. Doorgaan?"
+
+msgid "nm_va_saving_multimail_mailbox_settings"
+msgstr "Bezig met verifiëren van gewijzigde instellingen"
+
+msgid "nm_wdgt_bd_delete"
+msgstr "Verwijderen"
+
+msgid "nm_wdgt_bd_done"
+msgstr "Voltooid"
+
+msgid "nm_wdgt_bd_save"
+msgstr "Opslaan"
+
+msgid "nm_wdgt_rb_no"
+msgstr "Nee"
+
+msgid "nm_wdgt_rb_yes"
+msgstr "Ja"

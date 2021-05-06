@@ -1,0 +1,647 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: modest-nokiamessaging-plugin 20091201100000\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.12.01 10:00-0400\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "nm_account_authentication"
+msgstr "Todennus"
+
+msgid "nm_account_existing"
+msgstr "Olemassa oleva tili"
+
+msgid "nm_account_existing_intro"
+msgstr ""
+"Nokia Messaging -tili sähköpostin lähettämiseen eteenpäin tähän osoitteeseen "
+"on jo olemassa."
+
+msgid "nm_account_existing_no_info"
+msgstr "Voit tarkistaa uudet viestit manuaalisesti"
+
+msgid "nm_account_existing_rb_no"
+msgstr "Luo erillinen postilaatikko"
+
+msgid "nm_account_existing_rb_yes"
+msgstr "Lisää tämä osoite tiliin"
+
+msgid "nm_account_setup_complete"
+msgstr ""
+"Tilin määritys on valmis.\n"
+"\n"
+"Tallenna valitsemalla Valmis. Voit muokata asetuksia valitsemalla valikossa "
+"Muokkaa tilejä."
+
+msgid "nm_account_setup_completing_email_setup"
+msgstr "Viimeistellään sähköpostiasetukset"
+
+msgid "nm_account_setup_contacting_email_server"
+msgstr "Muodostetaan yhteys sähköpostipalvelimeen"
+
+msgid "nm_account_setup_email_adv_details"
+msgstr "Lisäasetukset"
+
+msgid "nm_account_setup_email_delivery"
+msgstr "Sähköpostitoimitus"
+
+msgid "nm_account_setup_email_details"
+msgstr "Sähköpostin tiedot"
+
+msgid "nm_account_setup_getting_email_settings"
+msgstr "Haetaan sähköpostiasetuksia"
+
+msgid "nm_account_setup_retrieving_terms_conditions"
+msgstr "Noudetaan palvelun käyttöehtoja"
+
+msgid "nm_account_setup_terms_conditions"
+msgstr "Palvelun käyttöehdot"
+
+msgid "nm_account_setup_validating"
+msgstr "Hyväksytään"
+
+msgid "nm_authentication_failed"
+msgstr ""
+"Virheellinen käyttäjänimi tai salasana. Tarkista kirjautumistiedot ja yritä "
+"uudelleen."
+
+msgid "nm_authentication_subscriptionexpired"
+msgstr ""
+"Tilaus on vanhentunut. Ota yhteys Nokia Care -asiakastukeen tai Internet-"
+"palveluntarjoajaan."
+
+msgid "nm_authentication_trialexpired"
+msgstr ""
+"Kokeiluaika on mennyt umpeen. Ota yhteys Nokia Care -asiakastukeen tai "
+"Internet-palveluntarjoajaan."
+
+msgid "nm_bd_dialog_cancel"
+msgstr "Peruuta"
+
+msgid "nm_bd_dialog_ok"
+msgstr "Jatka"
+
+msgid "nm_bd_mailboxes"
+msgstr "Postilaatikot"
+
+msgid "nm_bd_reset"
+msgstr "Palauta tili"
+
+msgid "nm_bd_service_info"
+msgstr "Palvelun tiedot"
+
+msgid "nm_bd_synchronization"
+msgstr "Synkronointi"
+
+msgid "nm_cancel_not_allowed"
+msgstr "Toiminto on käynnissä. Odota."
+
+msgid "nm_ckdg_ib_maximum_characters_reached"
+msgstr "Merkkejä enimmäismäärä"
+
+msgid "nm_error_title"
+msgstr "Virhe"
+
+msgid "nm_fi_day_friday"
+msgstr "Perjantai"
+
+msgid "nm_fi_day_monday"
+msgstr "Maanantai"
+
+msgid "nm_fi_day_saturday"
+msgstr "Lauantai"
+
+msgid "nm_fi_day_sunday"
+msgstr "Sunnuntai"
+
+msgid "nm_fi_day_thursday"
+msgstr "Torstai"
+
+msgid "nm_fi_day_tuesday"
+msgstr "Tiistai"
+
+msgid "nm_fi_day_wednesday"
+msgstr "Keskiviikko"
+
+msgid "nm_fi_emailsetup_servername"
+msgstr "Palvelimen nimi"
+
+msgid "nm_fi_end_time"
+msgstr "Lopetusaika"
+
+msgid "nm_fi_options_access_point"
+msgstr "Yhteysosoite"
+
+msgid "nm_fi_options_addnewmailbox"
+msgstr "Lisää uusi postilaatikko"
+
+msgid "nm_fi_options_days"
+msgstr "Päivät"
+
+msgid "nm_fi_options_delete"
+msgstr "Poista"
+
+msgid "nm_fi_options_drafts"
+msgstr "Synkronoi Luonnokset"
+
+msgid "nm_fi_options_edit"
+msgstr "Muokkaa"
+
+msgid "nm_fi_options_email_download_size"
+msgstr "Latauskoko"
+
+msgid "nm_fi_options_email_download_size_full_message"
+msgstr "Koko viesti"
+
+msgid "nm_fi_options_email_download_size_headers_only"
+msgstr "Vain otsikot"
+
+msgid "nm_fi_options_email_download_size_headers_plus"
+msgstr "Osa viestistä"
+
+msgid "nm_fi_options_email_remove_older_than"
+msgstr "Poista kohteet, jotka ovat vanhempia kuin"
+
+msgid "nm_fi_options_hours"
+msgstr "Tunnit"
+
+msgid "nm_fi_options_inbox"
+msgstr "Synkronoi Saapuneet"
+
+msgid "nm_fi_options_password"
+msgstr "Salasana"
+
+msgid "nm_fi_options_password_required"
+msgstr "Nimen vaihtamiseen tarvitaan salasana"
+
+msgid "nm_fi_options_reset_data"
+msgstr "Palauta tiedot"
+
+msgid "nm_fi_options_sent_items"
+msgstr "Synkronoi Lähetetyt"
+
+msgid "nm_fi_options_server_name"
+msgstr "Palvelimen nimi"
+
+msgid "nm_fi_options_signature"
+msgstr "Allekirjoitus"
+
+msgid "nm_fi_options_start"
+msgstr "Aloita"
+
+msgid "nm_fi_options_sync_days"
+msgstr "Nokia Messaging: synkronointipäivät"
+
+msgid "nm_fi_options_sync_interval"
+msgstr "Lähetä ja vastaanota"
+
+msgid "nm_fi_options_sync_power"
+msgstr "Poista synkronointi, kun"
+
+msgid "nm_fi_options_sync_while_roaming"
+msgstr "Synkronointi verkkovierailun aikana"
+
+msgid "nm_fi_options_use_secure_login_incoming"
+msgstr "Suojattu kirjautuminen palvelimessa"
+
+msgid "nm_fi_options_use_secure_login_outgoing"
+msgstr "Suojattu kirjautuminen palvelimessa"
+
+msgid "nm_fi_options_user_name"
+msgstr "Käyttäjänimi"
+
+msgid "nm_fi_start_time"
+msgstr "Aloitusaika"
+
+msgid "nm_fi_sync_days_all"
+msgstr "Päivittäin"
+
+msgid "nm_fi_sync_days_custom"
+msgstr "Mukautettu"
+
+msgid "nm_fi_sync_days_never"
+msgstr "Ei koskaan"
+
+msgid "nm_fi_sync_days_weekdays"
+msgstr "Arkipäivisin"
+
+msgid "nm_fi_sync_days_weekends"
+msgstr "Viikonloppuisin"
+
+msgid "nm_fi_sync_drafts"
+msgstr "Synkronoi Luonnokset"
+
+msgid "nm_fi_sync_inbox"
+msgstr "Synkronoi Saapuneet"
+
+msgid "nm_fi_sync_read_server_enabled"
+msgstr "Merkitse viestit luetuksi palvelimella"
+
+msgid "nm_fi_sync_sent_items"
+msgstr "Synkronoi Lähetetyt"
+
+msgid "nm_ib_advsetup_settings_saved"
+msgstr "Asetukset tallennettu"
+
+msgid "nm_ib_daemon_not_connected"
+msgstr "Nokia messaging daemon ei ole saatavana"
+
+msgid "nm_imum_nc_wizard_confirm_lose_changes"
+msgstr ""
+"Asetuksiin tehdyt muutokset häviävät.\n"
+"Jatketaanko silti?"
+
+msgid "nm_initializing_synchronization"
+msgstr "Alustetaan synkronointi"
+
+msgid "nm_invalid_server_settings"
+msgstr "Sähköpostintarjoajaa ei voi käyttää. Tarkista asetukset."
+
+msgid "nm_mail_de_intro_bundle"
+msgstr ""
+"Ota Nokia Messaging -tili käyttöön hyväksymällä palvelun käyttöehdot, ja "
+"sähköpostisi toimitetaan automaattisesti."
+
+msgid "nm_mail_de_intro_default"
+msgstr ""
+"Nokia Messaging on tilauspalvelu, joka lähettää sähköpostin automaattisesti "
+"eteenpäin Saapuneet-kansioon. Voit tilata palvelun ilman lisämaksua."
+
+msgid "nm_mail_de_intro_isp"
+msgstr ""
+"Nokia Messaging -tilauspalvelu toimii yhdessä sähköpostin palveluntarjoajan "
+"kanssa ja lähettää sähköpostin automaattisesti eteenpäin Saapuneet-kansioon. "
+"Voit tilata palvelun ilman lisämaksua."
+
+msgid "nm_mail_de_no"
+msgstr "Ei kiitos"
+
+msgid "nm_mail_de_password"
+msgstr "Salasana"
+
+msgid "nm_mail_de_tos_link"
+msgstr ""
+"Kun valitsen Seuraava, hyväksyn kaikki tämän kokeiluversion [Palvelun "
+"käyttöehdot]."
+
+msgid "nm_mail_de_tos_link_bundle"
+msgstr ""
+"Kun valitsen Seuraava, hyväksyn kaikki [Nokia Messaging -palvelun "
+"käyttöehdot]."
+
+msgid "nm_mail_de_tos_link_manual_text"
+msgstr "Voit tarkistaa uudet viestit manuaalisesti."
+
+msgid "nm_mail_de_yes"
+msgstr "Kyllä. Haluan tilata palvelun."
+
+msgid "nm_mail_de_yes_bundle"
+msgstr "Ota tili käyttöön"
+
+msgid "nm_mail_fi_email_address"
+msgstr "S-posti"
+
+msgid "nm_mail_fi_incoming_port"
+msgstr "Vastaanottava portti"
+
+msgid "nm_mail_fi_incoming_server"
+msgstr "Vastaanottava palvelin"
+
+msgid "nm_mail_fi_mailbox_name"
+msgstr "Postilaatikko"
+
+msgid "nm_mail_fi_my_name"
+msgstr "Oma nimi"
+
+msgid "nm_mail_fi_outgoing_port"
+msgstr "Lähettävä portti"
+
+msgid "nm_mail_fi_outgoing_server"
+msgstr "Lähettävä palvelin"
+
+msgid "nm_mail_fi_password"
+msgstr "Salasana"
+
+msgid "nm_mail_fi_password_prompt"
+msgstr ""
+"Annettu salasana on väärä. Viimeistele Nokia Messaging -tilin asetukset "
+"antamalla oikea salasana."
+
+msgid "nm_mail_fi_user_name"
+msgstr "Käyttäjänimi"
+
+msgid "nm_mail_fi_username"
+msgstr "Käyttäjänimi"
+
+msgid "nm_mail_fi_username_hint"
+msgstr "Osa Internet-palveluntarjoajista edellyttää tätä"
+
+msgid "nm_mail_fi_username_password_prompt"
+msgstr ""
+"Sähköpostiosoite on jo liitetty Nokia Messaging -tiliin. Viimeistele "
+"sähköpostiasetukset ilmoittamalla Nokia Messaging -tilin kirjautumistiedot."
+
+msgid "nm_mail_ib_setting_failed"
+msgstr "Asetuksia ei voitu tallentaa"
+
+msgid "nm_mail_type"
+msgstr "Sähköpostityyppi"
+
+msgid "nm_mail_type_imap"
+msgstr "IMAP"
+
+msgid "nm_mail_type_pop"
+msgstr "POP"
+
+msgid "nm_me_folder_drafts"
+msgstr "Luonnokset"
+
+msgid "nm_me_folder_inbox"
+msgstr "Saapuneet"
+
+msgid "nm_me_folder_sent"
+msgstr "Lähetetyt"
+
+msgid "nm_me_inbox_options"
+msgstr "Asetukset"
+
+msgid "nm_me_inbox_options_global"
+msgstr "<Alkuperäinen protokolla>"
+
+msgid "nm_me_inbox_options_nes"
+msgstr "Nokia Messaging"
+
+msgid "nm_nms_cannot_download_attachment"
+msgstr "Tiedosto on liian suuri ladattavaksi"
+
+msgid "nm_nms_downloading_attachment"
+msgstr "Ladataan"
+
+msgid "nm_nms_password_prompt"
+msgstr ""
+"Ilmoita Nokia Messaging -salasana. Se on ensimmäisen Nokia Messaging -"
+"palveluun määritetyn sähköpostiosoitteen salasana."
+
+msgid "nm_ods_email_intro"
+msgstr ""
+"Sähköpostiosoitteesi ja muita teknisiä tietoja, kuten laitteen tunniste, "
+"lähetetään Nokialle. Nokia ei käytä tai tallenna mitään henkilökohtaisia "
+"tunnistetietoja aktivoinnin jälkeen ilman suostumustasi."
+
+msgid "nm_ods_error_account_locked"
+msgstr ""
+"Tili estetty. Kirjautuminen epäonnistui liian monta kertaa. Ota yhteys Nokia "
+"Care -asiakastukeen tai Internet-palveluntarjoajaan."
+
+msgid "nm_ods_error_cant_setup"
+msgstr ""
+"Ongelma postilaatikkoa määritettäessä. Tarkista asetukset ja yritä uudelleen."
+
+msgid "nm_ods_error_generic"
+msgstr ""
+"Ongelma postilaatikkoa määritettäessä. Tarkista asetukset ja yritä "
+"uudelleen. (%04x)"
+
+msgid "nm_ods_error_restart"
+msgstr "Asennus käynnistyy uudelleen (%04lX)"
+
+msgid "nm_ods_phone_number"
+msgstr "Puhelinnumero"
+
+msgid "nm_ods_phone_number_required"
+msgstr "Todenna sähköpostiasetukset ilmoittamalla puhelinnumerosi."
+
+msgid "nm_ods_setup_failed_emailid_exists_else_where"
+msgstr "Sähköpostiosoite on jo rekisteröity toiseen Nokia Messaging -tiliin"
+
+msgid "nm_ods_setup_failed_notenabled"
+msgstr ""
+"Tili ei ole käytössä. Ota yhteys Nokia Care -asiakastukeen tai Internet-"
+"palveluntarjoajaan."
+
+msgid "nm_ods_unable_to_connect"
+msgstr ""
+"Ohjattu asennus ei voi muodostaa yhteyttä sähköpostipalvelimeen "
+"ilmoitetuilla tiedoilla."
+
+msgid "nm_reset_account"
+msgstr "Palaa alkutilaan"
+
+msgid "nm_set_up_mail_at_later_time"
+msgstr "Määritä myöhemmin"
+
+msgid "nm_set_up_mailbox_anyway"
+msgstr "Määritä postilaatikko silti"
+
+msgid "nm_set_up_mailbox_anyway_help_text"
+msgstr ""
+"Yhteyden voi ehkä muodostaa, kun olet tarkistanut salasanan tai muokannut "
+"muita asetuksia."
+
+msgid "nm_sync_hours_customize"
+msgstr "Mukauta"
+
+msgid "nm_sync_hours_on_all_day"
+msgstr "Koko päivän"
+
+msgid "nm_synchronizing"
+msgstr "Synkronoidaan"
+
+msgid "nm_ti_intellisync_settings"
+msgstr "Asetukset: Nokia Messaging"
+
+msgid "nm_ti_intellisync_settings_mailboxes"
+msgstr "Nokia Messaging: postilaatikot"
+
+msgid "nm_ti_intellisync_settings_synchronization"
+msgstr "Nokia Messaging: synkronointi"
+
+msgid "nm_ti_mailbox_settings"
+msgstr "Postilaatikon asetukset"
+
+msgid "nm_ti_options_mailbox_account"
+msgstr "Tili"
+
+msgid "nm_ti_options_mailbox_user_info"
+msgstr "Käyttäjän tiedot"
+
+msgid "nm_ti_options_mailboxes"
+msgstr "Postilaatikot"
+
+msgid "nm_ti_options_native_protocol"
+msgstr "Asetukset: <Alkuperäinen protokolla>"
+
+msgid "nm_ti_options_nokia_email"
+msgstr "Asetukset: Nokia Messaging"
+
+msgid "nm_ti_options_service_info"
+msgstr "Palvelun tiedot"
+
+msgid "nm_ti_options_serviceinfo"
+msgstr "Palvelun tiedot"
+
+msgid "nm_ti_options_what_to_sync"
+msgstr "Synkronoinnin sisältö"
+
+msgid "nm_ti_options_when_to_sync"
+msgstr "Synkronoinnin aika"
+
+msgid "nm_try_different_email_address"
+msgstr "Kokeile toista sähköpostiosoitetta"
+
+msgid "nm_unable_to_set_up_this_mailbox_with_info_provided"
+msgstr "Tätä postilaatikkoa ei voi määrittää ilmoitetuilla tiedoilla"
+
+msgid "nm_use_secure_login"
+msgstr "Käytä suojattua kirjautumista"
+
+msgid "nm_va_delete_message_service"
+msgstr ""
+"Poistetaanko Nokia Messaging -palvelu ja kaikki siihen liitetyt "
+"postilaatikot?"
+
+msgid "nm_va_delete_multimail_mailbox"
+msgstr ""
+"Poistetaanko laitteesta?\n"
+"%s"
+
+msgid "nm_va_delete_nokia_messaging"
+msgstr ""
+"Poistetaanko Nokia Messaging -palvelu ja kaikki siihen liittyvät "
+"postilaatikot tästä laitteesta?"
+
+msgid "nm_va_deleting_multimail_mailbox"
+msgstr ""
+"Poistetaan postilaatikko\n"
+"%s"
+
+msgid "nm_va_intellisync"
+msgstr "Nokia Messaging"
+
+msgid "nm_va_multimail_mailbox_added_message"
+msgstr ""
+"Uutta postilaatikkoa voi käyttää seuraavan postipalvelimen synkronoinnin "
+"jälkeen"
+
+msgid "nm_va_multimail_mailbox_delete_failed"
+msgstr "Postilaatikon poisto epäonnistui"
+
+msgid "nm_va_multimail_mailbox_password_change_failed"
+msgstr "Nimen vaihtaminen epäonnistui. Tarkista salasana ja yritä uudelleen."
+
+msgid "nm_va_multimail_mailbox_removed_message"
+msgstr ""
+"Valittu postilaatikko poistetaan seuraavan postipalvelimen synkronoinnin "
+"jälkeen."
+
+msgid "nm_va_options_access_point_default"
+msgstr "Oletus"
+
+msgid "nm_va_options_older_than_1_month"
+msgstr "1 kuukausi"
+
+msgid "nm_va_options_older_than_1_week"
+msgstr "1 viikko"
+
+msgid "nm_va_options_older_than_2_weeks"
+msgstr "2 viikkoa"
+
+msgid "nm_va_options_older_than_3_days"
+msgstr "3 päivää"
+
+msgid "nm_va_options_older_than_5_days"
+msgstr "5 päivää"
+
+msgid "nm_va_options_server_name"
+msgstr "Palvelimen nimi"
+
+msgid "nm_va_options_service_info"
+msgstr "Nokia Messaging: palvelun tiedot"
+
+msgid "nm_va_options_signature"
+msgstr "Allekirjoitus"
+
+msgid "nm_va_options_signature_default_text"
+msgstr "Lähetetty Nokia N900 -laitteesta Nokia Messaging -palvelulla"
+
+msgid "nm_va_options_signature_for_mailbox_name"
+msgstr "Postilaatikon %s allekirjoitus"
+
+msgid "nm_va_options_sync_hours_all_day"
+msgstr "Koko päivän"
+
+msgid "nm_va_options_sync_hours_custom_time"
+msgstr "Nokia Messaging: synkronointitunnit"
+
+msgid "nm_va_options_sync_hours_customize"
+msgstr "Mukauta"
+
+msgid "nm_va_options_sync_interval_12_hours"
+msgstr "Joka 12. tunti"
+
+msgid "nm_va_options_sync_interval_1_day"
+msgstr "Joka 24. tunti"
+
+msgid "nm_va_options_sync_interval_1_hour"
+msgstr "Joka tunti"
+
+msgid "nm_va_options_sync_interval_4_hours"
+msgstr "Joka 4. tunti"
+
+msgid "nm_va_options_sync_interval_half_hour"
+msgstr "Joka 30. minuutti"
+
+msgid "nm_va_options_sync_interval_push"
+msgstr "Heti"
+
+msgid "nm_va_options_sync_interval_qtr_hour"
+msgstr "Joka 15. minuutti"
+
+msgid "nm_va_options_sync_power_20"
+msgstr "Akun taso: 20%"
+
+msgid "nm_va_options_sync_power_5"
+msgstr "Akun taso: 5%"
+
+msgid "nm_va_options_sync_power_never"
+msgstr "Ei koskaan"
+
+msgid "nm_va_options_sync_power_server"
+msgstr "Palvelimen arvo"
+
+msgid "nm_va_options_sync_power_server_battery_level"
+msgstr "Akun taso: %ld%%"
+
+msgid "nm_va_options_use_signature"
+msgstr "Käytä allekirjoitusta"
+
+msgid "nm_va_options_user_name"
+msgstr "Käyttäjänimi"
+
+msgid "nm_va_reset_data"
+msgstr ""
+"Laitteen tietojen korvaaminen palvelimen tiedoilla voi kestää useita "
+"minuutteja. Jatketaanko?"
+
+msgid "nm_va_saving_multimail_mailbox_settings"
+msgstr "Tarkistetaan muutettuja asetuksia"
+
+msgid "nm_wdgt_bd_delete"
+msgstr "Poista"
+
+msgid "nm_wdgt_bd_done"
+msgstr "Valmis"
+
+msgid "nm_wdgt_bd_save"
+msgstr "Tallenna"
+
+msgid "nm_wdgt_rb_no"
+msgstr "Ei"
+
+msgid "nm_wdgt_rb_yes"
+msgstr "Kyllä"

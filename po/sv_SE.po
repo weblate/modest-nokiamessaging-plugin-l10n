@@ -1,0 +1,649 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: modest-nokiamessaging-plugin 20091201100000\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.12.01 10:00-0400\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "nm_account_authentication"
+msgstr "Autentisering"
+
+msgid "nm_account_existing"
+msgstr "Befintligt konto"
+
+msgid "nm_account_existing_intro"
+msgstr ""
+"Det finns redan ett befintligt Nokia Messaging-konto som vidarebefordrar e-"
+"post till den här enheten."
+
+msgid "nm_account_existing_no_info"
+msgstr "Du kan kontrollera nya meddelanden manuellt"
+
+msgid "nm_account_existing_rb_no"
+msgstr "Skapa separat brevlåda"
+
+msgid "nm_account_existing_rb_yes"
+msgstr "Lägg till den här adressen till kontot"
+
+msgid "nm_account_setup_complete"
+msgstr ""
+"Kontoinställning är slutförd.\n"
+"\n"
+"Peka på Slutför för att spara. Du kan redigera dessa inställningar via "
+"Redigera konton på menyn."
+
+msgid "nm_account_setup_completing_email_setup"
+msgstr "Slutför e-postinställning"
+
+msgid "nm_account_setup_contacting_email_server"
+msgstr "Kontaktar e-postserver"
+
+msgid "nm_account_setup_email_adv_details"
+msgstr "Avancerade inställningar"
+
+msgid "nm_account_setup_email_delivery"
+msgstr "E-postleverans"
+
+msgid "nm_account_setup_email_details"
+msgstr "E-postdetaljer"
+
+msgid "nm_account_setup_getting_email_settings"
+msgstr "Hämtar e-postinställningar"
+
+msgid "nm_account_setup_retrieving_terms_conditions"
+msgstr "Hämtar Villkor för tjänsten"
+
+msgid "nm_account_setup_terms_conditions"
+msgstr "Villkor för tjänsten"
+
+msgid "nm_account_setup_validating"
+msgstr "Validerar"
+
+msgid "nm_authentication_failed"
+msgstr ""
+"Felaktigt användarnamn eller lösenord. Kontrollera inloggningsuppgifterna "
+"och försök igen."
+
+msgid "nm_authentication_subscriptionexpired"
+msgstr ""
+"Din prenumeration har upphört. Kontakta Nokia Care eller "
+"internetleverantören."
+
+msgid "nm_authentication_trialexpired"
+msgstr ""
+"Provperioden har gått ut. Kontakta Nokia Care eller internetleverantören."
+
+msgid "nm_bd_dialog_cancel"
+msgstr "Avbryt"
+
+msgid "nm_bd_dialog_ok"
+msgstr "Fortsätt"
+
+msgid "nm_bd_mailboxes"
+msgstr "Brevlådor"
+
+msgid "nm_bd_reset"
+msgstr "Återställ konto"
+
+msgid "nm_bd_service_info"
+msgstr "Tjänstinfo"
+
+msgid "nm_bd_synchronization"
+msgstr "Synkronisering"
+
+msgid "nm_cancel_not_allowed"
+msgstr "Åtgärden pågår. Vänta."
+
+msgid "nm_ckdg_ib_maximum_characters_reached"
+msgstr "Högsta antalet tecken har nåtts"
+
+msgid "nm_error_title"
+msgstr "Fel"
+
+msgid "nm_fi_day_friday"
+msgstr "Fredag"
+
+msgid "nm_fi_day_monday"
+msgstr "Måndag"
+
+msgid "nm_fi_day_saturday"
+msgstr "Lördag"
+
+msgid "nm_fi_day_sunday"
+msgstr "Söndag"
+
+msgid "nm_fi_day_thursday"
+msgstr "Torsdag"
+
+msgid "nm_fi_day_tuesday"
+msgstr "Tisdag"
+
+msgid "nm_fi_day_wednesday"
+msgstr "Onsdag"
+
+msgid "nm_fi_emailsetup_servername"
+msgstr "Servernamn"
+
+msgid "nm_fi_end_time"
+msgstr "Sluttid"
+
+msgid "nm_fi_options_access_point"
+msgstr "Åtkomstpunkt"
+
+msgid "nm_fi_options_addnewmailbox"
+msgstr "Lägg till ny brevlåda"
+
+msgid "nm_fi_options_days"
+msgstr "Dagar"
+
+msgid "nm_fi_options_delete"
+msgstr "Ta bort"
+
+msgid "nm_fi_options_drafts"
+msgstr "Synkronisera Utkast"
+
+msgid "nm_fi_options_edit"
+msgstr "Redigera"
+
+msgid "nm_fi_options_email_download_size"
+msgstr "Storlek på hämtningsbar fil"
+
+msgid "nm_fi_options_email_download_size_full_message"
+msgstr "Fullständigt meddelande"
+
+msgid "nm_fi_options_email_download_size_headers_only"
+msgstr "Endast rubriker"
+
+msgid "nm_fi_options_email_download_size_headers_plus"
+msgstr "Ofullständigt meddelande"
+
+msgid "nm_fi_options_email_remove_older_than"
+msgstr "Ta bort objekt äldre än"
+
+msgid "nm_fi_options_hours"
+msgstr "Timmar"
+
+msgid "nm_fi_options_inbox"
+msgstr "Synkronisera Inkorg"
+
+msgid "nm_fi_options_password"
+msgstr "Lösenord"
+
+msgid "nm_fi_options_password_required"
+msgstr "Lösenord krävs för att byta namn"
+
+msgid "nm_fi_options_reset_data"
+msgstr "Återställ data"
+
+msgid "nm_fi_options_sent_items"
+msgstr "Synkronisera Skickade"
+
+msgid "nm_fi_options_server_name"
+msgstr "Servernamn"
+
+msgid "nm_fi_options_signature"
+msgstr "Signatur"
+
+msgid "nm_fi_options_start"
+msgstr "Starta"
+
+msgid "nm_fi_options_sync_days"
+msgstr "Nokia Messaging: Synkronisera dagar"
+
+msgid "nm_fi_options_sync_interval"
+msgstr "Skicka och ta emot"
+
+msgid "nm_fi_options_sync_power"
+msgstr "Inaktivera synkronisera när"
+
+msgid "nm_fi_options_sync_while_roaming"
+msgstr "Synkronisera under roaming"
+
+msgid "nm_fi_options_use_secure_login_incoming"
+msgstr "Säker inloggning för inkommande server"
+
+msgid "nm_fi_options_use_secure_login_outgoing"
+msgstr "Säker inloggning för utgående server"
+
+msgid "nm_fi_options_user_name"
+msgstr "Användarnamn"
+
+msgid "nm_fi_start_time"
+msgstr "Starttid"
+
+msgid "nm_fi_sync_days_all"
+msgstr "Varje dag"
+
+msgid "nm_fi_sync_days_custom"
+msgstr "Anpassad"
+
+msgid "nm_fi_sync_days_never"
+msgstr "Aldrig"
+
+msgid "nm_fi_sync_days_weekdays"
+msgstr "Veckodagar"
+
+msgid "nm_fi_sync_days_weekends"
+msgstr "Helger"
+
+msgid "nm_fi_sync_drafts"
+msgstr "Synkronisera Utkast"
+
+msgid "nm_fi_sync_inbox"
+msgstr "Synkronisera Inkorg"
+
+msgid "nm_fi_sync_read_server_enabled"
+msgstr "Markera meddelanden som lästa på servern"
+
+msgid "nm_fi_sync_sent_items"
+msgstr "Synkronisera Skickade"
+
+msgid "nm_ib_advsetup_settings_saved"
+msgstr "Inställningar sparade"
+
+msgid "nm_ib_daemon_not_connected"
+msgstr "Nokia messaging daemon ej tillgänglig"
+
+msgid "nm_imum_nc_wizard_confirm_lose_changes"
+msgstr ""
+"Alla ändringar i inställningarna försvinner.\n"
+"Vill du fortsätta ändå?"
+
+msgid "nm_initializing_synchronization"
+msgstr "Initierar synkronisering"
+
+msgid "nm_invalid_server_settings"
+msgstr ""
+"Det gick inte att kontakta e-postleverantören. Kontrollera inställningarna."
+
+msgid "nm_mail_de_intro_bundle"
+msgstr ""
+"Godkänn Villkor för tjänsten för att aktivera ditt Nokia Messaging-konto och "
+"få din e-post levererad automatiskt."
+
+msgid "nm_mail_de_intro_default"
+msgstr ""
+"Nokia Messaging är en prenumerationstjänst som automatiskt vidarebefordrar "
+"din e-post till din inkorg. Registrera nu för kostnadsfritt medlemskap."
+
+msgid "nm_mail_de_intro_isp"
+msgstr ""
+"Nokia Messaging är en prenumerationstjänst som fungerar med din e-"
+"postleverantör och automatiskt vidarebefordrar e-post till din inkorg. "
+"Registrera nu för kostnadsfritt medlemskap."
+
+msgid "nm_mail_de_no"
+msgstr "Nej tack"
+
+msgid "nm_mail_de_password"
+msgstr "Lösenord"
+
+msgid "nm_mail_de_tos_link"
+msgstr ""
+"Genom att peka på Nästa godkänner jag alla [Villkor för tjänsten] för det "
+"här provkontot."
+
+msgid "nm_mail_de_tos_link_bundle"
+msgstr ""
+"Genom att peka på Nästa godkänner jag alla [Villkor för tjänsten för Nokia "
+"Messaging]."
+
+msgid "nm_mail_de_tos_link_manual_text"
+msgstr "Du kan kontrollera nya meddelanden manuellt."
+
+msgid "nm_mail_de_yes"
+msgstr "Ja! Jag vill registrera ett konto."
+
+msgid "nm_mail_de_yes_bundle"
+msgstr "Aktivera mitt konto"
+
+msgid "nm_mail_fi_email_address"
+msgstr "E-postadress"
+
+msgid "nm_mail_fi_incoming_port"
+msgstr "Inkommande port"
+
+msgid "nm_mail_fi_incoming_server"
+msgstr "Inkommande server"
+
+msgid "nm_mail_fi_mailbox_name"
+msgstr "Brevlådans namn"
+
+msgid "nm_mail_fi_my_name"
+msgstr "Mitt namn"
+
+msgid "nm_mail_fi_outgoing_port"
+msgstr "Utgående port"
+
+msgid "nm_mail_fi_outgoing_server"
+msgstr "Utgående server"
+
+msgid "nm_mail_fi_password"
+msgstr "Lösenord"
+
+msgid "nm_mail_fi_password_prompt"
+msgstr ""
+"Det angivna lösenordet är felaktigt. Ange rätt lösenord för att slutföra "
+"inställningen av Nokia Messaging-kontot."
+
+msgid "nm_mail_fi_user_name"
+msgstr "Användarnamn"
+
+msgid "nm_mail_fi_username"
+msgstr "Användarnamn"
+
+msgid "nm_mail_fi_username_hint"
+msgstr "Krävs av vissa internetleverantörer"
+
+msgid "nm_mail_fi_username_password_prompt"
+msgstr ""
+"E-postadressen är redan associerad med ett Nokia Messaging-konto. Ange "
+"inloggningsuppgifterna till Nokia Messaging för att slutföra e-"
+"postinställningen."
+
+msgid "nm_mail_ib_setting_failed"
+msgstr "Det gick inte att spara inställningarna"
+
+msgid "nm_mail_type"
+msgstr "E-posttyp"
+
+msgid "nm_mail_type_imap"
+msgstr "IMAP"
+
+msgid "nm_mail_type_pop"
+msgstr "POP"
+
+msgid "nm_me_folder_drafts"
+msgstr "Utkast"
+
+msgid "nm_me_folder_inbox"
+msgstr "Inkorgen"
+
+msgid "nm_me_folder_sent"
+msgstr "Skickat"
+
+msgid "nm_me_inbox_options"
+msgstr "Inställningar"
+
+msgid "nm_me_inbox_options_global"
+msgstr "<Ursprungligt protokoll>"
+
+msgid "nm_me_inbox_options_nes"
+msgstr "Nokia Messaging"
+
+msgid "nm_nms_cannot_download_attachment"
+msgstr "Bilaga är för stor för att hämtas"
+
+msgid "nm_nms_downloading_attachment"
+msgstr "Hämtar"
+
+msgid "nm_nms_password_prompt"
+msgstr ""
+"Ange lösenordet till Nokia Messaging. Det här är lösenordet för den första e-"
+"postadressen som konfigureras för Nokia Messaging."
+
+msgid "nm_ods_email_intro"
+msgstr ""
+"Din e-postadress och teknisk information som enhetens ID kommer att skickas "
+"till Nokia. Nokia behandlar eller lagrar ingen personlig information efter "
+"aktivering utan ditt medgivande."
+
+msgid "nm_ods_error_account_locked"
+msgstr ""
+"Kontot blockerat p.g.a. för många misslyckade inloggningsförsök. Kontakta "
+"Nokia Care eller internetleverantören."
+
+msgid "nm_ods_error_cant_setup"
+msgstr ""
+"Problem vid konfiguration av brevlåda. Kontrollera inställningarna och "
+"försök igen senare."
+
+msgid "nm_ods_error_generic"
+msgstr ""
+"Problem vid konfiguration av brevlåda. Kontrollera inställningarna och "
+"försök igen senare. (%04x)"
+
+msgid "nm_ods_error_restart"
+msgstr "Konfigurationen startar om (%04lX)"
+
+msgid "nm_ods_phone_number"
+msgstr "Telefonnummer"
+
+msgid "nm_ods_phone_number_required"
+msgstr "Ange ditt telefonnummer för att autentisera e-postkonfigurering"
+
+msgid "nm_ods_setup_failed_emailid_exists_else_where"
+msgstr ""
+"E-postadressen är redan registrerad med ett annat Nokia Messaging-konto"
+
+msgid "nm_ods_setup_failed_notenabled"
+msgstr ""
+"Ditt konto är inte aktiverat. Kontakta Nokia Care eller internetleverantören."
+
+msgid "nm_ods_unable_to_connect"
+msgstr ""
+"Konfigurationsguiden kan inte ansluta till e-postservern med den angivna "
+"informationen."
+
+msgid "nm_reset_account"
+msgstr "Återställ"
+
+msgid "nm_set_up_mail_at_later_time"
+msgstr "Konfigurera senare"
+
+msgid "nm_set_up_mailbox_anyway"
+msgstr "Konfigurera brevlådan ändå"
+
+msgid "nm_set_up_mailbox_anyway_help_text"
+msgstr ""
+"Anslutning kan vara möjlig när du kontrollerat lösenordet eller justerat "
+"andra inställningar."
+
+msgid "nm_sync_hours_customize"
+msgstr "Anpassa"
+
+msgid "nm_sync_hours_on_all_day"
+msgstr "Hela dagen"
+
+msgid "nm_synchronizing"
+msgstr "Synkroniserar"
+
+msgid "nm_ti_intellisync_settings"
+msgstr "Inställningar för Nokia Messaging"
+
+msgid "nm_ti_intellisync_settings_mailboxes"
+msgstr "Nokia Messaging: Brevlådor"
+
+msgid "nm_ti_intellisync_settings_synchronization"
+msgstr "Nokia Messaging: Synkronisering"
+
+msgid "nm_ti_mailbox_settings"
+msgstr "Brevlådans inställningar"
+
+msgid "nm_ti_options_mailbox_account"
+msgstr "Konto"
+
+msgid "nm_ti_options_mailbox_user_info"
+msgstr "Användarinfo"
+
+msgid "nm_ti_options_mailboxes"
+msgstr "Brevlådor"
+
+msgid "nm_ti_options_native_protocol"
+msgstr "Inställningar för <Ursprungligt protokoll>"
+
+msgid "nm_ti_options_nokia_email"
+msgstr "Inställningar för Nokia Messaging"
+
+msgid "nm_ti_options_service_info"
+msgstr "Tjänstinfo"
+
+msgid "nm_ti_options_serviceinfo"
+msgstr "Tjänstinfo"
+
+msgid "nm_ti_options_what_to_sync"
+msgstr "Synkroniseringsinnehåll"
+
+msgid "nm_ti_options_when_to_sync"
+msgstr "Synkroniseringstillfälle"
+
+msgid "nm_try_different_email_address"
+msgstr "Försök med en annan e-postadress"
+
+msgid "nm_unable_to_set_up_this_mailbox_with_info_provided"
+msgstr ""
+"Det gick inte att konfigurera den här brevlådan med den angivna informationen"
+
+msgid "nm_use_secure_login"
+msgstr "Använd säker inloggning"
+
+msgid "nm_va_delete_message_service"
+msgstr ""
+"Vill du ta bort tjänsten Nokia Messaging och alla associerade brevlådor?"
+
+msgid "nm_va_delete_multimail_mailbox"
+msgstr ""
+"Ta bort från enheten?\n"
+"'%s'"
+
+msgid "nm_va_delete_nokia_messaging"
+msgstr ""
+"Vill du ta bort tjänsten Nokia Messaging och alla associerade brevlådor från "
+"enheten?"
+
+msgid "nm_va_deleting_multimail_mailbox"
+msgstr ""
+"Tar bort brevlådan\n"
+"'%s'"
+
+msgid "nm_va_intellisync"
+msgstr "Nokia Messaging"
+
+msgid "nm_va_multimail_mailbox_added_message"
+msgstr ""
+"Den nya brevlådan kommer att vara tillgänglig efter nästa synkronisering mot "
+"e-postservern"
+
+msgid "nm_va_multimail_mailbox_delete_failed"
+msgstr "Det gick inte att ta bort brevlådan"
+
+msgid "nm_va_multimail_mailbox_password_change_failed"
+msgstr "Det gick inte att byta namn. Kontrollera lösenordet och försök igen."
+
+msgid "nm_va_multimail_mailbox_removed_message"
+msgstr ""
+"Den valda brevlådan kommer att tas bort efter nästa synkronisering mot e-"
+"postservern."
+
+msgid "nm_va_options_access_point_default"
+msgstr "Standard"
+
+msgid "nm_va_options_older_than_1_month"
+msgstr "1 månad"
+
+msgid "nm_va_options_older_than_1_week"
+msgstr "1 vecka"
+
+msgid "nm_va_options_older_than_2_weeks"
+msgstr "2 veckor"
+
+msgid "nm_va_options_older_than_3_days"
+msgstr "3 dagar"
+
+msgid "nm_va_options_older_than_5_days"
+msgstr "5 dagar"
+
+msgid "nm_va_options_server_name"
+msgstr "Servernamn"
+
+msgid "nm_va_options_service_info"
+msgstr "Nokia Messaging: Tjänstinformation"
+
+msgid "nm_va_options_signature"
+msgstr "Signatur"
+
+msgid "nm_va_options_signature_default_text"
+msgstr "Skickat från min Nokia N900 med Nokia Messaging"
+
+msgid "nm_va_options_signature_for_mailbox_name"
+msgstr "Signatur för %s"
+
+msgid "nm_va_options_sync_hours_all_day"
+msgstr "Hela dagen"
+
+msgid "nm_va_options_sync_hours_custom_time"
+msgstr "Nokia Messaging: Synkronisera timmar"
+
+msgid "nm_va_options_sync_hours_customize"
+msgstr "Anpassa"
+
+msgid "nm_va_options_sync_interval_12_hours"
+msgstr "Var 12:e timme"
+
+msgid "nm_va_options_sync_interval_1_day"
+msgstr "Var 24:e timme"
+
+msgid "nm_va_options_sync_interval_1_hour"
+msgstr "Varje timme"
+
+msgid "nm_va_options_sync_interval_4_hours"
+msgstr "Var 4:e timme"
+
+msgid "nm_va_options_sync_interval_half_hour"
+msgstr "Var 30:e minut"
+
+msgid "nm_va_options_sync_interval_push"
+msgstr "Så snart som möjligt"
+
+msgid "nm_va_options_sync_interval_qtr_hour"
+msgstr "Var 15:e minut"
+
+msgid "nm_va_options_sync_power_20"
+msgstr "Batteri på 20 %"
+
+msgid "nm_va_options_sync_power_5"
+msgstr "Batteri på 5 %"
+
+msgid "nm_va_options_sync_power_never"
+msgstr "Aldrig"
+
+msgid "nm_va_options_sync_power_server"
+msgstr "Servervärde"
+
+msgid "nm_va_options_sync_power_server_battery_level"
+msgstr "Batteri på %ld%%"
+
+msgid "nm_va_options_use_signature"
+msgstr "Använd signatur"
+
+msgid "nm_va_options_user_name"
+msgstr "Användarnamn"
+
+msgid "nm_va_reset_data"
+msgstr ""
+"Ersättning av data på enheten med data från servern kan ta flera minuter. "
+"Fortsätta?"
+
+msgid "nm_va_saving_multimail_mailbox_settings"
+msgstr "Bekräftar ändrade inställningar"
+
+msgid "nm_wdgt_bd_delete"
+msgstr "Ta bort"
+
+msgid "nm_wdgt_bd_done"
+msgstr "OK"
+
+msgid "nm_wdgt_bd_save"
+msgstr "Spara"
+
+msgid "nm_wdgt_rb_no"
+msgstr "Nej"
+
+msgid "nm_wdgt_rb_yes"
+msgstr "Ja"

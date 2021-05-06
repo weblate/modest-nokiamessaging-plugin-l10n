@@ -1,0 +1,119 @@
+Source: modest-nokiamessaging-plugin-l10n
+Section: misc
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.3.0
+
+Package: modest-nokiamessaging-plugin-l10n-mr0
+Section: misc
+Architecture: all
+Provides: modest-nokiamessaging-plugin-l10n-mr
+Depends: modest-nokiamessaging-plugin-l10n-ruru, modest-nokiamessaging-plugin-l10n-frfr, modest-nokiamessaging-plugin-l10n-frca, modest-nokiamessaging-plugin-l10n-dadk, modest-nokiamessaging-plugin-l10n-itit, modest-nokiamessaging-plugin-l10n-svse, modest-nokiamessaging-plugin-l10n-nono, modest-nokiamessaging-plugin-l10n-fifi, modest-nokiamessaging-plugin-l10n-nlnl, modest-nokiamessaging-plugin-l10n-enus, modest-nokiamessaging-plugin-l10n-dede, modest-nokiamessaging-plugin-l10n-esmx, modest-nokiamessaging-plugin-l10n-eses, modest-nokiamessaging-plugin-l10n-cscz, modest-nokiamessaging-plugin-l10n-ptpt, modest-nokiamessaging-plugin-l10n-engb, modest-nokiamessaging-plugin-l10n-plpl
+Description: modest-nokiamessaging-plugin marketing release package
+ This is a metapackage for modest-nokiamessaging-plugin to pull all the l10n packages.
+ Application developers of modest-nokiamessaging-plugin should depend on
+ "modest-nokiamessaging-plugin-l10n-mr0 | modest-nokiamessaging-plugin-l10n-mr"
+ to ensure correct locales are getting installed.
+
+Package: modest-nokiamessaging-plugin-l10n-cscz
+Section: misc
+Architecture: all
+Description: language files for modest-nokiamessaging-plugin (cs_CZ)
+ Language files for cs_CZ modest-nokiamessaging-plugin.
+
+Package: modest-nokiamessaging-plugin-l10n-dadk
+Section: misc
+Architecture: all
+Description: language files for modest-nokiamessaging-plugin (da_DK)
+ Language files for da_DK modest-nokiamessaging-plugin.
+
+Package: modest-nokiamessaging-plugin-l10n-dede
+Section: misc
+Architecture: all
+Description: language files for modest-nokiamessaging-plugin (de_DE)
+ Language files for de_DE modest-nokiamessaging-plugin.
+
+Package: modest-nokiamessaging-plugin-l10n-engb
+Section: misc
+Architecture: all
+Description: language files for modest-nokiamessaging-plugin (en_GB)
+ Language files for en_GB modest-nokiamessaging-plugin.
+
+Package: modest-nokiamessaging-plugin-l10n-enus
+Section: misc
+Architecture: all
+Description: language files for modest-nokiamessaging-plugin (en_US)
+ Language files for en_US modest-nokiamessaging-plugin.
+
+Package: modest-nokiamessaging-plugin-l10n-eses
+Section: misc
+Architecture: all
+Description: language files for modest-nokiamessaging-plugin (es_ES)
+ Language files for es_ES modest-nokiamessaging-plugin.
+
+Package: modest-nokiamessaging-plugin-l10n-esmx
+Section: misc
+Architecture: all
+Description: language files for modest-nokiamessaging-plugin (es_MX)
+ Language files for es_MX modest-nokiamessaging-plugin.
+
+Package: modest-nokiamessaging-plugin-l10n-fifi
+Section: misc
+Architecture: all
+Description: language files for modest-nokiamessaging-plugin (fi_FI)
+ Language files for fi_FI modest-nokiamessaging-plugin.
+
+Package: modest-nokiamessaging-plugin-l10n-frca
+Section: misc
+Architecture: all
+Description: language files for modest-nokiamessaging-plugin (fr_CA)
+ Language files for fr_CA modest-nokiamessaging-plugin.
+
+Package: modest-nokiamessaging-plugin-l10n-frfr
+Section: misc
+Architecture: all
+Description: language files for modest-nokiamessaging-plugin (fr_FR)
+ Language files for fr_FR modest-nokiamessaging-plugin.
+
+Package: modest-nokiamessaging-plugin-l10n-itit
+Section: misc
+Architecture: all
+Description: language files for modest-nokiamessaging-plugin (it_IT)
+ Language files for it_IT modest-nokiamessaging-plugin.
+
+Package: modest-nokiamessaging-plugin-l10n-nlnl
+Section: misc
+Architecture: all
+Description: language files for modest-nokiamessaging-plugin (nl_NL)
+ Language files for nl_NL modest-nokiamessaging-plugin.
+
+Package: modest-nokiamessaging-plugin-l10n-nono
+Section: misc
+Architecture: all
+Description: language files for modest-nokiamessaging-plugin (no_NO)
+ Language files for no_NO modest-nokiamessaging-plugin.
+
+Package: modest-nokiamessaging-plugin-l10n-plpl
+Section: misc
+Architecture: all
+Description: language files for modest-nokiamessaging-plugin (pl_PL)
+ Language files for pl_PL modest-nokiamessaging-plugin.
+
+Package: modest-nokiamessaging-plugin-l10n-ptpt
+Section: misc
+Architecture: all
+Description: language files for modest-nokiamessaging-plugin (pt_PT)
+ Language files for pt_PT modest-nokiamessaging-plugin.
+
+Package: modest-nokiamessaging-plugin-l10n-ruru
+Section: misc
+Architecture: all
+Description: language files for modest-nokiamessaging-plugin (ru_RU)
+ Language files for ru_RU modest-nokiamessaging-plugin.
+
+Package: modest-nokiamessaging-plugin-l10n-svse
+Section: misc
+Architecture: all
+Description: language files for modest-nokiamessaging-plugin (sv_SE)
+ Language files for sv_SE modest-nokiamessaging-plugin.
