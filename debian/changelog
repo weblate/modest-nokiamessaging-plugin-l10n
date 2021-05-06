@@ -1,3 +1,9 @@
+modest-nokiamessaging-plugin-l10n (7.1) unreleased; urgency=medium
+
+  * Tag new release
+
+ -- Ivan J. <parazyd@dyne.org>  Thu, 06 May 2021 23:04:09 +0200
+
 modest-nokiamessaging-plugin-l10n (7.0) unstable; urgency=medium
 
   * Initial Maemo Leste packaging
