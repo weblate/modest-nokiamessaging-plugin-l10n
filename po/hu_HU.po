@@ -1,0 +1,583 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: modest-nokiamessaging-plugin 20090818210000\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-02-04 22:23+0100\n"
+"Last-Translator: attilaposa <laposa@pannongsm.hu>\n"
+"Language-Team: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "nm_account_authentication"
+msgstr "Hitelesítés"
+
+msgid "nm_account_existing"
+msgstr "A fiók létezik"
+
+msgid "nm_account_existing_intro"
+msgstr "Nokia Messaging fiók az e-mailek továbbításához erre az eszközre már létezik."
+
+msgid "nm_account_existing_no_info"
+msgstr "Az új üzeneteket manuálisan ellenőrizheted"
+
+msgid "nm_account_existing_rb_no"
+msgstr "Önálló postafiók létrehozása"
+
+msgid "nm_account_existing_rb_yes"
+msgstr "Cím fiókhoz adása"
+
+msgid "nm_account_setup_complete"
+msgstr ""
+"Fiók beállítása befejezve.\n"
+"\n"
+"Kattints a 'Befejez'-re a mentéshez. Ezeket a beállításokat módosíthatod a menü 'Fiókok szerkesztése' pontjában."
+
+msgid "nm_account_setup_completing_email_setup"
+msgstr "E-mail beállítás befejezése"
+
+msgid "nm_account_setup_contacting_email_server"
+msgstr "Csatlakozás az e-mail kiszolgálóhoz"
+
+msgid "nm_account_setup_email_adv_details"
+msgstr "Haladó beállítások"
+
+msgid "nm_account_setup_email_delivery"
+msgstr "Email kézbesítés"
+
+msgid "nm_account_setup_email_details"
+msgstr "E-mail tulajdonságok"
+
+msgid "nm_account_setup_getting_email_settings"
+msgstr "E-mail beállítások beszerzése"
+
+msgid "nm_account_setup_retrieving_terms_conditions"
+msgstr "Szolgáltatási feltételek fogadása"
+
+msgid "nm_account_setup_terms_conditions"
+msgstr "Szolgáltatási feltételek"
+
+msgid "nm_account_setup_validating"
+msgstr "Érvényesítés"
+
+msgid "nm_authentication_subscriptionexpired"
+msgstr "Előfizetésed lejárt. Vedd fel a kapcsolatot a Nokia Ügyfélszolgálattal vagy internet szolgáltatóddal."
+
+msgid "nm_authentication_trialexpired"
+msgstr "A kipróbálás ideje lejárt. Vedd fel a kapcsolatot a Nokia Ügyfélszolgálattal vagy internet szolgáltatóddal."
+
+msgid "nm_bd_dialog_cancel"
+msgstr "Mégsem"
+
+msgid "nm_bd_dialog_ok"
+msgstr "Tovább"
+
+msgid "nm_bd_mailboxes"
+msgstr "Postafiókok"
+
+msgid "nm_bd_reset"
+msgstr "Fiók ürítése"
+
+msgid "nm_bd_service_info"
+msgstr "Szolgáltatás információ"
+
+msgid "nm_bd_synchronization"
+msgstr "Szinkronizálás"
+
+msgid "nm_cancel_not_allowed"
+msgstr "Művelet folyamatban. Kérlek várj."
+
+msgid "nm_ckdg_ib_maximum_characters_reached"
+msgstr "Elérted a karakterek maximális számát"
+
+msgid "nm_error_title"
+msgstr "Hiba"
+
+msgid "nm_fi_day_friday"
+msgstr "Péntek"
+
+msgid "nm_fi_day_monday"
+msgstr "Hétfő"
+
+msgid "nm_fi_day_saturday"
+msgstr "Szombat"
+
+msgid "nm_fi_day_sunday"
+msgstr "Vasárnap"
+
+msgid "nm_fi_day_thursday"
+msgstr "Csütörtök"
+
+msgid "nm_fi_day_tuesday"
+msgstr "Kedd"
+
+msgid "nm_fi_day_wednesday"
+msgstr "Szerda"
+
+msgid "nm_fi_emailsetup_servername"
+msgstr "Kiszolgáló név"
+
+msgid "nm_fi_end_time"
+msgstr "Leállítás ideje"
+
+msgid "nm_fi_options_access_point"
+msgstr "Hozzáférési pont"
+
+msgid "nm_fi_options_addnewmailbox"
+msgstr "Új postafiók hozzáadása"
+
+msgid "nm_fi_options_days"
+msgstr "Napok"
+
+msgid "nm_fi_options_delete"
+msgstr "Törlés"
+
+msgid "nm_fi_options_drafts"
+msgstr "Piszkozatok szinkronizálása"
+
+msgid "nm_fi_options_edit"
+msgstr "Szerkesztés"
+
+msgid "nm_fi_options_email_download_size"
+msgstr "Letöltési méret"
+
+msgid "nm_fi_options_email_download_size_full_message"
+msgstr "Teljes üzenet"
+
+msgid "nm_fi_options_email_download_size_headers_only"
+msgstr "Csak fejléc"
+
+msgid "nm_fi_options_email_download_size_headers_plus"
+msgstr "Üzenet részlet"
+
+msgid "nm_fi_options_email_remove_older_than"
+msgstr "Elemek eltávolítása, melyek régebbiek mint"
+
+msgid "nm_fi_options_hours"
+msgstr "Órák"
+
+msgid "nm_fi_options_inbox"
+msgstr "Bejövő szinkronizálása"
+
+msgid "nm_fi_options_password"
+msgstr "Jelszó"
+
+msgid "nm_fi_options_password_required"
+msgstr "A név megváltoztatásához jelszó szükséges"
+
+msgid "nm_fi_options_reset_data"
+msgstr "Adatok törlése"
+
+msgid "nm_fi_options_sent_items"
+msgstr "Küldött elemek szinkronizálása"
+
+msgid "nm_fi_options_server_name"
+msgstr "Kiszolgáló név"
+
+msgid "nm_fi_options_signature"
+msgstr "Aláírás"
+
+msgid "nm_fi_options_start"
+msgstr "Indítás"
+
+msgid "nm_fi_options_sync_days"
+msgstr "Nokia Messaging: Szinkonizációs napok"
+
+msgid "nm_fi_options_sync_interval"
+msgstr "Küldés és fogadás"
+
+msgid "nm_fi_options_sync_power"
+msgstr "Szinkronizálás tiltása amikor"
+
+msgid "nm_fi_options_sync_while_roaming"
+msgstr "Szinkronizálás roaming alatt"
+
+msgid "nm_fi_options_use_secure_login_incoming"
+msgstr "Biztonságos bejelentkezés használata a bejövő kiszolgálóhoz"
+
+msgid "nm_fi_options_use_secure_login_outgoing"
+msgstr "Biztonságos bejelentkezés használata a kimenő kiszolgálóhoz"
+
+msgid "nm_fi_options_user_name"
+msgstr "Felhasználónév"
+
+msgid "nm_fi_start_time"
+msgstr "Indítás ideje"
+
+msgid "nm_fi_sync_days_all"
+msgstr "Minden nap"
+
+msgid "nm_fi_sync_days_custom"
+msgstr "Testreszabott"
+
+msgid "nm_fi_sync_days_never"
+msgstr "Soha"
+
+msgid "nm_fi_sync_days_weekdays"
+msgstr "Hétköznap"
+
+msgid "nm_fi_sync_days_weekends"
+msgstr "Hétvége"
+
+msgid "nm_fi_sync_drafts"
+msgstr "Piszkozatok szinkronizálása"
+
+msgid "nm_fi_sync_inbox"
+msgstr "Bejövő szinkronizálása"
+
+msgid "nm_fi_sync_read_server_enabled"
+msgstr "Üzenet megjelölése olvasottként a kiszolgálón"
+
+msgid "nm_fi_sync_sent_items"
+msgstr "Küldött elemek szinkronizálása"
+
+msgid "nm_ib_advsetup_settings_saved"
+msgstr "Beállítások elmentve"
+
+msgid "nm_ib_daemon_not_connected"
+msgstr "Nokia messaging kiszolgáló nem elérhető"
+
+msgid "nm_imum_nc_wizard_confirm_lose_changes"
+msgstr ""
+"Minden változás el fog veszni.\n"
+"Mégis folytatod?"
+
+msgid "nm_mail_de_intro_bundle"
+msgstr "Az Nokia Messaging fiókod aktiválásához és hogy üzeneteid automatikusan kézbesítésre kerüljenek el kell fogadnod a Szolgáltatási feltételeket."
+
+msgid "nm_mail_de_intro_default"
+msgstr "A Nokia Messaging egy előfizetéses szolgáltatás, hogy üzeneteid automatikusa továbbításra kerüljenek a bejövő postafiókodba. Előfizethetsz most erre extra költség nélkül."
+
+msgid "nm_mail_de_intro_isp"
+msgstr "A Nokia Messaging egy előfizetéses szolgáltatás, ami együttműködik az e-mail szolgáltatóddal és üzeneteid továbbításra kerülnek a bejövő postafiókodba. Előfizethetsz most erre extra költség nélkül."
+
+msgid "nm_mail_de_no"
+msgstr "Nem köszönöm"
+
+msgid "nm_mail_de_password"
+msgstr "Jelszó"
+
+msgid "nm_mail_de_tos_link"
+msgstr "A 'Tovább'-ra kattintva elfogadom a teljes [Terms of Service] erre a próbaváltozatra."
+
+msgid "nm_mail_de_tos_link_bundle"
+msgstr "A 'Tovább'-ra kattintva elfogadom a teljes [Nokia Messaging Terms of Service]."
+
+msgid "nm_mail_de_tos_link_manual_text"
+msgstr "Az új üzeneteket manuálisan ellenőrizheted."
+
+msgid "nm_mail_de_yes"
+msgstr "Igen, szereték feliratkozni."
+
+msgid "nm_mail_de_yes_bundle"
+msgstr "Fiókom aktiválása"
+
+msgid "nm_mail_fi_email_address"
+msgstr "E-mail cím"
+
+msgid "nm_mail_fi_incoming_port"
+msgstr "Bejövő port"
+
+msgid "nm_mail_fi_incoming_server"
+msgstr "Bejövő kiszolgáló"
+
+msgid "nm_mail_fi_mailbox_name"
+msgstr "Postafiók neve"
+
+msgid "nm_mail_fi_my_name"
+msgstr "Nevem"
+
+msgid "nm_mail_fi_outgoing_port"
+msgstr "Kimenő port"
+
+msgid "nm_mail_fi_outgoing_server"
+msgstr "Kimenő kiszolgáló"
+
+msgid "nm_mail_fi_password"
+msgstr "Jelszó"
+
+msgid "nm_mail_fi_password_prompt"
+msgstr "A megadott jelszó érvénytelen. Add meg a helyes jelszót a Nokia Messaging fiók beállításának befejezéséhez."
+
+msgid "nm_mail_fi_user_name"
+msgstr "Felhasználónév"
+
+msgid "nm_mail_fi_username"
+msgstr "Felhasználónév"
+
+msgid "nm_mail_fi_username_hint"
+msgstr "Néhány internet szolgáltató kéri"
+
+msgid "nm_mail_fi_username_password_prompt"
+msgstr "Az e-mail cím már regisztrálva van egy Nokia Messaging fiókhoz. Add meg a Nokia Messaging fiók azonosítóit a beállítás befejezéséhez."
+
+msgid "nm_mail_ib_setting_failed"
+msgstr "A beállításokat nem lehet elmenteni"
+
+msgid "nm_mail_type"
+msgstr "E-mail típusa"
+
+msgid "nm_mail_type_imap"
+msgstr "IMAP"
+
+msgid "nm_mail_type_pop"
+msgstr "POP"
+
+msgid "nm_me_folder_drafts"
+msgstr "Piszkozat"
+
+msgid "nm_me_folder_inbox"
+msgstr "Bejövő"
+
+msgid "nm_me_folder_sent"
+msgstr "Küldött elemek"
+
+msgid "nm_me_inbox_options"
+msgstr "Beállítások"
+
+msgid "nm_me_inbox_options_global"
+msgstr "<Native protocol>"
+
+msgid "nm_me_inbox_options_nes"
+msgstr "Nokia Messaging"
+
+msgid "nm_nms_cannot_download_attachment"
+msgstr "A melléklet túl nagy a letöltéshez"
+
+msgid "nm_nms_downloading_attachment"
+msgstr "Letöltés"
+
+msgid "nm_nms_password_prompt"
+msgstr "Add meg Nokia Messaging jelszavad. Ez a beállítandó első e-mail címed jelszava."
+
+msgid "nm_ods_email_intro"
+msgstr "E-mail címed egyéb technikai információkkal (pl. eszköz azonosító) elküldésre kerülnek a Nokia-nak. A Nokia nem fogja használni vagy tárolni adataid az aktiválás után a beleegyezésed nélkül."
+
+msgid "nm_ods_error_account_locked"
+msgstr "Sikertelen bejelentkezések miatt a fiók zárolva. Vedd fel a kapcsolatot a Nokia Ügyfélszolgálattal vagy az internet szolgáltatóddal."
+
+msgid "nm_ods_error_cant_setup"
+msgstr "Probléma a postafiók beállításakor. Ellenőrizd a beállításokat és próbáld meg később."
+
+msgid "nm_ods_error_generic"
+msgstr "Probléma a postafiók beállításakor. Ellenőrizd a beállításokat és próbáld meg később. (%04x)"
+
+msgid "nm_ods_error_restart"
+msgstr "A Beállítás újra indul (%04lX)"
+
+msgid "nm_ods_phone_number"
+msgstr "Telefonszám"
+
+msgid "nm_ods_phone_number_required"
+msgstr "Add meg a telefonszámod az e-mail beállítások hitelesítéséhez"
+
+msgid "nm_ods_setup_failed_emailid_exists_else_where"
+msgstr "Ez az e-mail cím már regisztrálva van egy másik Nokia Messaging fiókhoz"
+
+msgid "nm_ods_setup_failed_notenabled"
+msgstr "Fiókod nincs engedélyezve. Vedd fel a kapcsolatot a Nokia Ügyfélszolgálattal vagy az internet szolgáltatóddal."
+
+msgid "nm_ods_unable_to_connect"
+msgstr "A beállítás varázsló nem tud csatlakozni az e-mail kiszolgálóhoz a megadott adatokkal."
+
+msgid "nm_reset_account"
+msgstr "Reset"
+
+msgid "nm_set_up_mail_at_later_time"
+msgstr "Beállítás később"
+
+msgid "nm_set_up_mailbox_anyway"
+msgstr "Postafiók beállítása valahogy"
+
+msgid "nm_set_up_mailbox_anyway_help_text"
+msgstr "Csatlakozás a jelszó ellenőrzése vagy egyéb beállítások módosítása után lehetséges."
+
+msgid "nm_sync_hours_customize"
+msgstr "Testreszabás"
+
+msgid "nm_sync_hours_on_all_day"
+msgstr "Egész nap"
+
+msgid "nm_ti_intellisync_settings"
+msgstr "Nokia Messaging beállítás"
+
+msgid "nm_ti_intellisync_settings_mailboxes"
+msgstr "Nokia Messaging: Postafiókok"
+
+msgid "nm_ti_intellisync_settings_synchronization"
+msgstr "Nokia Messaging: Szinkronizálás"
+
+msgid "nm_ti_mailbox_settings"
+msgstr "Postafiók beállítások"
+
+msgid "nm_ti_options_mailbox_account"
+msgstr "Fiók"
+
+msgid "nm_ti_options_mailbox_user_info"
+msgstr "Felhasználói információ"
+
+msgid "nm_ti_options_mailboxes"
+msgstr "Postafiókok"
+
+msgid "nm_ti_options_native_protocol"
+msgstr "Beállítás ehhez: <Native protocol>"
+
+msgid "nm_ti_options_nokia_email"
+msgstr "Nokia Messaging beállítása"
+
+msgid "nm_ti_options_service_info"
+msgstr "Szolgáltatás információ"
+
+msgid "nm_ti_options_serviceinfo"
+msgstr "Szolgáltatás információ"
+
+msgid "nm_ti_options_what_to_sync"
+msgstr "Szinkronizálandó"
+
+msgid "nm_ti_options_when_to_sync"
+msgstr "Szinkronizálás ideje"
+
+msgid "nm_try_different_email_address"
+msgstr "Próbálj meg egy másik e-mail címet"
+
+msgid "nm_unable_to_set_up_this_mailbox_with_info_provided"
+msgstr "A megadott információkkal nem kehet ezt a postafiókot beállítani"
+
+msgid "nm_use_secure_login"
+msgstr "Biztonságos bejelentkezés használata"
+
+msgid "nm_va_delete_message_service"
+msgstr "Törlöd a Nokia Messaging szolgáltatást és minden hozzá kapcsolódó postafiókot?"
+
+msgid "nm_va_delete_multimail_mailbox"
+msgstr ""
+"Eltávolítod az eszközről?\n"
+"'%s'"
+
+msgid "nm_va_delete_nokia_messaging"
+msgstr "Eltávolítod a Nokia Messaging szolgáltatást és minden hozzákapcsolódó postafiókot az eszközről?"
+
+msgid "nm_va_deleting_multimail_mailbox"
+msgstr ""
+"Postafiók törlése\n"
+"'%s'"
+
+msgid "nm_va_intellisync"
+msgstr "Nokia Messaging"
+
+msgid "nm_va_multimail_mailbox_added_message"
+msgstr "Az új postafiók a kiszolgálóval való következő szinkronizálás után érhető el"
+
+msgid "nm_va_multimail_mailbox_delete_failed"
+msgstr "Postafiók törlése sikertelen"
+
+msgid "nm_va_multimail_mailbox_password_change_failed"
+msgstr "Név megváltoztatása sikertelen. Ellenőrizd a jelszót és próbáld újra."
+
+msgid "nm_va_options_access_point_default"
+msgstr "Alapértelmezett"
+
+msgid "nm_va_options_older_than_1_month"
+msgstr "1 hónap"
+
+msgid "nm_va_options_older_than_1_week"
+msgstr "1 hét"
+
+msgid "nm_va_options_older_than_2_weeks"
+msgstr "2 hét"
+
+msgid "nm_va_options_older_than_3_days"
+msgstr "3 nap"
+
+msgid "nm_va_options_older_than_5_days"
+msgstr "5 nap"
+
+msgid "nm_va_options_server_name"
+msgstr "Kiszolgáló név"
+
+msgid "nm_va_options_service_info"
+msgstr "Nokia Messaging: Szolgáltatás információ"
+
+msgid "nm_va_options_signature"
+msgstr "Aláírás"
+
+msgid "nm_va_options_signature_default_text"
+msgstr "Ezt az üzenetet mobil számítógépemről küldtem a Nokia Messaging használatával."
+
+msgid "nm_va_options_signature_for_mailbox_name"
+msgstr "%s fiók aláírása"
+
+msgid "nm_va_options_sync_hours_all_day"
+msgstr "Egész nap"
+
+msgid "nm_va_options_sync_hours_custom_time"
+msgstr "Nokia Messaging: Szinkronizálási időpontok"
+
+msgid "nm_va_options_sync_hours_customize"
+msgstr "Testreszabás"
+
+msgid "nm_va_options_sync_interval_12_hours"
+msgstr "12 óránként"
+
+msgid "nm_va_options_sync_interval_1_day"
+msgstr "Naponta"
+
+msgid "nm_va_options_sync_interval_1_hour"
+msgstr "Óránként"
+
+msgid "nm_va_options_sync_interval_4_hours"
+msgstr "4 óránként"
+
+msgid "nm_va_options_sync_interval_half_hour"
+msgstr "30 percenként"
+
+msgid "nm_va_options_sync_interval_push"
+msgstr "Amint lehetséges"
+
+msgid "nm_va_options_sync_interval_qtr_hour"
+msgstr "15 percenként"
+
+msgid "nm_va_options_sync_power_20"
+msgstr "Töltöttség 20%"
+
+msgid "nm_va_options_sync_power_5"
+msgstr "Töltöttség 5%"
+
+msgid "nm_va_options_sync_power_never"
+msgstr "Soha"
+
+msgid "nm_va_options_sync_power_server"
+msgstr "Kiszolgáló érték"
+
+msgid "nm_va_options_sync_power_server_battery_level"
+msgstr "Töltöttség %ld%%"
+
+msgid "nm_va_options_use_signature"
+msgstr "Aláírás használata"
+
+msgid "nm_va_options_user_name"
+msgstr "Felhasználónév"
+
+msgid "nm_va_reset_data"
+msgstr "Az eszközön lévő adatok cserélése a szerver adataira néhány percet vehet igénybe. Folytatod?"
+
+msgid "nm_va_saving_multimail_mailbox_settings"
+msgstr "Módosított beállítások ellenőrzése"
+
+msgid "nm_wdgt_bd_delete"
+msgstr "Törlés"
+
+msgid "nm_wdgt_bd_done"
+msgstr "Rendben"
+
+msgid "nm_wdgt_bd_save"
+msgstr "Mentés"
+
+msgid "nm_wdgt_rb_no"
+msgstr "Nem"
+
+msgid "nm_wdgt_rb_yes"
+msgstr "Igen"
+
