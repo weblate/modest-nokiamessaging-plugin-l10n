@@ -1,0 +1,630 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: modest-nokiamessaging-plugin 20090818210000\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-05-29 16:25+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "nm_account_authentication"
+msgstr "Kimlik denetimi"
+
+msgid "nm_account_existing"
+msgstr "Varolan hesap"
+
+msgid "nm_account_existing_intro"
+msgstr ""
+"E-postayı iletmek için Nokia Messaging hesabı zaten mevcut."
+
+msgid "nm_account_existing_no_info"
+msgstr "Yeni mesajları elle kontrol edebilirsiniz"
+
+msgid "nm_account_existing_rb_no"
+msgstr "Ayrı posta kutusu oluştur"
+
+msgid "nm_account_existing_rb_yes"
+msgstr "Bu adresi hesaba ekle"
+
+msgid "nm_account_setup_complete"
+msgstr ""
+"Hesap kurulumu tamamlandı.\n"
+"\n"
+"Kaydetmek için 'Bitir' tuşuna basın. Bu ayarları 'Hesapları Düzenle' ile "
+"düzenleyebilirsiniz."
+
+msgid "nm_account_setup_completing_email_setup"
+msgstr "E-posta kurulumu tamamlanıyor"
+
+msgid "nm_account_setup_contacting_email_server"
+msgstr "E-posta sunucusuyla iletişim kuruluyor"
+
+msgid "nm_account_setup_email_adv_details"
+msgstr "Gelişmiş ayarlar"
+
+msgid "nm_account_setup_email_delivery"
+msgstr "E-posta teslimi"
+
+msgid "nm_account_setup_email_details"
+msgstr "E-posta ayrıntıları"
+
+msgid "nm_account_setup_getting_email_settings"
+msgstr "E-posta ayarları ediniliyor"
+
+msgid "nm_account_setup_retrieving_terms_conditions"
+msgstr "Kullanım Koşulları alınıyor"
+
+msgid "nm_account_setup_terms_conditions"
+msgstr "Kullanım Koşulları"
+
+msgid "nm_account_setup_validating"
+msgstr "Doğrulanıyor"
+
+msgid "nm_authentication_failed"
+msgstr ""
+"Geçersiz kullanıcı adı veya parola. Lütfen bilgileri kontrol edin ve tekrar deneyin."
+
+msgid "nm_authentication_subscriptionexpired"
+msgstr ""
+"Abonelik süreniz doldu. Nokia Care veya Internet servis sağlayıcınıza "
+"ulaşın."
+
+msgid "nm_authentication_trialexpired"
+msgstr "Deneme süreniz doldu. CNokia Care veya Internet servis sağlayıcınıza "
+"ulaşın."
+
+msgid "nm_bd_dialog_cancel"
+msgstr "Vazgeç"
+
+msgid "nm_bd_dialog_ok"
+msgstr "Devam"
+
+msgid "nm_bd_mailboxes"
+msgstr "Posta kutuları"
+
+msgid "nm_bd_reset"
+msgstr "Hesabı sıfırla"
+
+msgid "nm_bd_service_info"
+msgstr "Servis bilgisi"
+
+msgid "nm_bd_synchronization"
+msgstr "Senkronizasyon"
+
+msgid "nm_cancel_not_allowed"
+msgstr "İşlem devam ediyor. Lütfen bekleyin."
+
+msgid "nm_ckdg_ib_maximum_characters_reached"
+msgstr "Maksimum Karakter sayısına ulaşıldı"
+
+msgid "nm_error_title"
+msgstr "Hata"
+
+msgid "nm_fi_day_friday"
+msgstr "Cuma"
+
+msgid "nm_fi_day_monday"
+msgstr "Pazartesi"
+
+msgid "nm_fi_day_saturday"
+msgstr "Cumartesi"
+
+msgid "nm_fi_day_sunday"
+msgstr "Pazar"
+
+msgid "nm_fi_day_thursday"
+msgstr "Perşembe"
+
+msgid "nm_fi_day_tuesday"
+msgstr "Salı"
+
+msgid "nm_fi_day_wednesday"
+msgstr "Çarşamba"
+
+msgid "nm_fi_emailsetup_servername"
+msgstr "Sunucu adı"
+
+msgid "nm_fi_end_time"
+msgstr "Bitiş zamanı"
+
+msgid "nm_fi_options_access_point"
+msgstr "Erişim noktası"
+
+msgid "nm_fi_options_addnewmailbox"
+msgstr "Yeni posta kutusu ekle"
+
+msgid "nm_fi_options_days"
+msgstr "Günler"
+
+msgid "nm_fi_options_delete"
+msgstr "Sil"
+
+msgid "nm_fi_options_drafts"
+msgstr "Taslakları senkronla"
+
+msgid "nm_fi_options_edit"
+msgstr "Düzenle"
+
+msgid "nm_fi_options_email_download_size"
+msgstr "İndirme boyutu"
+
+msgid "nm_fi_options_email_download_size_full_message"
+msgstr "Tam mesaj"
+
+msgid "nm_fi_options_email_download_size_headers_only"
+msgstr "Sadece başlıklar"
+
+msgid "nm_fi_options_email_download_size_headers_plus"
+msgstr "Kısmi mesaj"
+
+msgid "nm_fi_options_email_remove_older_than"
+msgstr "Daha eski kayıtları sil"
+
+msgid "nm_fi_options_hours"
+msgstr "Saatler"
+
+msgid "nm_fi_options_inbox"
+msgstr "Gelen kutusunu senkronla"
+
+msgid "nm_fi_options_password"
+msgstr "Parola"
+
+msgid "nm_fi_options_password_required"
+msgstr "İsim değiştirmek için parola gerekli"
+
+msgid "nm_fi_options_reset_data"
+msgstr "Verileri sıfırla"
+
+msgid "nm_fi_options_sent_items"
+msgstr "Gönderilmiş öğeleri senkronla"
+
+msgid "nm_fi_options_server_name"
+msgstr "Sunucu ismi"
+
+msgid "nm_fi_options_signature"
+msgstr "İmza"
+
+msgid "nm_fi_options_start"
+msgstr "Başlat"
+
+msgid "nm_fi_options_sync_days"
+msgstr "Nokia Messaging: Günleri senkronla"
+
+msgid "nm_fi_options_sync_interval"
+msgstr "Gönder ve al"
+
+msgid "nm_fi_options_sync_power"
+msgstr "Senkronizeyi devre dışı bırak"
+
+msgid "nm_fi_options_sync_while_roaming"
+msgstr "Roaming sırasında senkronla"
+
+msgid "nm_fi_options_use_secure_login_incoming"
+msgstr "Gelen sunucu için güvenli giriş kullan"
+
+msgid "nm_fi_options_use_secure_login_outgoing"
+msgstr "Giden sunucu için güvenli giriş kullan"
+
+msgid "nm_fi_options_user_name"
+msgstr "Kullanıcı adı"
+
+msgid "nm_fi_start_time"
+msgstr "Başlangıç zamanı"
+
+msgid "nm_fi_sync_days_all"
+msgstr "Hergün"
+
+msgid "nm_fi_sync_days_custom"
+msgstr "Özel"
+
+msgid "nm_fi_sync_days_never"
+msgstr "Hiçbir zaman"
+
+msgid "nm_fi_sync_days_weekdays"
+msgstr "Hafta içi"
+
+msgid "nm_fi_sync_days_weekends"
+msgstr "Haftasonu"
+
+msgid "nm_fi_sync_drafts"
+msgstr "Taslakları senkronla"
+
+msgid "nm_fi_sync_inbox"
+msgstr "Gelen kutusunu senkronla"
+
+msgid "nm_fi_sync_read_server_enabled"
+msgstr "Mesajları sunucuda okunmuş olarak işaretle"
+
+msgid "nm_fi_sync_sent_items"
+msgstr "Gönderilmiş öğeleri senkronla"
+
+msgid "nm_ib_advsetup_settings_saved"
+msgstr "Ayarlar kaydedildi"
+
+msgid "nm_ib_daemon_not_connected"
+msgstr "Nokia messaging hizmet programı mevcut değil"
+
+msgid "nm_initializing_synchronization"
+msgstr "Senkronizasyon hazırlanıyor"
+
+msgid "nm_invalid_server_settings"
+msgstr "Eposta sağlayıcıya ulaşılamıyor. Lütfen ayarlarınızı kontrol edin."
+
+msgid "nm_imum_nc_wizard_confirm_lose_changes"
+msgstr ""
+"Yapılan tüm değişiklikler kaybedilecek.\n"
+"Devam edilsin mi?"
+
+msgid "nm_mail_de_intro_bundle"
+msgstr ""
+"Nokia Messaging hesabınızı aktifleştirmek ve e-postalarınızı otomatik teslim almak için "
+"Kullanım Koşullarını kabul edin."
+
+msgid "nm_mail_de_intro_default"
+msgstr ""
+"Nokia Messaging otomatik olarak e-postalarınızı gelen kutunuza ileten bir abonelik servisidir. "
+"Şimdi ücretsiz kaydolabilirsiniz."
+
+msgid "nm_mail_de_intro_isp"
+msgstr ""
+"Nokia Messaging sizin e-posta sağlayıcınızla çalışan ve e-postalarınızı otomatik olarak "
+"gelen kutunuza ileten bir abonelik servisidir. "
+"Şimdi ücretsiz kaydolabilirsiniz."
+
+msgid "nm_mail_de_no"
+msgstr "Hayır teşekkürler"
+
+msgid "nm_mail_de_password"
+msgstr "Parola"
+
+msgid "nm_mail_de_tos_link"
+msgstr "'İleri' tıklayarak bu denemenin tüm [Kullanım Koşullarını] kabul ediyorum"
+
+msgid "nm_mail_de_tos_link_bundle"
+msgstr "'İleri' tıklayarak tüm [Nokia Messaging Kullanım Koşullarını] kabul ediyorum."
+
+msgid "nm_mail_de_tos_link_manual_text"
+msgstr "Yeni mesajları elle kontrol edebilirsiniz."
+
+msgid "nm_mail_de_yes"
+msgstr "Evet! Kaydolmak istiyorum."
+
+msgid "nm_mail_de_yes_bundle"
+msgstr "Hesabımı etkinleştir."
+
+msgid "nm_mail_fi_email_address"
+msgstr "E-posta adresi"
+
+msgid "nm_mail_fi_incoming_port"
+msgstr "Gelen portu"
+
+msgid "nm_mail_fi_incoming_server"
+msgstr "Gelen sunucusu"
+
+msgid "nm_mail_fi_mailbox_name"
+msgstr "Posta kutusu adı"
+
+msgid "nm_mail_fi_my_name"
+msgstr "Benim adım"
+
+msgid "nm_mail_fi_outgoing_port"
+msgstr "Giden portu"
+
+msgid "nm_mail_fi_outgoing_server"
+msgstr "Giden sunucusu"
+
+msgid "nm_mail_fi_password"
+msgstr "Parola"
+
+msgid "nm_mail_fi_password_prompt"
+msgstr ""
+"Girdiğiniz parola geçersiz. Nokia Messaging hesap kurulumunu tamamlamak için "
+"doğru parola giriniz."
+
+msgid "nm_mail_fi_user_name"
+msgstr "Kullanıcı adı"
+
+msgid "nm_mail_fi_username"
+msgstr "Kullanıcı adı"
+
+msgid "nm_mail_fi_username_hint"
+msgstr "Bazı servis sağlayıcılarda gereklidir"
+
+msgid "nm_mail_fi_username_password_prompt"
+msgstr "E-posta adresi zaten bir Nokia Messaging hesabıyla ilişik. E-posta kurulumu bitirmek için "
+"Nokia Messaging hesap bilgilerini giriniz."
+
+msgid "nm_mail_ib_setting_failed"
+msgstr "Ayarlar kaydedilemedi"
+
+msgid "nm_mail_type"
+msgstr "E-posta tipi"
+
+msgid "nm_mail_type_imap"
+msgstr "IMAP"
+
+msgid "nm_mail_type_pop"
+msgstr "POP"
+
+msgid "nm_me_folder_drafts"
+msgstr "Taslaklar"
+
+msgid "nm_me_folder_inbox"
+msgstr "Gelen kutusu"
+
+msgid "nm_me_folder_sent"
+msgstr "Gönderilmiş öğe"
+
+msgid "nm_me_inbox_options"
+msgstr "Ayarlar"
+
+msgid "nm_me_inbox_options_global"
+msgstr "<Doğal protokol>"
+
+msgid "nm_me_inbox_options_nes"
+msgstr "Nokia Messaging"
+
+msgid "nm_nms_cannot_download_attachment"
+msgstr "Ek dosya indirilemeyecek kadar büyük"
+
+msgid "nm_nms_downloading_attachment"
+msgstr "İndiriliyor"
+
+msgid "nm_nms_password_prompt"
+msgstr ""
+"Nokia Messaging parolanızı girin. Bu parola Nokia Messaging için ayarlanan ilk e-posta "
+"adresinin parolasıdır."
+
+msgid "nm_ods_email_intro"
+msgstr ""
+"Posta adresiniz ve cihaz kimliği gibi bazı teknik bilgiler "
+"Nokia'ya gönderilecektir. Nokia sizin izniniz olmadan kişisel bilgilerinizi "
+"aktivasyondan sonra saklamayacaktır."
+
+msgid "nm_ods_error_account_locked"
+msgstr ""
+"Çok sayıda geçersiz girişten dolayı hesap bloke edildi. Nokia Care veya "
+"Internet sağlayıcınızla irtibata geçin."
+
+msgid "nm_ods_error_cant_setup"
+msgstr "Posta kutusu oluşturma hatası. Lütfen ayarları kontrol edip sonra yeniden deneyin."
+
+msgid "nm_ods_error_generic"
+msgstr ""
+"Posta kutusu oluşturma hatası. Lütfen ayarları kontrol edip sonra yeniden deneyin. (%04x)"
+
+msgid "nm_ods_error_restart"
+msgstr "Kurulum yeniden başlatılacak (%04lX)"
+
+msgid "nm_ods_phone_number"
+msgstr "Telefon numarası"
+
+msgid "nm_ods_phone_number_required"
+msgstr "E-posta kurulumunu doğrulamak için telefon numaranızı girin"
+
+msgid "nm_ods_setup_failed_emailid_exists_else_where"
+msgstr "E-posta adresi başka bir Nokia Messaging hesabı ile kayıtlı"
+
+msgid "nm_ods_setup_failed_notenabled"
+msgstr "Hesabınız aktif değil. Nokia Care veya Internet servis sağlayıcınıza ulaşın."
+
+msgid "nm_ods_unable_to_connect"
+msgstr ""
+"Sihirbaz verilen bilgilerle e-posta sunucusuna "
+"bağlanamadı."
+
+msgid "nm_reset_account"
+msgstr "Sıfırla"
+
+msgid "nm_set_up_mail_at_later_time"
+msgstr "Sonra kur"
+
+msgid "nm_set_up_mailbox_anyway"
+msgstr "Posta kutusunu yinede kur"
+
+msgid "nm_set_up_mailbox_anyway_help_text"
+msgstr ""
+"Bağlantı parola kontrol edildikten veya diğer ayarlar değiştirildikten sonra "
+"mümkün olabilir."
+
+msgid "nm_sync_hours_customize"
+msgstr "Kişiselleştir"
+
+msgid "nm_sync_hours_on_all_day"
+msgstr "Gün boyu"
+
+msgid "nm_synchronizing"
+msgstr "Senkronlanıyor"
+
+msgid "nm_ti_intellisync_settings"
+msgstr "Nokia Messaging için ayarlar"
+
+msgid "nm_ti_intellisync_settings_mailboxes"
+msgstr "Nokia Messaging: Posta kutuları"
+
+msgid "nm_ti_intellisync_settings_synchronization"
+msgstr "Nokia Messaging: Senkronizasyon"
+
+msgid "nm_ti_mailbox_settings"
+msgstr "Posta kutusu ayarları"
+
+msgid "nm_ti_options_mailbox_account"
+msgstr "Hesap"
+
+msgid "nm_ti_options_mailbox_user_info"
+msgstr "Kullanıcı bilgileri"
+
+msgid "nm_ti_options_mailboxes"
+msgstr "Posta kutuları"
+
+msgid "nm_ti_options_native_protocol"
+msgstr "<Doğal protokol> için ayarlar"
+
+msgid "nm_ti_options_nokia_email"
+msgstr "Nokia Messaging için ayarlar"
+
+msgid "nm_ti_options_service_info"
+msgstr "Servis bilgisi"
+
+msgid "nm_ti_options_serviceinfo"
+msgstr "Servis bilgisi"
+
+msgid "nm_ti_options_what_to_sync"
+msgstr "Ne senkronize edilecek"
+
+msgid "nm_ti_options_when_to_sync"
+msgstr "Ne zaman senkronize edilecek"
+
+msgid "nm_try_different_email_address"
+msgstr "Başka bir e-posta adresi deneyin"
+
+msgid "nm_unable_to_set_up_this_mailbox_with_info_provided"
+msgstr "Verilen bilgilerle posta kutusu oluşturulamadı"
+
+msgid "nm_use_secure_login"
+msgstr "Güvenli giriş kullan"
+
+msgid "nm_va_delete_message_service"
+msgstr "Nokia Messaging servisi ve tüm ilişkili posta kutuları silinsin mi?"
+
+msgid "nm_va_delete_multimail_mailbox"
+msgstr ""
+"Cihazdan silinsin mi?\n"
+"'%s'"
+
+msgid "nm_va_delete_nokia_messaging"
+msgstr ""
+"Nokia Messaging servisi ve tüm ilişik posta kutuları cihazdan kaldırılacak?"
+
+msgid "nm_va_deleting_multimail_mailbox"
+msgstr ""
+"Posta kutusu siliniyor\n"
+"'%s'"
+
+msgid "nm_va_intellisync"
+msgstr "Nokia Messaging"
+
+msgid "nm_va_multimail_mailbox_added_message"
+msgstr "Yeni posta kutusu gelecek senkronizasyondan sonra aktifleşecek"
+
+msgid "nm_va_multimail_mailbox_delete_failed"
+msgstr "Posta kutu silinmesi başarısız"
+
+msgid "nm_va_multimail_mailbox_password_change_failed"
+msgstr "İsim değişikliği başarısız. Parolayı kontrol edip tekrar deneyin."
+
+msgid "nm_va_multimail_mailbox_removed_message"
+msgstr ""
+"Seçili posta kutusu sunucuyla bir sonraki senkronizasyon yapılırken "
+"kaldırılacak."
+
+msgid "nm_va_options_access_point_default"
+msgstr "Varsayılan"
+
+msgid "nm_va_options_older_than_1_month"
+msgstr "1 ay"
+
+msgid "nm_va_options_older_than_1_week"
+msgstr "1 hafta"
+
+msgid "nm_va_options_older_than_2_weeks"
+msgstr "2 hafta"
+
+msgid "nm_va_options_older_than_3_days"
+msgstr "3 gün"
+
+msgid "nm_va_options_older_than_5_days"
+msgstr "5 gün"
+
+msgid "nm_va_options_server_name"
+msgstr "Sunucu adı"
+
+msgid "nm_va_options_service_info"
+msgstr "Nokia Messaging: Servis bilgisi"
+
+msgid "nm_va_options_signature"
+msgstr "İmza"
+
+msgid "nm_va_options_signature_default_text"
+msgstr "Nokia Messaging ile mobil bilgisayarımdan gönderildi"
+
+msgid "nm_va_options_signature_for_mailbox_name"
+msgstr "%s için imza"
+
+msgid "nm_va_options_sync_hours_all_day"
+msgstr "Gün boyu"
+
+msgid "nm_va_options_sync_hours_custom_time"
+msgstr "Nokia Messaging: Saatleri senkronla"
+
+msgid "nm_va_options_sync_hours_customize"
+msgstr "Özelleştir"
+
+msgid "nm_va_options_sync_interval_12_hours"
+msgstr "Her 12 saat"
+
+msgid "nm_va_options_sync_interval_1_day"
+msgstr "Her 24 saat"
+
+msgid "nm_va_options_sync_interval_1_hour"
+msgstr "Her saat"
+
+msgid "nm_va_options_sync_interval_4_hours"
+msgstr "Her 4 saat"
+
+msgid "nm_va_options_sync_interval_half_hour"
+msgstr "Her 30 dakika"
+
+msgid "nm_va_options_sync_interval_push"
+msgstr "En kısa zamanda"
+
+msgid "nm_va_options_sync_interval_qtr_hour"
+msgstr "Her 15 dakika"
+
+msgid "nm_va_options_sync_power_20"
+msgstr "Batarya seviyesi %20"
+
+msgid "nm_va_options_sync_power_5"
+msgstr "Batarya seviyesi %5"
+
+msgid "nm_va_options_sync_power_never"
+msgstr "Hiçbir zaman"
+
+msgid "nm_va_options_sync_power_server"
+msgstr "Sunucu değeri"
+
+msgid "nm_va_options_sync_power_server_battery_level"
+msgstr "Batarya seviyesi: %ld%%"
+
+msgid "nm_va_options_use_signature"
+msgstr "İmza kullan"
+
+msgid "nm_va_options_user_name"
+msgstr "Kullanıcı adı"
+
+msgid "nm_va_reset_data"
+msgstr "Cihazdaki veriyi sunucudaki veriyle değiştirmek birkaç dakika sürebilir. "
+"Devam edilsin mi?"
+
+msgid "nm_va_saving_multimail_mailbox_settings"
+msgstr "Değiştirilen ayarlar doğrulanıyor"
+
+msgid "nm_wdgt_bd_delete"
+msgstr "Sil"
+
+msgid "nm_wdgt_bd_done"
+msgstr "Bitti"
+
+msgid "nm_wdgt_bd_save"
+msgstr "Kaydet"
+
+msgid "nm_wdgt_rb_no"
+msgstr "Hayır"
+
+msgid "nm_wdgt_rb_yes"
+msgstr "Evet"
+
