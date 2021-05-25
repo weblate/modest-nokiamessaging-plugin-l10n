@@ -1,0 +1,583 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: modest-nokiamessaging-plugin 20090818210000\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-04-27 10:28+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "nm_account_authentication"
+msgstr "المصادقة"
+
+msgid "nm_account_existing"
+msgstr "حساب قائم"
+
+msgid "nm_account_existing_intro"
+msgstr "حساب نوكيا للرسائل لإعادة توجيه البريد الإلكتروني لهذا الجهاز موجود بالفعل."
+
+msgid "nm_account_existing_no_info"
+msgstr "يمكنك التحقق من وجود رسائل جديدة يدوياً"
+
+msgid "nm_account_existing_rb_no"
+msgstr "إنشاء صندوق بريد مستقل"
+
+msgid "nm_account_existing_rb_yes"
+msgstr "أضف عنوان لهذا الحساب"
+
+msgid "nm_account_setup_complete"
+msgstr ""
+"تم الإنتهاء من إعداد الحساب.\n"
+"\n"
+"إضغط 'الإنهاء' للحفظ. يمكنك تعديل هذه الإعدادات عن طريق 'تحرير حسابات' في القائمة."
+
+msgid "nm_account_setup_completing_email_setup"
+msgstr "جاري الانتهاء من إعداد البريد الإلكتروني"
+
+msgid "nm_account_setup_contacting_email_server"
+msgstr "جاري الاتصال بالبريد الإلكتروني"
+
+msgid "nm_account_setup_email_adv_details"
+msgstr "خيارات متقدمة"
+
+msgid "nm_account_setup_email_delivery"
+msgstr "تسليم البريد الإلكتروني"
+
+msgid "nm_account_setup_email_details"
+msgstr "تفاصيل البريد الإلكتروني"
+
+msgid "nm_account_setup_getting_email_settings"
+msgstr "جاري الحصول على إعدادات البريد"
+
+msgid "nm_account_setup_retrieving_terms_conditions"
+msgstr "جاري الحصول على شروط الخدمة"
+
+msgid "nm_account_setup_terms_conditions"
+msgstr "شروط الخدمة"
+
+msgid "nm_account_setup_validating"
+msgstr "جاري التحقق من الصحة"
+
+msgid "nm_authentication_subscriptionexpired"
+msgstr "لقد انتهى مفعول اشتراكك. نرجوا الإتصال بمزود الخدمة."
+
+msgid "nm_authentication_trialexpired"
+msgstr "لقد انتهت مدتك التجريبية. إتصل بمزود الخدمة."
+
+msgid "nm_bd_dialog_cancel"
+msgstr "إلغاء"
+
+msgid "nm_bd_dialog_ok"
+msgstr "المتابعة"
+
+msgid "nm_bd_mailboxes"
+msgstr "صناديق البريد"
+
+msgid "nm_bd_reset"
+msgstr "إعادة ضبط الحسابات"
+
+msgid "nm_bd_service_info"
+msgstr "معلومات الخدمة"
+
+msgid "nm_bd_synchronization"
+msgstr "مزامنة"
+
+msgid "nm_cancel_not_allowed"
+msgstr "العملية قيد التنفيذ. الرجاء الإنتظار."
+
+msgid "nm_ckdg_ib_maximum_characters_reached"
+msgstr "تم الوصول للحد الأقصى لعدد الأحرف الممكنة"
+
+msgid "nm_error_title"
+msgstr "خطأ"
+
+msgid "nm_fi_day_friday"
+msgstr "الجمعة"
+
+msgid "nm_fi_day_monday"
+msgstr "الإثنين"
+
+msgid "nm_fi_day_saturday"
+msgstr "السبت"
+
+msgid "nm_fi_day_sunday"
+msgstr "الأحد"
+
+msgid "nm_fi_day_thursday"
+msgstr "الخميس"
+
+msgid "nm_fi_day_tuesday"
+msgstr "الثلاثاء"
+
+msgid "nm_fi_day_wednesday"
+msgstr "الأربعاء"
+
+msgid "nm_fi_emailsetup_servername"
+msgstr "إسم الخادم"
+
+msgid "nm_fi_end_time"
+msgstr "وقت النهاية"
+
+msgid "nm_fi_options_access_point"
+msgstr "نقطة الوصول"
+
+msgid "nm_fi_options_addnewmailbox"
+msgstr "أضف صندوق بريد جديد"
+
+msgid "nm_fi_options_days"
+msgstr "الأيام"
+
+msgid "nm_fi_options_delete"
+msgstr "حذف"
+
+msgid "nm_fi_options_drafts"
+msgstr "مزامنة المسودات"
+
+msgid "nm_fi_options_edit"
+msgstr "تعديل"
+
+msgid "nm_fi_options_email_download_size"
+msgstr "حجم التحميل"
+
+msgid "nm_fi_options_email_download_size_full_message"
+msgstr "الرسالة الكاملة"
+
+msgid "nm_fi_options_email_download_size_headers_only"
+msgstr "عناوين فقط"
+
+msgid "nm_fi_options_email_download_size_headers_plus"
+msgstr "رسالة جزئية"
+
+msgid "nm_fi_options_email_remove_older_than"
+msgstr "إزالة الرسائل اقدم من"
+
+msgid "nm_fi_options_hours"
+msgstr "الساعات"
+
+msgid "nm_fi_options_inbox"
+msgstr "مزامنة صندوق الوارد"
+
+msgid "nm_fi_options_password"
+msgstr "كلمة السر"
+
+msgid "nm_fi_options_password_required"
+msgstr "كلمة السر مطلوبة لتغيير الإسم"
+
+msgid "nm_fi_options_reset_data"
+msgstr "إعادة ضبط البيانات"
+
+msgid "nm_fi_options_sent_items"
+msgstr "مزامنة البيانات الصادرة"
+
+msgid "nm_fi_options_server_name"
+msgstr "إسم الخادم"
+
+msgid "nm_fi_options_signature"
+msgstr "التوقيع"
+
+msgid "nm_fi_options_start"
+msgstr "البدء"
+
+msgid "nm_fi_options_sync_days"
+msgstr "خدمة رسائل نوكيا: مزامنة الأيام"
+
+msgid "nm_fi_options_sync_interval"
+msgstr "الإرسال والإستقبال"
+
+msgid "nm_fi_options_sync_power"
+msgstr "تعطيل المزامنة عند"
+
+msgid "nm_fi_options_sync_while_roaming"
+msgstr "مزامنة أثناء التجوال"
+
+msgid "nm_fi_options_use_secure_login_incoming"
+msgstr "استخدام تسجيل الدخول الآمن للخادم الوارد"
+
+msgid "nm_fi_options_use_secure_login_outgoing"
+msgstr "استخدام تسجيل الدخول الآمن للخادم الصادر"
+
+msgid "nm_fi_options_user_name"
+msgstr "إسم المستخدم"
+
+msgid "nm_fi_start_time"
+msgstr "وقت البدء"
+
+msgid "nm_fi_sync_days_all"
+msgstr "كل يوم"
+
+msgid "nm_fi_sync_days_custom"
+msgstr "حسب الطلب"
+
+msgid "nm_fi_sync_days_never"
+msgstr "أبداً"
+
+msgid "nm_fi_sync_days_weekdays"
+msgstr "أيام الأسبوع"
+
+msgid "nm_fi_sync_days_weekends"
+msgstr "نهاية الأسبوع"
+
+msgid "nm_fi_sync_drafts"
+msgstr "مزامنة المسودات"
+
+msgid "nm_fi_sync_inbox"
+msgstr "مزامنة صندوق الوارد"
+
+msgid "nm_fi_sync_read_server_enabled"
+msgstr "تعيين الرسائل على الخادم كمقروء"
+
+msgid "nm_fi_sync_sent_items"
+msgstr "مزامنة البيانات الصادرة"
+
+msgid "nm_ib_advsetup_settings_saved"
+msgstr "تم حفظ الإعدادات"
+
+msgid "nm_ib_daemon_not_connected"
+msgstr "حساب رسائل نوكيا غير متوفر"
+
+msgid "nm_imum_nc_wizard_confirm_lose_changes"
+msgstr ""
+"سوف تلغى كل التغييرات.\n"
+"هل تريد المتابعة?"
+
+msgid "nm_mail_de_intro_bundle"
+msgstr "قبول شروط الخدمة لتفعيل حساب نوكيا للمراسلة والحصول على البريد الإلكتروني الخاص بك بحيث يتم تسليمه تلقائيا."
+
+msgid "nm_mail_de_intro_default"
+msgstr "خدمة رسائل نوكيا تمكنك من استلام الرسائل الإلكترونية على الصندوق الوارد. تستطيع التسجيل الآن مجاناً."
+
+msgid "nm_mail_de_intro_isp"
+msgstr "خدمة رسائل نوكيا تعمل مع مزود الخدمة لديك و تعيد تحويل الرسائل الإلكترونية للصندوق الوارد بشكل اوتوماتيكي. تستطيع التسجيل الآن مجاناً."
+
+msgid "nm_mail_de_no"
+msgstr "لا شكراً"
+
+msgid "nm_mail_de_password"
+msgstr "كلمة السر"
+
+msgid "nm_mail_de_tos_link"
+msgstr "عند ضغط 'التالي', أوافق على [شروط الخدمة] لهذه التجربة."
+
+msgid "nm_mail_de_tos_link_bundle"
+msgstr "عند ضغط  'التالي', أوافق على [شروط الخدمة لخدمة رسائل نوكيا]."
+
+msgid "nm_mail_de_tos_link_manual_text"
+msgstr "تستطيع التحقق من وجود رسائل جديدة يدوياً"
+
+msgid "nm_mail_de_yes"
+msgstr "نعم! أريد التسجيل."
+
+msgid "nm_mail_de_yes_bundle"
+msgstr "تفعيل الحساب"
+
+msgid "nm_mail_fi_email_address"
+msgstr "البريد الإلكتروني"
+
+msgid "nm_mail_fi_incoming_port"
+msgstr "رقم المنفذ الوارد"
+
+msgid "nm_mail_fi_incoming_server"
+msgstr "اسم مضيف البريد الوارد"
+
+msgid "nm_mail_fi_mailbox_name"
+msgstr "إسم صندوق البريد"
+
+msgid "nm_mail_fi_my_name"
+msgstr "اسمي"
+
+msgid "nm_mail_fi_outgoing_port"
+msgstr "رقم المنفذ الصادر"
+
+msgid "nm_mail_fi_outgoing_server"
+msgstr "اسم مضيف البريد الصادر"
+
+msgid "nm_mail_fi_password"
+msgstr "كلمة السر"
+
+msgid "nm_mail_fi_password_prompt"
+msgstr "كلمة السر المكتوبة خطأ.الرجاء إدخال كملة المرور الصحيحة للمتابعة."
+
+msgid "nm_mail_fi_user_name"
+msgstr "اسم المستخدم"
+
+msgid "nm_mail_fi_username"
+msgstr "اسم المستخدم"
+
+msgid "nm_mail_fi_username_hint"
+msgstr "مطلوب من بعض مزودي الخدمة"
+
+msgid "nm_mail_fi_username_password_prompt"
+msgstr "عنوان البريد الإلكتروني مرتبط بالفعل بحساب نوكيا للرسائل. أدخل بيانات حساب نوكيا للرسائل لاستكمال إعداد البريد الإلكتروني."
+
+msgid "nm_mail_ib_setting_failed"
+msgstr "غير قادر على حفظ الإعدادات"
+
+msgid "nm_mail_type"
+msgstr "نوع البريد الإلكتروني"
+
+msgid "nm_mail_type_imap"
+msgstr "IMAP"
+
+msgid "nm_mail_type_pop"
+msgstr "POP"
+
+msgid "nm_me_folder_drafts"
+msgstr "المسودات"
+
+msgid "nm_me_folder_inbox"
+msgstr "صندوق الوارد"
+
+msgid "nm_me_folder_sent"
+msgstr "الرسائل المرسلة"
+
+msgid "nm_me_inbox_options"
+msgstr "الإعدادات"
+
+msgid "nm_me_inbox_options_global"
+msgstr "<Native protocol>"
+
+msgid "nm_me_inbox_options_nes"
+msgstr "خدمة نوكيا للرسائل"
+
+msgid "nm_nms_cannot_download_attachment"
+msgstr "حجم المرفق المطلوب تحميله كبير جداً"
+
+msgid "nm_nms_downloading_attachment"
+msgstr "جاري التحميل"
+
+msgid "nm_nms_password_prompt"
+msgstr "أدخل كلمة السر لخدمة نوكيا للرسائل. كلمة السر هذه هي كلمة السر لأول عنوان بريد إلكتروني أنشئ لخدمة نوكيا للرسائل."
+
+msgid "nm_ods_email_intro"
+msgstr "عنوانك بريدك الإلكتروني و معلومات فنية أخرى مثل معرف الجهاز سوف يتم إرسالها إلى نوكيا.  نوكيا لن تقوم بمعالجة أو تخزين أية معلومات شخصية دون موافقتك"
+
+msgid "nm_ods_error_account_locked"
+msgstr "تم حظر الحساب بسبب عدة محاولات تسجيل دخول خاطئة. أتصل بخدمة نويكيا أو راجع مزود الخدمة لديك."
+
+msgid "nm_ods_error_cant_setup"
+msgstr "مشكلة في إنشاء صندوق البريد. يرجى التحقق من إعدادات وحاول مرة أخرى في وقت لاحق."
+
+msgid "nm_ods_error_generic"
+msgstr "مشكلة في إنشاء صندوق البريد. يرجى التحقق من إعدادات وحاول مرة أخرى في وقت لاحق. (%04x)"
+
+msgid "nm_ods_error_restart"
+msgstr "سيتم اعادة تشغيل الإعدادات (%04lX)"
+
+msgid "nm_ods_phone_number"
+msgstr "رقم الهاتف"
+
+msgid "nm_ods_phone_number_required"
+msgstr "أدخل رقم الهاتف الخاص بك لإتمام اعداد البريد الإلكتروني "
+
+msgid "nm_ods_setup_failed_emailid_exists_else_where"
+msgstr "عنوان البريد الإلكتروني مسجل مسبقاً مع حساب آخر لخدمة نوكيا للمراسلة"
+
+msgid "nm_ods_setup_failed_notenabled"
+msgstr "حسابك غير مفعل. اتصل بخدمة نوكيا أو مزود خدمة الإنترنت."
+
+msgid "nm_ods_unable_to_connect"
+msgstr "معالج الإعدادات غير قادر على الإتصال بمزود خدمة البريد الإلكتروني حسب المعلومات المتاحة"
+
+msgid "nm_reset_account"
+msgstr "إعادة ضبط"
+
+msgid "nm_set_up_mail_at_later_time"
+msgstr "ضبط في وقت لاحق"
+
+msgid "nm_set_up_mailbox_anyway"
+msgstr "ضبط صندوق البريد على كل حال"
+
+msgid "nm_set_up_mailbox_anyway_help_text"
+msgstr "الإتصال قد يكون ممكن بعد التحقق من كلمة المرور أو تعديل إعدادات أخرى."
+
+msgid "nm_sync_hours_customize"
+msgstr "تخصيص"
+
+msgid "nm_sync_hours_on_all_day"
+msgstr "على مدى اليوم"
+
+msgid "nm_ti_intellisync_settings"
+msgstr "إعدادات خدمة نوكيا للرسائل"
+
+msgid "nm_ti_intellisync_settings_mailboxes"
+msgstr "خدمة نوكيا للرسائل: صناديق البريد"
+
+msgid "nm_ti_intellisync_settings_synchronization"
+msgstr "خدمة نوكيا للرسائل: المزامنة"
+
+msgid "nm_ti_mailbox_settings"
+msgstr "إعدادات صندوق البريد"
+
+msgid "nm_ti_options_mailbox_account"
+msgstr "الحساب"
+
+msgid "nm_ti_options_mailbox_user_info"
+msgstr "معلومات المستخدم"
+
+msgid "nm_ti_options_mailboxes"
+msgstr "صناديق البريد"
+
+msgid "nm_ti_options_native_protocol"
+msgstr "<Native protocol>الإعدادات لـ "
+
+msgid "nm_ti_options_nokia_email"
+msgstr "إعدادات خدمة نوكيا للرسائل"
+
+msgid "nm_ti_options_service_info"
+msgstr "معلومات الخدمة"
+
+msgid "nm_ti_options_serviceinfo"
+msgstr "معلومات الخدمة"
+
+msgid "nm_ti_options_what_to_sync"
+msgstr "ما الذي تريد مزامنته"
+
+msgid "nm_ti_options_when_to_sync"
+msgstr "متى تريد المزامنة"
+
+msgid "nm_try_different_email_address"
+msgstr "جرب بريد إلكتروني آخر"
+
+msgid "nm_unable_to_set_up_this_mailbox_with_info_provided"
+msgstr "غير قادر على إعداد صندوق البريد حسب المعلومات المقدمة"
+
+msgid "nm_use_secure_login"
+msgstr "إستخدام تسجيل الدخول الآمن"
+
+msgid "nm_va_delete_message_service"
+msgstr "حذف خدمة نوكيا للمراسلة وجميع صناديق البريد المرتبطة بها؟"
+
+msgid "nm_va_delete_multimail_mailbox"
+msgstr ""
+"الحذف من الجهاز?\n"
+"'%s'"
+
+msgid "nm_va_delete_nokia_messaging"
+msgstr "حذف خدمة نوكيا للمراسلة وجميع صناديق البريد المرتبطة بها؟"
+
+msgid "nm_va_deleting_multimail_mailbox"
+msgstr ""
+"جاري حذف صندوق البريد\n"
+"'%s'"
+
+msgid "nm_va_intellisync"
+msgstr "خدمة نوكيا للمراسلة"
+
+msgid "nm_va_multimail_mailbox_added_message"
+msgstr "سوف يتوفر صناديق بريد جديدة بعد المزامنة التالية مع مزود البريد"
+
+msgid "nm_va_multimail_mailbox_delete_failed"
+msgstr "فشل في حذف صندوق البريد"
+
+msgid "nm_va_multimail_mailbox_password_change_failed"
+msgstr "فشل في تغيير الإسم. الرجاء تفقد كلمة المرور والمحاولة مرة اخرى."
+
+msgid "nm_va_options_access_point_default"
+msgstr "الإفتراضي"
+
+msgid "nm_va_options_older_than_1_month"
+msgstr "شهر واحد"
+
+msgid "nm_va_options_older_than_1_week"
+msgstr "أسبوع واحد"
+
+msgid "nm_va_options_older_than_2_weeks"
+msgstr "أسبوعان"
+
+msgid "nm_va_options_older_than_3_days"
+msgstr "3 أيام"
+
+msgid "nm_va_options_older_than_5_days"
+msgstr "5 أيام"
+
+msgid "nm_va_options_server_name"
+msgstr "إسم الخادم"
+
+msgid "nm_va_options_service_info"
+msgstr "خدمة نوكيا للمراسلة: معلومات الخدمة"
+
+msgid "nm_va_options_signature"
+msgstr "التوقيع"
+
+msgid "nm_va_options_signature_default_text"
+msgstr "مرسلة من حاسوبي المحمول بإستخدام خدمة نوكيا للمراسلة"
+
+msgid "nm_va_options_signature_for_mailbox_name"
+msgstr "التوقيع لـ %s"
+
+msgid "nm_va_options_sync_hours_all_day"
+msgstr "طوال اليوم"
+
+msgid "nm_va_options_sync_hours_custom_time"
+msgstr "خدمة نوكيا للمراسلة: ساعات المزامنة"
+
+msgid "nm_va_options_sync_hours_customize"
+msgstr "تخصيص"
+
+msgid "nm_va_options_sync_interval_12_hours"
+msgstr "كل 12 ساعة"
+
+msgid "nm_va_options_sync_interval_1_day"
+msgstr "كل 24 ساعة"
+
+msgid "nm_va_options_sync_interval_1_hour"
+msgstr "كل ساعة"
+
+msgid "nm_va_options_sync_interval_4_hours"
+msgstr "كل 4 ساعات"
+
+msgid "nm_va_options_sync_interval_half_hour"
+msgstr "كل 30 دقيقة"
+
+msgid "nm_va_options_sync_interval_push"
+msgstr "بأقرب وقت ممكن"
+
+msgid "nm_va_options_sync_interval_qtr_hour"
+msgstr "كل 15 دقيقة"
+
+msgid "nm_va_options_sync_power_20"
+msgstr "البطارية بنسبة 20%"
+
+msgid "nm_va_options_sync_power_5"
+msgstr "البطارية بنسبة 5%"
+
+msgid "nm_va_options_sync_power_never"
+msgstr "أبداً"
+
+msgid "nm_va_options_sync_power_server"
+msgstr "قيمة الخادم"
+
+msgid "nm_va_options_sync_power_server_battery_level"
+msgstr "نسبة البطارية %ld%%"
+
+msgid "nm_va_options_use_signature"
+msgstr "استعمال توقيع"
+
+msgid "nm_va_options_user_name"
+msgstr "اسم المستخدم"
+
+msgid "nm_va_reset_data"
+msgstr "استبدال البيانات الموجودة على الجهاز مع البيانات من الخادم قد يستغرق عدة دقائق. المتابعة?"
+
+msgid "nm_va_saving_multimail_mailbox_settings"
+msgstr "جاري التحقق من الإعدادات التي تم تغييرها"
+
+msgid "nm_wdgt_bd_delete"
+msgstr "حذف"
+
+msgid "nm_wdgt_bd_done"
+msgstr "تم"
+
+msgid "nm_wdgt_bd_save"
+msgstr "حفظ"
+
+msgid "nm_wdgt_rb_no"
+msgstr "لا"
+
+msgid "nm_wdgt_rb_yes"
+msgstr "نعم"
+
