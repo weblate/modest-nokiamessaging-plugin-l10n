@@ -1,0 +1,655 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: modest-nokiamessaging-plugin 20090818210000\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-01-14 14:35+0100\n"
+"Last-Translator:\n"
+"Language-Team: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "nm_account_authentication"
+msgstr "Overenie"
+
+msgid "nm_account_existing"
+msgstr "Existujúci účet"
+
+msgid "nm_account_existing_intro"
+msgstr ""
+"Účet služby Nokia Messaging pre preposielanie e-mailov do tohoto prístroja "
+"už existuje."
+
+msgid "nm_account_existing_no_info"
+msgstr "Nové správy môžete skontrolovať ručne"
+
+msgid "nm_account_existing_rb_no"
+msgstr "Vytvoriť samostatnú schránku"
+
+msgid "nm_account_existing_rb_yes"
+msgstr "Pridať tuto adresu k účtu"
+
+msgid "nm_account_setup_complete"
+msgstr ""
+"Nastavenie účtu bolo dokončené.\n"
+"\n"
+"Nastavenie uložíte klepnutím na tlačidlo „Dokončiť“. Nastavenie môžete "
+"neskôr upraviť pomocou možnosti „Upraviť účty“ v ponuke."
+
+msgid "nm_account_setup_completing_email_setup"
+msgstr "Dokončovanie nastavenia e-mailu"
+
+msgid "nm_account_setup_contacting_email_server"
+msgstr "Kontaktovanie e-mailového servera"
+
+msgid "nm_account_setup_email_adv_details"
+msgstr "Pokročilé nastavenia"
+
+msgid "nm_account_setup_email_delivery"
+msgstr "Doručenie e-mailu"
+
+msgid "nm_account_setup_email_details"
+msgstr "Podrobnosti e-mailu"
+
+msgid "nm_account_setup_getting_email_settings"
+msgstr "Načítanie nastavenia e-mailu"
+
+msgid "nm_account_setup_retrieving_terms_conditions"
+msgstr "Obnovovanie Podmienok služby"
+
+msgid "nm_account_setup_terms_conditions"
+msgstr "Podmienky služby"
+
+msgid "nm_account_setup_validating"
+msgstr "Potvrdzovanie"
+
+#, fuzzy
+msgid "nm_authentication_failed"
+msgstr ""
+"Vaša skúšobná verzia vypršala. Kontaktujte službu Nokia Care alebo svojho "
+"poskytovateľa internetových služieb."
+
+msgid "nm_authentication_subscriptionexpired"
+msgstr ""
+"Vaše predplatné vypršalo. Kontaktujte službu Nokia Care alebo svojho "
+"poskytovateľa internetových služieb."
+
+msgid "nm_authentication_trialexpired"
+msgstr ""
+"Vaša skúšobná verzia vypršala. Kontaktujte službu Nokia Care alebo svojho "
+"poskytovateľa internetových služieb."
+
+msgid "nm_bd_dialog_cancel"
+msgstr "Zrušiť"
+
+msgid "nm_bd_dialog_ok"
+msgstr "Pokračovať"
+
+msgid "nm_bd_mailboxes"
+msgstr "Schránky"
+
+msgid "nm_bd_reset"
+msgstr "Znovu nastaviť účet"
+
+msgid "nm_bd_service_info"
+msgstr "Informácie o službe"
+
+msgid "nm_bd_synchronization"
+msgstr "Synchronizácia"
+
+msgid "nm_cancel_not_allowed"
+msgstr "Operácia prebieha. Prosím čakajte."
+
+msgid "nm_ckdg_ib_maximum_characters_reached"
+msgstr "Dosiahnutý maximálny počet znakov"
+
+msgid "nm_error_title"
+msgstr "Chyba"
+
+msgid "nm_fi_day_friday"
+msgstr "Piatok"
+
+msgid "nm_fi_day_monday"
+msgstr "Pondelok"
+
+msgid "nm_fi_day_saturday"
+msgstr "Sobota"
+
+msgid "nm_fi_day_sunday"
+msgstr "Nedeľa"
+
+msgid "nm_fi_day_thursday"
+msgstr "Štvrtok"
+
+msgid "nm_fi_day_tuesday"
+msgstr "Utorok"
+
+msgid "nm_fi_day_wednesday"
+msgstr "Streda"
+
+msgid "nm_fi_emailsetup_servername"
+msgstr "Názov servera"
+
+msgid "nm_fi_end_time"
+msgstr "Čas ukončenia"
+
+msgid "nm_fi_options_access_point"
+msgstr "Prístupový bod"
+
+msgid "nm_fi_options_addnewmailbox"
+msgstr "Pridať novou schránku"
+
+msgid "nm_fi_options_days"
+msgstr "Dni"
+
+msgid "nm_fi_options_delete"
+msgstr "Odstrániť"
+
+msgid "nm_fi_options_drafts"
+msgstr "Synchronizovať Koncepty"
+
+msgid "nm_fi_options_edit"
+msgstr "Upraviť"
+
+msgid "nm_fi_options_email_download_size"
+msgstr "Veľkosť pre stiahnutie"
+
+msgid "nm_fi_options_email_download_size_full_message"
+msgstr "Úplná správa"
+
+msgid "nm_fi_options_email_download_size_headers_only"
+msgstr "Iba hlavičky"
+
+msgid "nm_fi_options_email_download_size_headers_plus"
+msgstr "Neúplná správa"
+
+msgid "nm_fi_options_email_remove_older_than"
+msgstr "Odstrániť položky staršie ako"
+
+msgid "nm_fi_options_hours"
+msgstr "Čas"
+
+msgid "nm_fi_options_inbox"
+msgstr "Synchronizovať Prijaté"
+
+msgid "nm_fi_options_password"
+msgstr "Heslo"
+
+msgid "nm_fi_options_password_required"
+msgstr "Pre prevedenie zmeny mena je vyžadované heslo"
+
+msgid "nm_fi_options_reset_data"
+msgstr "Znovu nastaviť dáta"
+
+msgid "nm_fi_options_sent_items"
+msgstr "Synchronizovať Odoslané"
+
+msgid "nm_fi_options_server_name"
+msgstr "Názov servera"
+
+msgid "nm_fi_options_signature"
+msgstr "Podpis"
+
+msgid "nm_fi_options_start"
+msgstr "Spustiť"
+
+msgid "nm_fi_options_sync_days"
+msgstr "Nokia Messaging: Synchronizácia dňov"
+
+msgid "nm_fi_options_sync_interval"
+msgstr "Odoslať a prijať"
+
+msgid "nm_fi_options_sync_power"
+msgstr "Vypnúť synchronizáciu"
+
+msgid "nm_fi_options_sync_while_roaming"
+msgstr "Synchronizovať pri roamingu"
+
+msgid "nm_fi_options_use_secure_login_incoming"
+msgstr "Bezpečne prihlásiť k serveru prichádzajúcej pošty"
+
+msgid "nm_fi_options_use_secure_login_outgoing"
+msgstr "Bezpečne prihlásiť k serveru odchádzajúcej pošty"
+
+msgid "nm_fi_options_user_name"
+msgstr "Užívateľské meno"
+
+msgid "nm_fi_start_time"
+msgstr "Čas spustenia"
+
+msgid "nm_fi_sync_days_all"
+msgstr "Každý deň"
+
+msgid "nm_fi_sync_days_custom"
+msgstr "Vlastné nastavenie"
+
+msgid "nm_fi_sync_days_never"
+msgstr "Nikdy"
+
+msgid "nm_fi_sync_days_weekdays"
+msgstr "Pracovné dni"
+
+msgid "nm_fi_sync_days_weekends"
+msgstr "Víkendy"
+
+msgid "nm_fi_sync_drafts"
+msgstr "Synchronizovať Koncepty"
+
+msgid "nm_fi_sync_inbox"
+msgstr "Synchronizovať Prijaté"
+
+msgid "nm_fi_sync_read_server_enabled"
+msgstr "Označiť správy ako prečítané na serveri"
+
+msgid "nm_fi_sync_sent_items"
+msgstr "Synchronizovať Odoslané"
+
+msgid "nm_ib_advsetup_settings_saved"
+msgstr "Nastavenie uložené"
+
+msgid "nm_ib_daemon_not_connected"
+msgstr "Démon služby Nokia messaging nie je dostupný"
+
+msgid "nm_imum_nc_wizard_confirm_lose_changes"
+msgstr ""
+"Všetky prevedené zmeny nastavenia budú stratené.\n"
+"Pokračovať?"
+
+#, fuzzy
+msgid "nm_initializing_synchronization"
+msgstr "Nokia Messaging: Synchronizácia"
+
+#, fuzzy
+msgid "nm_invalid_server_settings"
+msgstr "Nastavenie služby Nokia Messaging"
+
+msgid "nm_mail_de_intro_bundle"
+msgstr ""
+"Ak chcete aktivovať svoj účet služby Nokia Messaging a získať automatické "
+"doručovanie e-mailov, prijmite Podmienky služby."
+
+msgid "nm_mail_de_intro_default"
+msgstr ""
+"Nokia Messaging je predplatiteľská služba, ktorá automaticky preposiela vaše "
+"e-maily do zložky Prijaté. Teraz sa k nej môžete prihlásiť, bez toho aby vám "
+"bol účtovaný zvláštny poplatok."
+
+msgid "nm_mail_de_intro_isp"
+msgstr ""
+"Nokia Messaging je predplatiteľská služba, ktorá spolupracuje s vaším "
+"poskytovateľom e-mailových služieb, a automaticky preposiela vaše e-maily do "
+"zložky Prijaté. Teraz sa k nej môžete prihlásiť, bez toho aby vám bol "
+"účtovaný zvláštny poplatok."
+
+msgid "nm_mail_de_no"
+msgstr "Nie, ďakujem"
+
+msgid "nm_mail_de_password"
+msgstr "Heslo"
+
+msgid "nm_mail_de_tos_link"
+msgstr ""
+"Klepnutím na možnosť „Nasledujúci“ prijímam všetky [Podmienky služby] pre "
+"tuto skúšobnú verziu."
+
+msgid "nm_mail_de_tos_link_bundle"
+msgstr ""
+"Klepnutím na možnosť „Nasledujúci“ prijímam všetky [Podmienky služby Nokia "
+"Messaging]."
+
+msgid "nm_mail_de_tos_link_manual_text"
+msgstr "Nové správy môžete skontrolovať ručne."
+
+msgid "nm_mail_de_yes"
+msgstr "Áno! Chcem sa prihlásiť."
+
+msgid "nm_mail_de_yes_bundle"
+msgstr "Aktivovať môj účet"
+
+msgid "nm_mail_fi_email_address"
+msgstr "E-mailová adresa"
+
+msgid "nm_mail_fi_incoming_port"
+msgstr "Port prichádzajúcej pošty"
+
+msgid "nm_mail_fi_incoming_server"
+msgstr "Server prichádzajúcej pošty"
+
+msgid "nm_mail_fi_mailbox_name"
+msgstr "Názov schránky"
+
+msgid "nm_mail_fi_my_name"
+msgstr "Moje meno"
+
+msgid "nm_mail_fi_outgoing_port"
+msgstr "Port odchádzajúcej pošty"
+
+msgid "nm_mail_fi_outgoing_server"
+msgstr "Server odchádzajúcej pošty"
+
+msgid "nm_mail_fi_password"
+msgstr "Heslo"
+
+msgid "nm_mail_fi_password_prompt"
+msgstr ""
+"Zadané heslo nie je správne. Zadaním správneho hesla dokončíte nastavenie "
+"účtu služby Nokia Messaging."
+
+msgid "nm_mail_fi_user_name"
+msgstr "Užívateľské meno"
+
+msgid "nm_mail_fi_username"
+msgstr "Užívateľské meno"
+
+msgid "nm_mail_fi_username_hint"
+msgstr "Vyžadované niektorým z poskytovateľov internetových služieb"
+
+msgid "nm_mail_fi_username_password_prompt"
+msgstr ""
+"E-mailová adresa už bola pridružená k účtu služby Nokia Messaging. Zadaním "
+"údajov pre účet služby Nokia Messaging dokončíte nastavenie e-mailu."
+
+msgid "nm_mail_ib_setting_failed"
+msgstr "Nastavenie nemožno uložiť"
+
+msgid "nm_mail_type"
+msgstr "Typ e-mailu"
+
+msgid "nm_mail_type_imap"
+msgstr "IMAP"
+
+msgid "nm_mail_type_pop"
+msgstr "POP"
+
+msgid "nm_me_folder_drafts"
+msgstr "Koncepty"
+
+msgid "nm_me_folder_inbox"
+msgstr "Prijaté"
+
+msgid "nm_me_folder_sent"
+msgstr "Odoslané položky"
+
+msgid "nm_me_inbox_options"
+msgstr "Nastavenie"
+
+msgid "nm_me_inbox_options_global"
+msgstr "<Nativný protokol>"
+
+msgid "nm_me_inbox_options_nes"
+msgstr "Nokia Messaging"
+
+msgid "nm_nms_cannot_download_attachment"
+msgstr "Príloha je pre stiahnutie príliš veľká"
+
+msgid "nm_nms_downloading_attachment"
+msgstr "Sťahovanie"
+
+msgid "nm_nms_password_prompt"
+msgstr ""
+"Zadajte heslo služby Nokia Messaging. Jedná sa o heslo pre nastavenie prvej "
+"e-mailové adresy pre službu Nokia Messaging."
+
+msgid "nm_ods_email_intro"
+msgstr ""
+"Vaše e-mailová adresa spolu s ďalšími technickými informáciami, napr. ID "
+"prístroja, bude odoslaná spoločnosti Nokia. Spoločnosť Nokia nebude po "
+"aktivácií spracovávať ani ukladať žiadne osobné identifikovateľné informácie "
+"bez vašeho súhlasu."
+
+msgid "nm_ods_error_account_locked"
+msgstr ""
+"Účet bol zablokovaný v dôsledku príliš veľa nepodarených prihlásení. "
+"Kontaktujte službu Nokia Care alebo svojho poskytovateľa internetových "
+"služieb."
+
+msgid "nm_ods_error_cant_setup"
+msgstr ""
+"Problém pri nastavovaní schránky. Skontrolujte nastavenie a skuste to neskôr."
+
+msgid "nm_ods_error_generic"
+msgstr ""
+"Problém pri nastavovaní schránky. Skontrolujte nastavenie a skúste to "
+"neskôr. (%04x)"
+
+msgid "nm_ods_error_restart"
+msgstr "Nastavenie schránky bude zahájené znovu (%04lX)"
+
+msgid "nm_ods_phone_number"
+msgstr "Telefónne číslo"
+
+msgid "nm_ods_phone_number_required"
+msgstr "Zadaním telefónneho čísla overíte nastavenie e-mailu"
+
+msgid "nm_ods_setup_failed_emailid_exists_else_where"
+msgstr ""
+"E-mailová adresa je už zaregistrovaná pre iný účet služby Nokia Messaging"
+
+msgid "nm_ods_setup_failed_notenabled"
+msgstr ""
+"Váš účet nie je aktivovaný. Kontaktujte službu Nokia Care alebo svojho "
+"poskytovateľa internetových služieb."
+
+msgid "nm_ods_unable_to_connect"
+msgstr ""
+"Sprievodca nastavením sa nemôže pripojiť k e-mailovému serveru pomocou "
+"poskytnutých informácií."
+
+msgid "nm_reset_account"
+msgstr "Znovu nastaviť"
+
+msgid "nm_set_up_mail_at_later_time"
+msgstr "Nastaviť neskôr"
+
+msgid "nm_set_up_mailbox_anyway"
+msgstr "Napriek tomu nastaviť schránku"
+
+msgid "nm_set_up_mailbox_anyway_help_text"
+msgstr ""
+"Môžete sa pripojiť po skontrolovaní hesla alebo po úprave ostatných "
+"nastavení."
+
+msgid "nm_sync_hours_customize"
+msgstr "Prizpôsobiť"
+
+msgid "nm_sync_hours_on_all_day"
+msgstr "Celý deň"
+
+#, fuzzy
+msgid "nm_synchronizing"
+msgstr "Synchronizácia"
+
+msgid "nm_ti_intellisync_settings"
+msgstr "Nastavenie služby Nokia Messaging"
+
+msgid "nm_ti_intellisync_settings_mailboxes"
+msgstr "Nokia Messaging: Schránky"
+
+msgid "nm_ti_intellisync_settings_synchronization"
+msgstr "Nokia Messaging: Synchronizácia"
+
+msgid "nm_ti_mailbox_settings"
+msgstr "Nastavenie schránky"
+
+msgid "nm_ti_options_mailbox_account"
+msgstr "Účet"
+
+msgid "nm_ti_options_mailbox_user_info"
+msgstr "Informácie o užívateľovi"
+
+msgid "nm_ti_options_mailboxes"
+msgstr "Schránky"
+
+msgid "nm_ti_options_native_protocol"
+msgstr "Nastavenie pre <Nativný protokol>"
+
+msgid "nm_ti_options_nokia_email"
+msgstr "Nastavenie služby Nokia Messaging"
+
+msgid "nm_ti_options_service_info"
+msgstr "Informácie o službe"
+
+msgid "nm_ti_options_serviceinfo"
+msgstr "Informácie o službe"
+
+msgid "nm_ti_options_what_to_sync"
+msgstr "Čo synchronizovať"
+
+msgid "nm_ti_options_when_to_sync"
+msgstr "Kedy synchronizovať"
+
+msgid "nm_try_different_email_address"
+msgstr "Skúste inú e-mailovou adresu"
+
+msgid "nm_unable_to_set_up_this_mailbox_with_info_provided"
+msgstr "Tuto schránku nemožno pomocou poskytnutých informácií nastaviť."
+
+msgid "nm_use_secure_login"
+msgstr "Použiť bezpečné prihlásenie"
+
+msgid "nm_va_delete_message_service"
+msgstr "Odstrániť službu Nokia Messaging a všetky pridružené schránky?"
+
+msgid "nm_va_delete_multimail_mailbox"
+msgstr ""
+"Odstrániť z prístroja?\n"
+"'%s'"
+
+msgid "nm_va_delete_nokia_messaging"
+msgstr ""
+"Odstrániť službu Nokia Messaging a všetky\n"
+"k nej pridružené schránky z prístroja?"
+
+msgid "nm_va_deleting_multimail_mailbox"
+msgstr ""
+"Odstraňovanie schránky\n"
+"'%s'"
+
+msgid "nm_va_intellisync"
+msgstr "Nokia Messaging"
+
+msgid "nm_va_multimail_mailbox_added_message"
+msgstr ""
+"Nová schránka bude dostupná po prevedení ďalšej synchronizácie s poštovým "
+"serverom"
+
+msgid "nm_va_multimail_mailbox_delete_failed"
+msgstr "Odstránenie schránky sa nepodarilo"
+
+msgid "nm_va_multimail_mailbox_password_change_failed"
+msgstr "Zmena mena sa nepodarila. Skontrolujte heslo a skúste to znovu."
+
+#, fuzzy
+msgid "nm_va_multimail_mailbox_removed_message"
+msgstr ""
+"Nová schránka bude dostupná po prevedení ďalšej synchronizácie s poštovým "
+"serverom"
+
+msgid "nm_va_options_access_point_default"
+msgstr "Predvolený"
+
+msgid "nm_va_options_older_than_1_month"
+msgstr "1 mesiac"
+
+msgid "nm_va_options_older_than_1_week"
+msgstr "1 týždeň"
+
+msgid "nm_va_options_older_than_2_weeks"
+msgstr "2 týždne"
+
+msgid "nm_va_options_older_than_3_days"
+msgstr "3 dni"
+
+msgid "nm_va_options_older_than_5_days"
+msgstr "5 dní"
+
+msgid "nm_va_options_server_name"
+msgstr "Názov servera"
+
+msgid "nm_va_options_service_info"
+msgstr "Nokia Messaging: Informácie o službe"
+
+msgid "nm_va_options_signature"
+msgstr "Podpis"
+
+msgid "nm_va_options_signature_default_text"
+msgstr "Odoslané z môjho mobilného počítača pomocou služby Nokia Messaging"
+
+msgid "nm_va_options_signature_for_mailbox_name"
+msgstr "Podpis pre %s"
+
+msgid "nm_va_options_sync_hours_all_day"
+msgstr "Celý deň"
+
+msgid "nm_va_options_sync_hours_custom_time"
+msgstr "Nokia Messaging: Synchronizácia hodín"
+
+msgid "nm_va_options_sync_hours_customize"
+msgstr "Prispôsobiť"
+
+msgid "nm_va_options_sync_interval_12_hours"
+msgstr "Každých 12 hodín"
+
+msgid "nm_va_options_sync_interval_1_day"
+msgstr "Každých 24 hodín"
+
+msgid "nm_va_options_sync_interval_1_hour"
+msgstr "Každú hodinu"
+
+msgid "nm_va_options_sync_interval_4_hours"
+msgstr "Každé 4 hodiny"
+
+msgid "nm_va_options_sync_interval_half_hour"
+msgstr "Každých 30 minút"
+
+msgid "nm_va_options_sync_interval_push"
+msgstr "Čo najskôr"
+
+msgid "nm_va_options_sync_interval_qtr_hour"
+msgstr "Každých 15 minút"
+
+msgid "nm_va_options_sync_power_20"
+msgstr "Stav batérie: 20%"
+
+msgid "nm_va_options_sync_power_5"
+msgstr "Stav batérie: 5%"
+
+msgid "nm_va_options_sync_power_never"
+msgstr "Nikdy"
+
+msgid "nm_va_options_sync_power_server"
+msgstr "Hodnota servera"
+
+msgid "nm_va_options_sync_power_server_battery_level"
+msgstr "Stav batérie: %ld%%"
+
+msgid "nm_va_options_use_signature"
+msgstr "Použíť podpis"
+
+msgid "nm_va_options_user_name"
+msgstr "Užívateľské meno"
+
+msgid "nm_va_reset_data"
+msgstr ""
+"Nahradenie dát v prístroji dátami zo servera môže trvať niekoľko minút. "
+"Pokračovať?"
+
+msgid "nm_va_saving_multimail_mailbox_settings"
+msgstr "Potvrdzovanie zmeneného nastavenia"
+
+msgid "nm_wdgt_bd_delete"
+msgstr "Odstrániť"
+
+msgid "nm_wdgt_bd_done"
+msgstr "Hotovo"
+
+msgid "nm_wdgt_bd_save"
+msgstr "Uložiť"
+
+msgid "nm_wdgt_rb_no"
+msgstr "Nie"
+
+msgid "nm_wdgt_rb_yes"
+msgstr "Áno"
