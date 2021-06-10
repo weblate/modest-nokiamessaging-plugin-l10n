@@ -1,0 +1,591 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2011-11-06 15:09+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "nm_account_authentication"
+msgstr "سندیت"
+
+msgid "nm_account_existing"
+msgstr "حساب کاربری موجود"
+
+msgid "nm_account_existing_intro"
+msgstr "در حال حاضر حساب کاربری نوکیا برای ارسال ایمیل به این دستگاه وجود دارد"
+
+msgid "nm_account_existing_no_info"
+msgstr "برای چک کردن پیام جدید ، می‌توانید بصورت دستی عمل کنید"
+
+msgid "nm_account_existing_rb_no"
+msgstr "ایجاد صندوق پستی جداگانه"
+
+msgid "nm_account_existing_rb_yes"
+msgstr "این آدرس را به حساب اضافه کنید"
+
+msgid "nm_account_setup_complete"
+msgstr "تنظیمات حساب کاربری تمام شد.\n\nدکمه 'پایان' را برای ذخیره کردن فشار دهید.شما می‌توانید این تنظیمات را بوسیله‌ی گزینه‌ی 'ویرایش حساب کاربری ' در منو ویرایش کنید."
+
+msgid "nm_account_setup_completing_email_setup"
+msgstr "در حال اتمام تنظیمات ایمیل"
+
+msgid "nm_account_setup_contacting_email_server"
+msgstr "در حال تماس با سرور ایمیل"
+
+msgid "nm_account_setup_email_adv_details"
+msgstr "تنظیمات پیشرفته"
+
+msgid "nm_account_setup_email_delivery"
+msgstr "گزارش تحویل ایمیل"
+
+msgid "nm_account_setup_email_details"
+msgstr "جزئیات ایمیل"
+
+msgid "nm_account_setup_getting_email_settings"
+msgstr "بدست آوردن تنظیمات ایمیل"
+
+msgid "nm_account_setup_retrieving_terms_conditions"
+msgstr "بدست آوردن شرایط سرویس"
+
+msgid "nm_account_setup_terms_conditions"
+msgstr "شرایط سرویس"
+
+msgid "nm_account_setup_validating"
+msgstr "معتبر ساختن"
+
+msgid "nm_authentication_failed"
+msgstr "نام کاربری و پسوورد معتبر نیست.لطفا اعتبار را چک کنید و دوباره سعی کنید"
+
+msgid "nm_authentication_subscriptionexpired"
+msgstr "اشتراک شما به پایان رسیده است.با خدمات نوکیا و یا سرویس دهنده‌ی اینترنتتان تماس بگیرید."
+
+msgid "nm_authentication_trialexpired"
+msgstr "دوره آزمایشی شما به پایان رسیده است.با خدمات نوکیا و یا سرویس دهنده‌ی اینترنتتان تماس بگیرید."
+
+msgid "nm_bd_dialog_cancel"
+msgstr "لغو"
+
+msgid "nm_bd_dialog_ok"
+msgstr "ادامه"
+
+msgid "nm_bd_mailboxes"
+msgstr "صندوق‌های پستی"
+
+msgid "nm_bd_reset"
+msgstr "بازیابی حساب کاربری"
+
+msgid "nm_bd_service_info"
+msgstr "اطلاعات خدمات"
+
+msgid "nm_bd_synchronization"
+msgstr "همسان‌سازی"
+
+msgid "nm_cancel_not_allowed"
+msgstr "عملیات در حال انجام است.  لطفا صبر کنید..."
+
+msgid "nm_ckdg_ib_maximum_characters_reached"
+msgstr "به تعداد حداکثر کاراکتر رسید"
+
+msgid "nm_error_title"
+msgstr "خطا"
+
+msgid "nm_fi_day_friday"
+msgstr "جمعه"
+
+msgid "nm_fi_day_monday"
+msgstr "دوشنبه"
+
+msgid "nm_fi_day_saturday"
+msgstr "شنبه"
+
+msgid "nm_fi_day_sunday"
+msgstr "یکشنبه"
+
+msgid "nm_fi_day_thursday"
+msgstr "پنج‌شنبه"
+
+msgid "nm_fi_day_tuesday"
+msgstr "سه‌شنبه"
+
+msgid "nm_fi_day_wednesday"
+msgstr "چهار‌شنبه"
+
+msgid "nm_fi_emailsetup_servername"
+msgstr "نام سرور"
+
+msgid "nm_fi_end_time"
+msgstr "زمان پایان"
+
+msgid "nm_fi_options_access_point"
+msgstr "نقطه‌ی دستیابی"
+
+msgid "nm_fi_options_addnewmailbox"
+msgstr "اضافه کردن صندوق پستی جدید"
+
+msgid "nm_fi_options_days"
+msgstr "روزها"
+
+msgid "nm_fi_options_delete"
+msgstr "حذف"
+
+msgid "nm_fi_options_drafts"
+msgstr "همسان‌سازی پیش‌نویس‌ها"
+
+msgid "nm_fi_options_edit"
+msgstr "ویرایش"
+
+msgid "nm_fi_options_email_download_size"
+msgstr "حجم دانلود"
+
+msgid "nm_fi_options_email_download_size_full_message"
+msgstr "پیام کامل"
+
+msgid "nm_fi_options_email_download_size_headers_only"
+msgstr "فقط عناوین"
+
+msgid "nm_fi_options_email_download_size_headers_plus"
+msgstr "پیام جزئی"
+
+msgid "nm_fi_options_email_remove_older_than"
+msgstr "حذف موارد قدیمی تر از"
+
+msgid "nm_fi_options_hours"
+msgstr "ساعات"
+
+msgid "nm_fi_options_inbox"
+msgstr "همسان‌سازی صندوق دریافت"
+
+msgid "nm_fi_options_password"
+msgstr "رمز عبور"
+
+msgid "nm_fi_options_password_required"
+msgstr "رمز عبور برای تغییر نام نیاز است"
+
+msgid "nm_fi_options_reset_data"
+msgstr "بازچینی اطلاعات"
+
+msgid "nm_fi_options_sent_items"
+msgstr "همسان‌سازی آیتم‌های ارسالی"
+
+msgid "nm_fi_options_server_name"
+msgstr "نام سرور"
+
+msgid "nm_fi_options_signature"
+msgstr "امضاء"
+
+msgid "nm_fi_options_start"
+msgstr "شروع"
+
+msgid "nm_fi_options_sync_days"
+msgstr "پیغام نوکیا:همسان‌سازی روزها"
+
+msgid "nm_fi_options_sync_interval"
+msgstr "ارسال و دریافت"
+
+msgid "nm_fi_options_sync_power"
+msgstr "غیرفعال کردن همسان‌سازی، هنگامی که"
+
+msgid "nm_fi_options_sync_while_roaming"
+msgstr "همسان‌سازی در زمان رومینگ"
+
+msgid "nm_fi_options_use_secure_login_incoming"
+msgstr " استفاده از ورود ایمن برای سرور‌های دریافتی"
+
+msgid "nm_fi_options_use_secure_login_outgoing"
+msgstr " استفاده از ورود ایمن برای سرور‌های ارسالی"
+
+msgid "nm_fi_options_user_name"
+msgstr "نام کاربری"
+
+msgid "nm_fi_start_time"
+msgstr "زمان آغاز"
+
+msgid "nm_fi_sync_days_all"
+msgstr "هر روز"
+
+msgid "nm_fi_sync_days_custom"
+msgstr "سفارشی"
+
+msgid "nm_fi_sync_days_never"
+msgstr "هرگز"
+
+msgid "nm_fi_sync_days_weekdays"
+msgstr "روزهای هفته"
+
+msgid "nm_fi_sync_days_weekends"
+msgstr "آخر هفته"
+
+msgid "nm_fi_sync_drafts"
+msgstr "همسان‌سازی پیش‌نویس‌ها"
+
+msgid "nm_fi_sync_inbox"
+msgstr "همسان‌سازی صندوق"
+
+msgid "nm_fi_sync_read_server_enabled"
+msgstr "علامت گذاری پیام‌ها به عنوان خوانده شده در سرور"
+
+msgid "nm_fi_sync_sent_items"
+msgstr "همسان‌سازی آیتم‌های ارسالی"
+
+msgid "nm_ib_advsetup_settings_saved"
+msgstr "تنظیمات ذخیره شد"
+
+msgid "nm_ib_daemon_not_connected"
+msgstr "پیام‌رسانی نوکیا در دسترس نیست"
+
+msgid "nm_imum_nc_wizard_confirm_lose_changes"
+msgstr "تمام تغییرات انجام شده در تنظیمات از بین می‌رود.\nایا ادامه می‌دهد?"
+
+msgid "nm_initializing_synchronization"
+msgstr "شروع همسان‌سازی"
+
+msgid "nm_invalid_server_settings"
+msgstr "نمی‌توان به ارائه‌ی دهنده ایمیل وصل شد .لطفا تنظیمات را چک کنید"
+
+msgid "nm_mail_de_intro_bundle"
+msgstr "شرایط سرویس را برای فعال سازی حساب پیام‌رسانی نوکیا و تحویل خودکار ایمیل‌ها ، قبول کنید."
+
+msgid "nm_mail_de_intro_default"
+msgstr "پیام‌رسانی نوکیا یک اشتراک است که ایمیل های شما را به صورت اتوماتیک به صندوقتان می فرستد. شما هم اکنون می‌توانید به صورت رایگان ثبت نام کنید"
+
+msgid "nm_mail_de_intro_isp"
+msgstr "پیام‌رسانی نوکیا یک اشتراک است که با سرویس دهنده‌ی ایمیل شما کار می‌کند و ایمیل های شما را به صورت اتوماتیک به صندوقتان می‌فرستد. شما هم اکنون می‌توانید به صورت رایگان ثبت نام کنید"
+
+msgid "nm_mail_de_no"
+msgstr "نه متشکرم"
+
+msgid "nm_mail_de_password"
+msgstr "رمز عبور"
+
+msgid "nm_mail_de_tos_link"
+msgstr "با کیلیک بر روی بعدی من تمام شرایط  سرویس را برای این اشتراک آزمایشی قبول می کنم "
+
+msgid "nm_mail_de_tos_link_bundle"
+msgstr "با کیلیک بر روی بعدی من تمام شرایط سرویس را برای پیام‌رسان نوکیا قبول می‌کنم "
+
+msgid "nm_mail_de_tos_link_manual_text"
+msgstr "شما می‌توانید پیام‌هایتان را بصورت دستی چک کنید."
+
+msgid "nm_mail_de_yes"
+msgstr "بله! من می‌خواهم ثبت نام کنم."
+
+msgid "nm_mail_de_yes_bundle"
+msgstr "فعال‌سازی اکانت من"
+
+msgid "nm_mail_fi_email_address"
+msgstr "آدرس ایمیل"
+
+msgid "nm_mail_fi_incoming_port"
+msgstr "پورت ورودی"
+
+msgid "nm_mail_fi_incoming_server"
+msgstr "سرور ورودی"
+
+msgid "nm_mail_fi_mailbox_name"
+msgstr "عنوان صندوق پستی"
+
+msgid "nm_mail_fi_my_name"
+msgstr "نام من"
+
+msgid "nm_mail_fi_outgoing_port"
+msgstr "پورت خروجی"
+
+msgid "nm_mail_fi_outgoing_server"
+msgstr "سرور خروجی"
+
+msgid "nm_mail_fi_password"
+msgstr "رمز عبور"
+
+msgid "nm_mail_fi_password_prompt"
+msgstr "کلکه عبور وارد شده اشتباه است.کلمه عبور صحیح را وارد کنید تا پیکربندی سرویس پیام‌رسان نوکیا کامل شود"
+
+msgid "nm_mail_fi_user_name"
+msgstr "نام کاربری"
+
+msgid "nm_mail_fi_username"
+msgstr "نام کاربری"
+
+msgid "nm_mail_fi_username_hint"
+msgstr "مورد نیاز از سوی برخی از شرکت های سرویس‌دهنده‌ی اینترنت"
+
+msgid "nm_mail_fi_username_password_prompt"
+msgstr "ایمیل هم اکنون با حساب پیام‌رسان نوکیا ارتباط دارد. حساب معتبر پیام‌رسان نوکیا را وارد کنید تا تنظیمات ایمیل کامل شود."
+
+msgid "nm_mail_ib_setting_failed"
+msgstr "قادر به ذخیره‌ی تنظیمات نمی‌باشد"
+
+msgid "nm_mail_type"
+msgstr "نوع ایمیل"
+
+msgid "nm_mail_type_imap"
+msgstr "IMAP"
+
+msgid "nm_mail_type_pop"
+msgstr "POP"
+
+msgid "nm_me_folder_drafts"
+msgstr "پیش‌نویس‌ها"
+
+msgid "nm_me_folder_inbox"
+msgstr "صندوق"
+
+msgid "nm_me_folder_sent"
+msgstr "موارد ارسالی"
+
+msgid "nm_me_inbox_options"
+msgstr "تنظیمات"
+
+msgid "nm_me_inbox_options_global"
+msgstr "<پروتکل محلی>"
+
+msgid "nm_me_inbox_options_nes"
+msgstr "پیام‌رسانی نوکیا"
+
+msgid "nm_nms_cannot_download_attachment"
+msgstr "ضمیمه برای دانلود بیش از حد حجیم است"
+
+msgid "nm_nms_downloading_attachment"
+msgstr "در حال دانلود"
+
+msgid "nm_nms_password_prompt"
+msgstr "رمز عبور پیام‌رسان نوکیا را وارد کنید. این رمز عبور برای تنظیمات اولین ایمیل برای پیام‌رسان نوکیا است."
+
+msgid "nm_ods_email_intro"
+msgstr "آدرس ایمیل شما همراه با دیگر اطلاعات فنی نظیر شماره شناسایی دستگاه به نوکیا فرستاده خواهد شد. نوکیا اطلاعات شخصی شما را بعد از فعال‌سازی بدون رضایت شما پردازش یا ذخیره نمی‌کند."
+
+msgid "nm_ods_error_account_locked"
+msgstr "حساب شما به دلیل ورود ناموفق بیش از حد مجاز مسدود شده است. با نوکیا یا سرویس دهنده‌ی اینترنت خود تماس بگیرید."
+
+msgid "nm_ods_error_cant_setup"
+msgstr "مشکل در راه اندازی صندوق پستی. لطفا تنظیمات را چک کنید و بعدا دوباره تلاش کنید."
+
+msgid "nm_ods_error_generic"
+msgstr "مشکلات راه اندازی صندوق پستی. لطفا تنظیمات  را بررسی نمائید و بعدا مجدد تلاش کنید"
+
+msgid "nm_ods_error_restart"
+msgstr "ستاپ دوباره راه‌اندازی خواهد شد (%04lX)"
+
+msgid "nm_ods_phone_number"
+msgstr "شماره تلفن"
+
+msgid "nm_ods_phone_number_required"
+msgstr "برای تائید هویت تنظیمات ایمیل ،شماره تلفن خود را وارد کنید"
+
+msgid "nm_ods_setup_failed_emailid_exists_else_where"
+msgstr "این ایمیل قبلا برای حساب پیام‌رسانی نوکیا ثبت شده است."
+
+msgid "nm_ods_setup_failed_notenabled"
+msgstr "حساب کاربری شما فعال نیست. با خدمات نوکیا یا ارائه دهنده‌ی خدمات اینترنت خود تماس بگیرید"
+
+msgid "nm_ods_unable_to_connect"
+msgstr "فرآیند قادر به اتصال به سرور ایمیل با اطلاعات ارائه شده نیست"
+
+msgid "nm_reset_account"
+msgstr "بازچینی"
+
+msgid "nm_set_up_mail_at_later_time"
+msgstr "بعدا تنظیم میکنم"
+
+msgid "nm_set_up_mailbox_anyway"
+msgstr "صندوق ایمیل را در هر صورت تنظیم کن"
+
+msgid "nm_set_up_mailbox_anyway_help_text"
+msgstr "اتصال بعد از چک کردن رمز عبور و تنظیمات ممکن خواهد بود."
+
+msgid "nm_sync_hours_customize"
+msgstr "سفارشی‌سازی"
+
+msgid "nm_sync_hours_on_all_day"
+msgstr "تمام طول روز"
+
+msgid "nm_synchronizing"
+msgstr "در حال همسان‌سازی"
+
+msgid "nm_ti_intellisync_settings"
+msgstr "تنظیمات برای پیام‌رسان نوکیا"
+
+msgid "nm_ti_intellisync_settings_mailboxes"
+msgstr "پیام‌رسان نوکیا: صندوق ایمیل"
+
+msgid "nm_ti_intellisync_settings_synchronization"
+msgstr "پیام‌رسان نوکیا:همسات‌سازی"
+
+msgid "nm_ti_mailbox_settings"
+msgstr "تنظیمات صندوق ایمیل"
+
+msgid "nm_ti_options_mailbox_account"
+msgstr "حساب کاربری"
+
+msgid "nm_ti_options_mailbox_user_info"
+msgstr "اطلاعات کاربر"
+
+msgid "nm_ti_options_mailboxes"
+msgstr "صندوق‌های پستی"
+
+msgid "nm_ti_options_native_protocol"
+msgstr "تنظیم برای<پروتکل محلی>"
+
+msgid "nm_ti_options_nokia_email"
+msgstr "تنظیم برای پیام‌رسان نوکیا"
+
+msgid "nm_ti_options_service_info"
+msgstr "اطلاعات سرویس"
+
+msgid "nm_ti_options_serviceinfo"
+msgstr "اطلاعات سرویس"
+
+msgid "nm_ti_options_what_to_sync"
+msgstr "همسان‌سازی چه چیزی "
+
+msgid "nm_ti_options_when_to_sync"
+msgstr "همسان‌سازی چه زمانی "
+
+msgid "nm_try_different_email_address"
+msgstr "با یک ایمیل دیگر امتحان کنید"
+
+msgid "nm_unable_to_set_up_this_mailbox_with_info_provided"
+msgstr "قادر به راه‌اندازی این صندوق ایمیل با اطلاعات ارائه شده نیست"
+
+msgid "nm_use_secure_login"
+msgstr "از ورود امن استفاده کنید"
+
+msgid "nm_va_delete_message_service"
+msgstr "حذف سرویس پیام‌رسان نوکیا و تمام ایمیل‌های متصل؟"
+
+msgid "nm_va_delete_multimail_mailbox"
+msgstr "حذف از این دستگاه?\n'%s'"
+
+msgid "nm_va_delete_nokia_messaging"
+msgstr "حذف سرویس پیام‌رسان نوکیا و تمام صندوق‌های پستی متصل از دستگاه؟"
+
+msgid "nm_va_deleting_multimail_mailbox"
+msgstr "در حال حذف صندوق ایمیل\n'%s'"
+
+msgid "nm_va_intellisync"
+msgstr "پیام‌رسان نوکیا"
+
+msgid "nm_va_multimail_mailbox_added_message"
+msgstr "صندوق پستی جدید پس ازهمسان‌سازی بعدی با میل سرور در دسترس خواهد بود"
+
+msgid "nm_va_multimail_mailbox_delete_failed"
+msgstr "حذف صندوق پستی ناموفق بود"
+
+msgid "nm_va_multimail_mailbox_password_change_failed"
+msgstr "تغییر نام ناموفق بود. لطفا کلمه عبور را چک کنید و دوباره سعی کنید."
+
+msgid "nm_va_multimail_mailbox_removed_message"
+msgstr "صندوق پستی انتخاب شده بعد از همسان‌سازی بعدی با سرورمیل حذف خواهد شد."
+
+msgid "nm_va_options_access_point_default"
+msgstr "پیش فرض"
+
+msgid "nm_va_options_older_than_1_month"
+msgstr "یک ماه"
+
+msgid "nm_va_options_older_than_1_week"
+msgstr "یک هفته"
+
+msgid "nm_va_options_older_than_2_weeks"
+msgstr "دو هفته"
+
+msgid "nm_va_options_older_than_3_days"
+msgstr "سه روز"
+
+msgid "nm_va_options_older_than_5_days"
+msgstr "پنج روز"
+
+msgid "nm_va_options_server_name"
+msgstr "نام  سرور"
+
+msgid "nm_va_options_service_info"
+msgstr "پیام‌رسان نوکیا: اطلاعات سرویس"
+
+msgid "nm_va_options_signature"
+msgstr "امضاء"
+
+msgid "nm_va_options_signature_default_text"
+msgstr "فرستاده شده از نوکیا ان 900 من با استفاده از پیام‌رسان نوکیا"
+
+msgid "nm_va_options_signature_for_mailbox_name"
+msgstr "امضا برای %s"
+
+msgid "nm_va_options_sync_hours_all_day"
+msgstr "تمام طول روز"
+
+msgid "nm_va_options_sync_hours_custom_time"
+msgstr "پیام‌رسان نوکیا: همسان‌سازی ساعت‌ها"
+
+msgid "nm_va_options_sync_hours_customize"
+msgstr "سفارشی‌سازی"
+
+msgid "nm_va_options_sync_interval_12_hours"
+msgstr "هر دوازده ساعت"
+
+msgid "nm_va_options_sync_interval_1_day"
+msgstr "هر بیست و چهار ساعت"
+
+msgid "nm_va_options_sync_interval_1_hour"
+msgstr "هر ساعت"
+
+msgid "nm_va_options_sync_interval_4_hours"
+msgstr "هر چهار ساعت"
+
+msgid "nm_va_options_sync_interval_half_hour"
+msgstr "هر سی دقیقه"
+
+msgid "nm_va_options_sync_interval_push"
+msgstr "هر زمان که ممکن باشد"
+
+msgid "nm_va_options_sync_interval_qtr_hour"
+msgstr "هر پانزده دقیقه"
+
+msgid "nm_va_options_sync_power_20"
+msgstr "شارژ باطری در بیست درصد"
+
+msgid "nm_va_options_sync_power_5"
+msgstr "شارژ باطری در پنج درصد"
+
+msgid "nm_va_options_sync_power_never"
+msgstr "هرگز"
+
+msgid "nm_va_options_sync_power_server"
+msgstr "مقدار سرور"
+
+msgid "nm_va_options_sync_power_server_battery_level"
+msgstr "باطری در %ld%%"
+
+msgid "nm_va_options_use_signature"
+msgstr "استفاده از امضاء"
+
+msgid "nm_va_options_user_name"
+msgstr "نام کاربری"
+
+msgid "nm_va_reset_data"
+msgstr "جایگزین کردن داده‌های روی دستگاه با داده‌های روی سرور ممکن است دقایقی طول بکشد. ادامه می‌دهید؟"
+
+msgid "nm_va_saving_multimail_mailbox_settings"
+msgstr "در حال تایید تنظیمات تغییر داده شده"
+
+msgid "nm_wdgt_bd_delete"
+msgstr "حذف"
+
+msgid "nm_wdgt_bd_done"
+msgstr "انجام شد"
+
+msgid "nm_wdgt_bd_save"
+msgstr "ذخیره شد"
+
+msgid "nm_wdgt_rb_no"
+msgstr "خیر"
+
+msgid "nm_wdgt_rb_yes"
+msgstr "بلی"
