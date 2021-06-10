@@ -1,0 +1,591 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2012-04-20 07:49+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "nm_account_authentication"
+msgstr "Аўтэнтыфікацыя"
+
+msgid "nm_account_existing"
+msgstr "Існы рахунак"
+
+msgid "nm_account_existing_intro"
+msgstr "Рахунак Nokia Messaging ужо існуе на гэтым дэвайсе."
+
+msgid "nm_account_existing_no_info"
+msgstr "Вы можаце праверыць новыя паведамленні ўручную"
+
+msgid "nm_account_existing_rb_no"
+msgstr "Зрабіць асобную паштовую скрыню"
+
+msgid "nm_account_existing_rb_yes"
+msgstr "Дадаць гэты адрас да рахунку"
+
+msgid "nm_account_setup_complete"
+msgstr "Усталёўка рахунку завершана.\n\nНацісніце 'Скончыць' для захавання. Вы можаце адрэдагаваць гэтыя налады праз 'Змяніць Рахункі' ў меню."
+
+msgid "nm_account_setup_completing_email_setup"
+msgstr "Завяршэнне ўсталёўкі электроннай пошты"
+
+msgid "nm_account_setup_contacting_email_server"
+msgstr "Сувязь з серверам электроннай пошты"
+
+msgid "nm_account_setup_email_adv_details"
+msgstr "Дадатковыя налады"
+
+msgid "nm_account_setup_email_delivery"
+msgstr "Дастаўка электроннай пошты"
+
+msgid "nm_account_setup_email_details"
+msgstr "Дэталі аб электроннай пошце"
+
+msgid "nm_account_setup_getting_email_settings"
+msgstr "Набыццё налад электроннай пошты"
+
+msgid "nm_account_setup_retrieving_terms_conditions"
+msgstr "Атрыманне Умовы прадастаўлення паслуг"
+
+msgid "nm_account_setup_terms_conditions"
+msgstr "Умовы прадастаўлення паслуг"
+
+msgid "nm_account_setup_validating"
+msgstr "Пацвярджэнне"
+
+msgid "nm_authentication_failed"
+msgstr "Няправільнае імя карыстальніка ці пароль. Калі ласка, праверце паўнамоцтвы і паўтарыце зноў."
+
+msgid "nm_authentication_subscriptionexpired"
+msgstr "Ваша падпіска выцекла. Звяжыцеся з Nokia Care або з пастаўшчыком Сеціўных паслуг."
+
+msgid "nm_authentication_trialexpired"
+msgstr "Ваша выпрабаванне выцекла. Звяжыцеся з Nokia Care або з пастаўшчыком Сеціўных паслуг."
+
+msgid "nm_bd_dialog_cancel"
+msgstr "Скасаваць"
+
+msgid "nm_bd_dialog_ok"
+msgstr "Працягнуць"
+
+msgid "nm_bd_mailboxes"
+msgstr "Паштовыя скрыні"
+
+msgid "nm_bd_reset"
+msgstr "Перазапусціць рахунак"
+
+msgid "nm_bd_service_info"
+msgstr "Інфармацыя аб сервісе"
+
+msgid "nm_bd_synchronization"
+msgstr "Сінхранізацыя"
+
+msgid "nm_cancel_not_allowed"
+msgstr "Аперацыя выконваецца. Пачакайце."
+
+msgid "nm_ckdg_ib_maximum_characters_reached"
+msgstr "Дасягнута максімальная колькасць сімвалаў"
+
+msgid "nm_error_title"
+msgstr "Памылка"
+
+msgid "nm_fi_day_friday"
+msgstr "Пятніца"
+
+msgid "nm_fi_day_monday"
+msgstr "Панядзелак"
+
+msgid "nm_fi_day_saturday"
+msgstr "Субота"
+
+msgid "nm_fi_day_sunday"
+msgstr "Нядзеля"
+
+msgid "nm_fi_day_thursday"
+msgstr "Чацвер"
+
+msgid "nm_fi_day_tuesday"
+msgstr "Аўторак"
+
+msgid "nm_fi_day_wednesday"
+msgstr "Серада"
+
+msgid "nm_fi_emailsetup_servername"
+msgstr "Назва сервера"
+
+msgid "nm_fi_end_time"
+msgstr "Час заканчэння"
+
+msgid "nm_fi_options_access_point"
+msgstr "Кропка доступу"
+
+msgid "nm_fi_options_addnewmailbox"
+msgstr "Дадаць новую паштовую скрыню"
+
+msgid "nm_fi_options_days"
+msgstr "Дні"
+
+msgid "nm_fi_options_delete"
+msgstr "Выдаліць"
+
+msgid "nm_fi_options_drafts"
+msgstr "Сінхранізаваць чарнавікі"
+
+msgid "nm_fi_options_edit"
+msgstr "Рэдагаваць"
+
+msgid "nm_fi_options_email_download_size"
+msgstr "Памер запампоўкі"
+
+msgid "nm_fi_options_email_download_size_full_message"
+msgstr "Поўнае паведамленне"
+
+msgid "nm_fi_options_email_download_size_headers_only"
+msgstr "Толькі загалоўкі"
+
+msgid "nm_fi_options_email_download_size_headers_plus"
+msgstr "Частковае паведамленне"
+
+msgid "nm_fi_options_email_remove_older_than"
+msgstr "Выдаліць элементы, старэйшыя за"
+
+msgid "nm_fi_options_hours"
+msgstr "Гадзіны"
+
+msgid "nm_fi_options_inbox"
+msgstr "Сінхранізаваць уваходныя паведамленні"
+
+msgid "nm_fi_options_password"
+msgstr "Пароль"
+
+msgid "nm_fi_options_password_required"
+msgstr "Для змянення імені патрэбны пароль"
+
+msgid "nm_fi_options_reset_data"
+msgstr "Сцерці дадзеныя"
+
+msgid "nm_fi_options_sent_items"
+msgstr "Сінхранізаваць адпраўленыя элементы"
+
+msgid "nm_fi_options_server_name"
+msgstr "Назва сервера"
+
+msgid "nm_fi_options_signature"
+msgstr "Подпіс"
+
+msgid "nm_fi_options_start"
+msgstr "Пачаць"
+
+msgid "nm_fi_options_sync_days"
+msgstr "Nokia Messaging: сінхранізацыя дзён"
+
+msgid "nm_fi_options_sync_interval"
+msgstr "Адпраўка і атрыманне"
+
+msgid "nm_fi_options_sync_power"
+msgstr "Адключыць сінхранізацыю, калі"
+
+msgid "nm_fi_options_sync_while_roaming"
+msgstr "Сінхранізаваць у роўмінгу"
+
+msgid "nm_fi_options_use_secure_login_incoming"
+msgstr "Выкарыстоўваць бяспечны уваход для ўваходнага сервера"
+
+msgid "nm_fi_options_use_secure_login_outgoing"
+msgstr "Выкарыстоўваць бяспечны уваход для зыходнага сервера"
+
+msgid "nm_fi_options_user_name"
+msgstr "Імя карыстальніка"
+
+msgid "nm_fi_start_time"
+msgstr "Час пачатку"
+
+msgid "nm_fi_sync_days_all"
+msgstr "Кожны дзень"
+
+msgid "nm_fi_sync_days_custom"
+msgstr "Карыстальніцкі"
+
+msgid "nm_fi_sync_days_never"
+msgstr "Ніколі"
+
+msgid "nm_fi_sync_days_weekdays"
+msgstr "Будні"
+
+msgid "nm_fi_sync_days_weekends"
+msgstr "Выхадныя"
+
+msgid "nm_fi_sync_drafts"
+msgstr "Сінхранізаваць чарнавікі"
+
+msgid "nm_fi_sync_inbox"
+msgstr "Сінхранізаваць уваходныя паведамленні"
+
+msgid "nm_fi_sync_read_server_enabled"
+msgstr "Адзначыць паведамленні як прачытаныя на серверы"
+
+msgid "nm_fi_sync_sent_items"
+msgstr "Сінхранізаваць адпраўленыя элементы"
+
+msgid "nm_ib_advsetup_settings_saved"
+msgstr "Налады захаваныя"
+
+msgid "nm_ib_daemon_not_connected"
+msgstr "Працэс Nokia Messaging недаступны"
+
+msgid "nm_imum_nc_wizard_confirm_lose_changes"
+msgstr "Усе змены, унесеныя ў налады будуць згублены. \nПрацягнуць?"
+
+msgid "nm_initializing_synchronization"
+msgstr "Ініцыялізацыя сінхранізацыі"
+
+msgid "nm_invalid_server_settings"
+msgstr "Не атрымалася звязацца з пастаўшчыком паслуг электроннай пошты. Калі ласка, праверце налады."
+
+msgid "nm_mail_de_intro_bundle"
+msgstr "Прыміце Умовы прадастаўлення паслуг, каб актываваць ваш рахунак Nokia Messaging і атрымаеце аўтаматычную дастаўку на свой адрас электроннай пошты."
+
+msgid "nm_mail_de_intro_default"
+msgstr "Nokia Messaging ўяўляе сабой падпісны сэрвіс, які аўтаматычна перасылае электронную пошту на вашую паштовую скрыню. Вы можаце зарэгістравацца зараз бясплатна."
+
+msgid "nm_mail_de_intro_isp"
+msgstr "Nokia Messaging ўяўляе сабой падпісны сэрвіс, які працуе з вашым  пастаўшчыком паслуг электроннай пошты і аўтаматычна перанакіроўвае ваш адрас электроннай пошты на вашу паштовую скрыню. Вы можаце зарэгістравацца зараз бясплатна."
+
+msgid "nm_mail_de_no"
+msgstr "Не, дзякуй"
+
+msgid "nm_mail_de_password"
+msgstr "Пароль"
+
+msgid "nm_mail_de_tos_link"
+msgstr "Націскаючы 'Далей', я прымаю ўсе [Умовы прадастаўлення паслуг] для гэтай выпрабавальнай версіі."
+
+msgid "nm_mail_de_tos_link_bundle"
+msgstr "Націскаючы 'Далей', я прымаю ўсе [Умовы прадастаўлення паслуг Nokia Messaging]."
+
+msgid "nm_mail_de_tos_link_manual_text"
+msgstr "Вы можаце праверыць новыя паведамленні ўручную."
+
+msgid "nm_mail_de_yes"
+msgstr "Так! Я хачу зарэгістравацца."
+
+msgid "nm_mail_de_yes_bundle"
+msgstr "Актываваць мой рахунак."
+
+msgid "nm_mail_fi_email_address"
+msgstr "Адрас электроннай пошты"
+
+msgid "nm_mail_fi_incoming_port"
+msgstr "Уваходны порт"
+
+msgid "nm_mail_fi_incoming_server"
+msgstr "Уваходны сервер"
+
+msgid "nm_mail_fi_mailbox_name"
+msgstr "Назва паштовай скрыні"
+
+msgid "nm_mail_fi_my_name"
+msgstr "Маё імя"
+
+msgid "nm_mail_fi_outgoing_port"
+msgstr "Зыходны порт"
+
+msgid "nm_mail_fi_outgoing_server"
+msgstr "Зыходны сервер"
+
+msgid "nm_mail_fi_password"
+msgstr "Пароль"
+
+msgid "nm_mail_fi_password_prompt"
+msgstr "Пароль уведзены няправільна. Калі ласка, увядзіце правільны пароль для завяршэння ўсталёўкі рахунку Nokia Messaging."
+
+msgid "nm_mail_fi_user_name"
+msgstr "Імя карыстальніка"
+
+msgid "nm_mail_fi_username"
+msgstr "Імя карыстальніка"
+
+msgid "nm_mail_fi_username_hint"
+msgstr "Патрэбна для некаторых паслуг"
+
+msgid "nm_mail_fi_username_password_prompt"
+msgstr "Адрас электроннай пошты ўжо звязаны з рахунакам Nokia Messaging. Калі ласка, увядзіце імя карыстальніка і пароль Nokia Messaging для завяршэння налады электроннай пошты."
+
+msgid "nm_mail_ib_setting_failed"
+msgstr "Немагчыма захаваць налады"
+
+msgid "nm_mail_type"
+msgstr "Тып электроннай пошты"
+
+msgid "nm_mail_type_imap"
+msgstr "IMAP"
+
+msgid "nm_mail_type_pop"
+msgstr "POP"
+
+msgid "nm_me_folder_drafts"
+msgstr "Чарнавікі"
+
+msgid "nm_me_folder_inbox"
+msgstr "Уваходныя"
+
+msgid "nm_me_folder_sent"
+msgstr "Зыходныя"
+
+msgid "nm_me_inbox_options"
+msgstr "Налады"
+
+msgid "nm_me_inbox_options_global"
+msgstr "<пратакол па змаўчанні>"
+
+msgid "nm_me_inbox_options_nes"
+msgstr "Nokia Messaging"
+
+msgid "nm_nms_cannot_download_attachment"
+msgstr "Дадатак занадта вялікі для спампавання"
+
+msgid "nm_nms_downloading_attachment"
+msgstr "Спампаванне"
+
+msgid "nm_nms_password_prompt"
+msgstr "Увядзіце пароль для Nokia Messaging. Гэты пароль патрэбны для першапачатковай налады электроннай пошты Nokia Messaging."
+
+msgid "nm_ods_email_intro"
+msgstr "Ваш паштовы адрас, а таксама іншая тэхнічная інфармацыя, такая як ідэнтыфікатар дэвайса будзе адпраўлена на Nokia. Nokia не будзе апрацоўваць і захоўваць асабістую інфармацыю пасля актывацыі без вашай згоды."
+
+msgid "nm_ods_error_account_locked"
+msgstr "Рахунак заблакаваны пасля шматлікіх няўдалых спробаў. Звяжыцеся з Nokia Care або з пастаўшчыком Сеціўных паслуг."
+
+msgid "nm_ods_error_cant_setup"
+msgstr "Праблема стварэння паштовай скрыні. Калі ласка, праверце налады і паўтарыце спробу пазней."
+
+msgid "nm_ods_error_generic"
+msgstr "Праблема стварэння паштовай скрыні. Калі ласка, праверце налады і паўтарыце спробу пазней. (%04x)"
+
+msgid "nm_ods_error_restart"
+msgstr "Усталёка будзе скінута (%04lX)"
+
+msgid "nm_ods_phone_number"
+msgstr "Нумар тэлефона"
+
+msgid "nm_ods_phone_number_required"
+msgstr "Увядзіце свой ​​нумар тэлефона для праверкі сапраўднасці налад электроннай пошты"
+
+msgid "nm_ods_setup_failed_emailid_exists_else_where"
+msgstr "Адрас электроннай пошты ўжо зарэгістраваны на іншы рахунак Nokia Messaging"
+
+msgid "nm_ods_setup_failed_notenabled"
+msgstr "Ваш рахунак не ўключаны. Звяжыцеся з Nokia Care або з пастаўшчыком Сеціўных паслуг."
+
+msgid "nm_ods_unable_to_connect"
+msgstr "Майстру налад не атрымалася падлучыцца да запісу паштовага сервера."
+
+msgid "nm_reset_account"
+msgstr "Скінуць"
+
+msgid "nm_set_up_mail_at_later_time"
+msgstr "Наладзіць пазней"
+
+msgid "nm_set_up_mailbox_anyway"
+msgstr "Наладзіць паштовую скрыню ўсёроўна"
+
+msgid "nm_set_up_mailbox_anyway_help_text"
+msgstr "Падлучэнне будзе магчыма пасля праверкі пароля ці налады іншых параметраў."
+
+msgid "nm_sync_hours_customize"
+msgstr "Персаналізаваць"
+
+msgid "nm_sync_hours_on_all_day"
+msgstr "Увесь дзень"
+
+msgid "nm_synchronizing"
+msgstr "Сінхранізаванне"
+
+msgid "nm_ti_intellisync_settings"
+msgstr "Налады для Nokia Messaging"
+
+msgid "nm_ti_intellisync_settings_mailboxes"
+msgstr "Nokia Messaging: Паштовыя скрыні"
+
+msgid "nm_ti_intellisync_settings_synchronization"
+msgstr "Nokia Messaging: Сінхранізацыя"
+
+msgid "nm_ti_mailbox_settings"
+msgstr "Налады паштовай скрыні"
+
+msgid "nm_ti_options_mailbox_account"
+msgstr "Рахунак"
+
+msgid "nm_ti_options_mailbox_user_info"
+msgstr "Інфармацыя аб рахунку"
+
+msgid "nm_ti_options_mailboxes"
+msgstr "Паштовыя скрыні"
+
+msgid "nm_ti_options_native_protocol"
+msgstr "Налады для <пратакол па змаўчанні>"
+
+msgid "nm_ti_options_nokia_email"
+msgstr "Налады для Nokia Messaging"
+
+msgid "nm_ti_options_service_info"
+msgstr "Інфармацыя аб сервісу"
+
+msgid "nm_ti_options_serviceinfo"
+msgstr "Інфармацыя аб сервісу"
+
+msgid "nm_ti_options_what_to_sync"
+msgstr "Што сінхранізаваць"
+
+msgid "nm_ti_options_when_to_sync"
+msgstr "Калі сінхранізаваць"
+
+msgid "nm_try_different_email_address"
+msgstr "Паспрабуйце выкарыстаць іншы адрас электроннай пошты"
+
+msgid "nm_unable_to_set_up_this_mailbox_with_info_provided"
+msgstr "Немагчыма стварыць паштовую скрыню з прадстаўленай інфармацыяй."
+
+msgid "nm_use_secure_login"
+msgstr "Выкарыстоўваць бяспечны ўваход"
+
+msgid "nm_va_delete_message_service"
+msgstr "Выдаліць Nokia Messaging Service і ўсе звязаныя з ім паштовыя скрыні?"
+
+msgid "nm_va_delete_multimail_mailbox"
+msgstr "Выдаліць з дэвайса? \n'%s'"
+
+msgid "nm_va_delete_nokia_messaging"
+msgstr "Выдаліць Nokia Messaging Service і ўсе звязаныя з ім паштовыя скрыні з дэвайса?"
+
+msgid "nm_va_deleting_multimail_mailbox"
+msgstr "Выдаленне паштовай скрыні \n'%s'"
+
+msgid "nm_va_intellisync"
+msgstr "Nokia Messaging"
+
+msgid "nm_va_multimail_mailbox_added_message"
+msgstr "Новая паштовая скрыня будзе даступна пасля наступнай сінхранізацыі з паштовым серверам"
+
+msgid "nm_va_multimail_mailbox_delete_failed"
+msgstr "Памылка пры выдаленні паштовай скрыні"
+
+msgid "nm_va_multimail_mailbox_password_change_failed"
+msgstr "Няўдалая змена назвы. Калі ласка, праверце пароль і паспрабуйце зноў."
+
+msgid "nm_va_multimail_mailbox_removed_message"
+msgstr "Вылучаныя паведамленні будуць выдаленыя пасля наступнай сінхранізацыі з паштовым серверам."
+
+msgid "nm_va_options_access_point_default"
+msgstr "Па змаўчанні"
+
+msgid "nm_va_options_older_than_1_month"
+msgstr "1 месяц"
+
+msgid "nm_va_options_older_than_1_week"
+msgstr "1 тыдзень"
+
+msgid "nm_va_options_older_than_2_weeks"
+msgstr "2 тыдні"
+
+msgid "nm_va_options_older_than_3_days"
+msgstr "3 дні"
+
+msgid "nm_va_options_older_than_5_days"
+msgstr "5 дзён"
+
+msgid "nm_va_options_server_name"
+msgstr "Назва сервера"
+
+msgid "nm_va_options_service_info"
+msgstr "Nokia Messaging: Інфармацыя аб сервісу"
+
+msgid "nm_va_options_signature"
+msgstr "Подпіс"
+
+msgid "nm_va_options_signature_default_text"
+msgstr "Адпраўлена з майго мабільнага камп'ютара з дапамогай Nokia Messaging"
+
+msgid "nm_va_options_signature_for_mailbox_name"
+msgstr "Подпіс для %s"
+
+msgid "nm_va_options_sync_hours_all_day"
+msgstr "Увесь дзень"
+
+msgid "nm_va_options_sync_hours_custom_time"
+msgstr "Nokia Messaging: Сінхранізаваць гадзіны"
+
+msgid "nm_va_options_sync_hours_customize"
+msgstr "Персаналізацыя"
+
+msgid "nm_va_options_sync_interval_12_hours"
+msgstr "Кожныя 12 гадзін"
+
+msgid "nm_va_options_sync_interval_1_day"
+msgstr "Кожны дзень"
+
+msgid "nm_va_options_sync_interval_1_hour"
+msgstr "Кожную гадзіну"
+
+msgid "nm_va_options_sync_interval_4_hours"
+msgstr "Кожныя 4 гадзіны"
+
+msgid "nm_va_options_sync_interval_half_hour"
+msgstr "Кожныя 30 хвілін"
+
+msgid "nm_va_options_sync_interval_push"
+msgstr "Як мага хутчэй"
+
+msgid "nm_va_options_sync_interval_qtr_hour"
+msgstr "Кожныя 15 хвілін"
+
+msgid "nm_va_options_sync_power_20"
+msgstr "20% ад батарэі"
+
+msgid "nm_va_options_sync_power_5"
+msgstr "5% ад батарэі"
+
+msgid "nm_va_options_sync_power_never"
+msgstr "Ніколі"
+
+msgid "nm_va_options_sync_power_server"
+msgstr "Значэнне сервера"
+
+msgid "nm_va_options_sync_power_server_battery_level"
+msgstr "%ld%% ад батарэі"
+
+msgid "nm_va_options_use_signature"
+msgstr "Выкарыстоўваць подпіс"
+
+msgid "nm_va_options_user_name"
+msgstr "Імя карыстальніка"
+
+msgid "nm_va_reset_data"
+msgstr "Замена дадзеных на дэвайсе дадзенымі на серверы можа заняць некалькі хвілін. Працягнуць?"
+
+msgid "nm_va_saving_multimail_mailbox_settings"
+msgstr "Праверка змены налад"
+
+msgid "nm_wdgt_bd_delete"
+msgstr "Выдаліць"
+
+msgid "nm_wdgt_bd_done"
+msgstr "Зроблена"
+
+msgid "nm_wdgt_bd_save"
+msgstr "Захаваць"
+
+msgid "nm_wdgt_rb_no"
+msgstr "Не"
+
+msgid "nm_wdgt_rb_yes"
+msgstr "Так"
