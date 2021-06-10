@@ -1,0 +1,591 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-11-30 11:33+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "nm_account_authentication"
+msgstr "认证"
+
+msgid "nm_account_existing"
+msgstr "已有帐号"
+
+msgid "nm_account_existing_intro"
+msgstr "已经存在一个Nokia Messaging 帐号可转发电子邮件到这个装置上."
+
+msgid "nm_account_existing_no_info"
+msgstr "您可以手动检查是否有新邮件"
+
+msgid "nm_account_existing_rb_no"
+msgstr "建立单独的邮箱"
+
+msgid "nm_account_existing_rb_yes"
+msgstr "将此地址加入帐号"
+
+msgid "nm_account_setup_complete"
+msgstr "帐号设定已完成.\n\n点击'完成'以储存. 您可以在程序菜单中通过'帐号编辑'更改设定"
+
+msgid "nm_account_setup_completing_email_setup"
+msgstr "电子邮件设置完成"
+
+msgid "nm_account_setup_contacting_email_server"
+msgstr "正在连接邮件服务器"
+
+msgid "nm_account_setup_email_adv_details"
+msgstr "高级设置"
+
+msgid "nm_account_setup_email_delivery"
+msgstr "邮件传送"
+
+msgid "nm_account_setup_email_details"
+msgstr "邮件详情"
+
+msgid "nm_account_setup_getting_email_settings"
+msgstr "取得电子邮件设定"
+
+msgid "nm_account_setup_retrieving_terms_conditions"
+msgstr "检索服务条款"
+
+msgid "nm_account_setup_terms_conditions"
+msgstr "服务条款"
+
+msgid "nm_account_setup_validating"
+msgstr "验证中"
+
+msgid "nm_authentication_failed"
+msgstr "不正确的用户名称或密码. 请检查密码后再试一次."
+
+msgid "nm_authentication_subscriptionexpired"
+msgstr "您的订阅已过期。联络诺基亚客户服务或您的网络运营商。"
+
+msgid "nm_authentication_trialexpired"
+msgstr "您的试用期已过。联络诺基亚客户服务或您的网络运营商。"
+
+msgid "nm_bd_dialog_cancel"
+msgstr "取消"
+
+msgid "nm_bd_dialog_ok"
+msgstr "继续"
+
+msgid "nm_bd_mailboxes"
+msgstr "邮箱"
+
+msgid "nm_bd_reset"
+msgstr "重设帐号"
+
+msgid "nm_bd_service_info"
+msgstr "服务讯息"
+
+msgid "nm_bd_synchronization"
+msgstr "同步"
+
+msgid "nm_cancel_not_allowed"
+msgstr "操作正在进行中。请稍候。"
+
+msgid "nm_ckdg_ib_maximum_characters_reached"
+msgstr "已达最大字符数"
+
+msgid "nm_error_title"
+msgstr "错误"
+
+msgid "nm_fi_day_friday"
+msgstr "星期五"
+
+msgid "nm_fi_day_monday"
+msgstr "星期一"
+
+msgid "nm_fi_day_saturday"
+msgstr "星期六"
+
+msgid "nm_fi_day_sunday"
+msgstr "星期日"
+
+msgid "nm_fi_day_thursday"
+msgstr "星期四"
+
+msgid "nm_fi_day_tuesday"
+msgstr "星期二"
+
+msgid "nm_fi_day_wednesday"
+msgstr "星期三"
+
+msgid "nm_fi_emailsetup_servername"
+msgstr "服务器名称"
+
+msgid "nm_fi_end_time"
+msgstr "结束时间"
+
+msgid "nm_fi_options_access_point"
+msgstr "接入点"
+
+msgid "nm_fi_options_addnewmailbox"
+msgstr "新增电邮信箱"
+
+msgid "nm_fi_options_days"
+msgstr "天"
+
+msgid "nm_fi_options_delete"
+msgstr "删除"
+
+msgid "nm_fi_options_drafts"
+msgstr "同步草稿"
+
+msgid "nm_fi_options_edit"
+msgstr "编辑"
+
+msgid "nm_fi_options_email_download_size"
+msgstr "下载大小"
+
+msgid "nm_fi_options_email_download_size_full_message"
+msgstr "全部讯息"
+
+msgid "nm_fi_options_email_download_size_headers_only"
+msgstr "仅标题"
+
+msgid "nm_fi_options_email_download_size_headers_plus"
+msgstr "部分电邮"
+
+msgid "nm_fi_options_email_remove_older_than"
+msgstr "删除之前项目"
+
+msgid "nm_fi_options_hours"
+msgstr "小时"
+
+msgid "nm_fi_options_inbox"
+msgstr "同步收件夹"
+
+msgid "nm_fi_options_password"
+msgstr "密码"
+
+msgid "nm_fi_options_password_required"
+msgstr "更改名称需要密码"
+
+msgid "nm_fi_options_reset_data"
+msgstr "重设资料"
+
+msgid "nm_fi_options_sent_items"
+msgstr "同步已发邮件"
+
+msgid "nm_fi_options_server_name"
+msgstr "服务器名称"
+
+msgid "nm_fi_options_signature"
+msgstr "签名"
+
+msgid "nm_fi_options_start"
+msgstr "开始"
+
+msgid "nm_fi_options_sync_days"
+msgstr "Nokia Messaging: 同步日期"
+
+msgid "nm_fi_options_sync_interval"
+msgstr "传送和接收"
+
+msgid "nm_fi_options_sync_power"
+msgstr "禁用同步当"
+
+msgid "nm_fi_options_sync_while_roaming"
+msgstr "漫游时同步"
+
+msgid "nm_fi_options_use_secure_login_incoming"
+msgstr "使用安全登入接收邮件服务器"
+
+msgid "nm_fi_options_use_secure_login_outgoing"
+msgstr "使用安全登录发送邮件服务器"
+
+msgid "nm_fi_options_user_name"
+msgstr "用户名称"
+
+msgid "nm_fi_start_time"
+msgstr "开始时间"
+
+msgid "nm_fi_sync_days_all"
+msgstr "每天"
+
+msgid "nm_fi_sync_days_custom"
+msgstr "自订"
+
+msgid "nm_fi_sync_days_never"
+msgstr "从不"
+
+msgid "nm_fi_sync_days_weekdays"
+msgstr "工作日"
+
+msgid "nm_fi_sync_days_weekends"
+msgstr "休息日"
+
+msgid "nm_fi_sync_drafts"
+msgstr "同步草稿"
+
+msgid "nm_fi_sync_inbox"
+msgstr "同步收件夹"
+
+msgid "nm_fi_sync_read_server_enabled"
+msgstr "在邮件服务器上标记为已读"
+
+msgid "nm_fi_sync_sent_items"
+msgstr "同步已发邮件"
+
+msgid "nm_ib_advsetup_settings_saved"
+msgstr "设定已储存"
+
+msgid "nm_ib_daemon_not_connected"
+msgstr "Nokia Messaging 程序不可用"
+
+msgid "nm_imum_nc_wizard_confirm_lose_changes"
+msgstr "所有的设定更改都将会遗失.\n仍然继续?"
+
+msgid "nm_initializing_synchronization"
+msgstr "初始同步中"
+
+msgid "nm_invalid_server_settings"
+msgstr "无法连接电子邮件服务. 请检查您的设定."
+
+msgid "nm_mail_de_intro_bundle"
+msgstr "接受服务条款, 才能启用您的Nokia Messaging 帐号并让您的电子邮件自动传送。"
+
+msgid "nm_mail_de_intro_default"
+msgstr "Nokia Messaging 是一种订阅服务,它会自动转寄您的电子邮件到您的收件夹.你可以立即注册且不需要支付任何额外的费用."
+
+msgid "nm_mail_de_intro_isp"
+msgstr "Nokia Messaging 是一种订阅服务,它整合您的电邮服务供应商并自动转发您的电子邮件到您的收件夹.你可以立即注册且不需要支付任何额外的费用."
+
+msgid "nm_mail_de_no"
+msgstr "不用,谢谢"
+
+msgid "nm_mail_de_password"
+msgstr "密码"
+
+msgid "nm_mail_de_tos_link"
+msgstr "点击「下一步」,我愿意接受此试用服务所有的服务条款."
+
+msgid "nm_mail_de_tos_link_bundle"
+msgstr "点击「下一步」,我愿意接受所有[Nokia Messaging 服务条款]."
+
+msgid "nm_mail_de_tos_link_manual_text"
+msgstr "您可以手动检查是否有新邮件."
+
+msgid "nm_mail_de_yes"
+msgstr "是的!我想注册."
+
+msgid "nm_mail_de_yes_bundle"
+msgstr "启用我的帐号."
+
+msgid "nm_mail_fi_email_address"
+msgstr "电子邮件地址"
+
+msgid "nm_mail_fi_incoming_port"
+msgstr "接收连接端口"
+
+msgid "nm_mail_fi_incoming_server"
+msgstr "接收邮件服务器"
+
+msgid "nm_mail_fi_mailbox_name"
+msgstr "邮箱名称"
+
+msgid "nm_mail_fi_my_name"
+msgstr "我的名字"
+
+msgid "nm_mail_fi_outgoing_port"
+msgstr "外发连接端口"
+
+msgid "nm_mail_fi_outgoing_server"
+msgstr "外发邮件服务器"
+
+msgid "nm_mail_fi_password"
+msgstr "密码"
+
+msgid "nm_mail_fi_password_prompt"
+msgstr "输入的密码不正确. 请输入正确的密码以完成Nokia Messaging 帐号设定."
+
+msgid "nm_mail_fi_user_name"
+msgstr "用户名称"
+
+msgid "nm_mail_fi_username"
+msgstr "用户名称"
+
+msgid "nm_mail_fi_username_hint"
+msgstr "适用于某些网络运营商."
+
+msgid "nm_mail_fi_username_password_prompt"
+msgstr "E-mail地址已经与Nokia Messaging 帐号连结. 请输入Nokia Messaging 帐号以完成电子邮件设定."
+
+msgid "nm_mail_ib_setting_failed"
+msgstr "无法储存设定"
+
+msgid "nm_mail_type"
+msgstr "邮箱类型"
+
+msgid "nm_mail_type_imap"
+msgstr "IMAP"
+
+msgid "nm_mail_type_pop"
+msgstr "POP"
+
+msgid "nm_me_folder_drafts"
+msgstr "草稿"
+
+msgid "nm_me_folder_inbox"
+msgstr "收件夹"
+
+msgid "nm_me_folder_sent"
+msgstr "已发邮件"
+
+msgid "nm_me_inbox_options"
+msgstr "设定"
+
+msgid "nm_me_inbox_options_global"
+msgstr "<Native protocol>"
+
+msgid "nm_me_inbox_options_nes"
+msgstr "Nokia Messaging"
+
+msgid "nm_nms_cannot_download_attachment"
+msgstr "附件过大, 无法下载"
+
+msgid "nm_nms_downloading_attachment"
+msgstr "下载中"
+
+msgid "nm_nms_password_prompt"
+msgstr "输入Nokia Messaging 密码. 这是为Nokia Messaging 设定的第一个邮件地址的密码."
+
+msgid "nm_ods_email_intro"
+msgstr "您的邮件地址及其他技术讯息, 例如装置ID 将会被传送到诺基亚,服务启动后, 未经您的同意诺基亚将不会处理或储存任何个人身份讯息."
+
+msgid "nm_ods_error_account_locked"
+msgstr "帐号登入失败次数太多导致帐号已锁定. 请联系诺基亚客户服务或您的网路服务供应商。"
+
+msgid "nm_ods_error_cant_setup"
+msgstr "设定邮箱中出现问题, 请检查设定,稍后再试,"
+
+msgid "nm_ods_error_generic"
+msgstr "设定邮箱中出现问题. 请检查设定,并再次尝试. (%04x)"
+
+msgid "nm_ods_error_restart"
+msgstr "安装程序将重新启动 (%04lX)"
+
+msgid "nm_ods_phone_number"
+msgstr "电话号码"
+
+msgid "nm_ods_phone_number_required"
+msgstr "请输入您的电话号码来验证电子邮件的设定"
+
+msgid "nm_ods_setup_failed_emailid_exists_else_where"
+msgstr "该电子邮件地址已经注册了另一个Nokia Messaging 帐号"
+
+msgid "nm_ods_setup_failed_notenabled"
+msgstr "您的帐号尚未启用。请连络基亚客户服务或您的网络运营商。"
+
+msgid "nm_ods_unable_to_connect"
+msgstr "安装向导无法根据目前提供的资讯连线至电子邮件服务器"
+
+msgid "nm_reset_account"
+msgstr "重新启动"
+
+msgid "nm_set_up_mail_at_later_time"
+msgstr "稍后设定"
+
+msgid "nm_set_up_mailbox_anyway"
+msgstr "无论如何设定邮箱"
+
+msgid "nm_set_up_mailbox_anyway_help_text"
+msgstr "请检查密码或调整其他设定后重新连接."
+
+msgid "nm_sync_hours_customize"
+msgstr "自订"
+
+msgid "nm_sync_hours_on_all_day"
+msgstr "全天"
+
+msgid "nm_synchronizing"
+msgstr "同步中"
+
+msgid "nm_ti_intellisync_settings"
+msgstr "Nokia Messaging 设定"
+
+msgid "nm_ti_intellisync_settings_mailboxes"
+msgstr "Nokia Messaging: 邮件信箱"
+
+msgid "nm_ti_intellisync_settings_synchronization"
+msgstr "Nokia Messaging: 同步"
+
+msgid "nm_ti_mailbox_settings"
+msgstr "邮箱设定"
+
+msgid "nm_ti_options_mailbox_account"
+msgstr "帐户"
+
+msgid "nm_ti_options_mailbox_user_info"
+msgstr "用户资讯"
+
+msgid "nm_ti_options_mailboxes"
+msgstr "邮箱"
+
+msgid "nm_ti_options_native_protocol"
+msgstr "设定 <Native Protocol>"
+
+msgid "nm_ti_options_nokia_email"
+msgstr "Nokia Messaging 设定"
+
+msgid "nm_ti_options_service_info"
+msgstr "服务讯息"
+
+msgid "nm_ti_options_serviceinfo"
+msgstr "服务讯息"
+
+msgid "nm_ti_options_what_to_sync"
+msgstr "同步项目"
+
+msgid "nm_ti_options_when_to_sync"
+msgstr "同步时程"
+
+msgid "nm_try_different_email_address"
+msgstr "尝试不同的电子邮件地址"
+
+msgid "nm_unable_to_set_up_this_mailbox_with_info_provided"
+msgstr "无法根据提供的资料设定邮件信箱"
+
+msgid "nm_use_secure_login"
+msgstr "使用安全登录"
+
+msgid "nm_va_delete_message_service"
+msgstr "移除Nokia Messaging 服务和所有相关的邮件信箱?"
+
+msgid "nm_va_delete_multimail_mailbox"
+msgstr "从装置中删除?\n'%s'"
+
+msgid "nm_va_delete_nokia_messaging"
+msgstr "删除Nokia Messaging 和装置中所有相关的邮件信箱?"
+
+msgid "nm_va_deleting_multimail_mailbox"
+msgstr "正在删除邮箱\n'%s'"
+
+msgid "nm_va_intellisync"
+msgstr "Nokia Messaging"
+
+msgid "nm_va_multimail_mailbox_added_message"
+msgstr "在下一次同步邮件服务器后, 新的邮箱将可启用"
+
+msgid "nm_va_multimail_mailbox_delete_failed"
+msgstr "邮箱删除失败"
+
+msgid "nm_va_multimail_mailbox_password_change_failed"
+msgstr "名称变更失败.请检查密码并再试一次"
+
+msgid "nm_va_multimail_mailbox_removed_message"
+msgstr "下次和邮件服务器同步时, 选取的信箱将会被移除."
+
+msgid "nm_va_options_access_point_default"
+msgstr "预设"
+
+msgid "nm_va_options_older_than_1_month"
+msgstr "1 月"
+
+msgid "nm_va_options_older_than_1_week"
+msgstr "1 周"
+
+msgid "nm_va_options_older_than_2_weeks"
+msgstr "2 周"
+
+msgid "nm_va_options_older_than_3_days"
+msgstr "3 天"
+
+msgid "nm_va_options_older_than_5_days"
+msgstr "5 天"
+
+msgid "nm_va_options_server_name"
+msgstr "服务器名称"
+
+msgid "nm_va_options_service_info"
+msgstr "Nokia Messaging: 服务讯息"
+
+msgid "nm_va_options_signature"
+msgstr "签名"
+
+msgid "nm_va_options_signature_default_text"
+msgstr "发自我的Nokia N900 通过Nokia Messaging "
+
+msgid "nm_va_options_signature_for_mailbox_name"
+msgstr "签名 %s"
+
+msgid "nm_va_options_sync_hours_all_day"
+msgstr "全天"
+
+msgid "nm_va_options_sync_hours_custom_time"
+msgstr "Nokia Messaging: 同步时间"
+
+msgid "nm_va_options_sync_hours_customize"
+msgstr "自订"
+
+msgid "nm_va_options_sync_interval_12_hours"
+msgstr "每 12 小时"
+
+msgid "nm_va_options_sync_interval_1_day"
+msgstr "每 24 小时"
+
+msgid "nm_va_options_sync_interval_1_hour"
+msgstr "每小时"
+
+msgid "nm_va_options_sync_interval_4_hours"
+msgstr "每 4 小时"
+
+msgid "nm_va_options_sync_interval_half_hour"
+msgstr "每 30 分钟"
+
+msgid "nm_va_options_sync_interval_push"
+msgstr "尽快"
+
+msgid "nm_va_options_sync_interval_qtr_hour"
+msgstr "每 15 分钟"
+
+msgid "nm_va_options_sync_power_20"
+msgstr "电池电量为 20％"
+
+msgid "nm_va_options_sync_power_5"
+msgstr "电池电量为 5％"
+
+msgid "nm_va_options_sync_power_never"
+msgstr "从不"
+
+msgid "nm_va_options_sync_power_server"
+msgstr "服务器数值"
+
+msgid "nm_va_options_sync_power_server_battery_level"
+msgstr "电池电量为 %ld%%"
+
+msgid "nm_va_options_use_signature"
+msgstr "使用签名"
+
+msgid "nm_va_options_user_name"
+msgstr "用户名称"
+
+msgid "nm_va_reset_data"
+msgstr "服务器上的资料将取代装置上的资料, 可能需要花费几分钟, 继续?"
+
+msgid "nm_va_saving_multimail_mailbox_settings"
+msgstr "验证更改设定"
+
+msgid "nm_wdgt_bd_delete"
+msgstr "删除"
+
+msgid "nm_wdgt_bd_done"
+msgstr "完成"
+
+msgid "nm_wdgt_bd_save"
+msgstr "储存"
+
+msgid "nm_wdgt_rb_no"
+msgstr "否"
+
+msgid "nm_wdgt_rb_yes"
+msgstr "确定"
