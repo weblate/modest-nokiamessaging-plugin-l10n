@@ -1,0 +1,591 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-11-30 11:33+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "nm_account_authentication"
+msgstr "Ταυτοποίηση"
+
+msgid "nm_account_existing"
+msgstr "Υπάρχον λογαριασμός"
+
+msgid "nm_account_existing_intro"
+msgstr "Η προώθηση του λογαριασμού Nokia Messaging σε αυτή τη συσκευή υπάρχει ήδη."
+
+msgid "nm_account_existing_no_info"
+msgstr "Μπορείτε να ελέγξετε χειροκίνητα για νέα μηνύματα"
+
+msgid "nm_account_existing_rb_no"
+msgstr "Δημιουργία ξεχωριστού γραμματοκιβωτίου"
+
+msgid "nm_account_existing_rb_yes"
+msgstr "Προσθήκη της διεύθυνσης στο λογαριασμό"
+
+msgid "nm_account_setup_complete"
+msgstr "Η ρύθμιση του λογαριασμού ολοκληρώθηκε.\n\nΕπιλέξτε 'Τέλος' για αποθήκευση. Μπορείτε να επεξεργαστείτε αυτές τις αλλαγές μέσω της επιλογής 'Επεξεργασία Λογαριασμών' στο μενού."
+
+msgid "nm_account_setup_completing_email_setup"
+msgstr "Ολοκλήρωση ρύθμισης e-mail"
+
+msgid "nm_account_setup_contacting_email_server"
+msgstr "Επικοινωνία με το διακομιστή e-mail"
+
+msgid "nm_account_setup_email_adv_details"
+msgstr "Προχωρημένες ρυθμίσεις"
+
+msgid "nm_account_setup_email_delivery"
+msgstr "Παράδοση e-mail"
+
+msgid "nm_account_setup_email_details"
+msgstr "Λεπτομέρειες e-mail"
+
+msgid "nm_account_setup_getting_email_settings"
+msgstr "Λήψη ρυθμίσεων e-mail"
+
+msgid "nm_account_setup_retrieving_terms_conditions"
+msgstr "Λήψη Όρων χρήσης της Υπηρεσίας"
+
+msgid "nm_account_setup_terms_conditions"
+msgstr "Όροι της Υπηρεσίας"
+
+msgid "nm_account_setup_validating"
+msgstr "Επικύρωση"
+
+msgid "nm_authentication_failed"
+msgstr "Λάθος όνομα ή κωδικός. Παρακαλώ ελέγξτε την ορθότητα και ξαναπροσπαθήστε."
+
+msgid "nm_authentication_subscriptionexpired"
+msgstr "Η συνδρομή σας έχει λήξει. Επικοινωνήστε με το τμήμα εξυπηρέτησης της Nokia Care ή τον παροχέα διαδικτύου."
+
+msgid "nm_authentication_trialexpired"
+msgstr "Η δοκιμή σας έχει λήξει. Επικοινωνήστε με το τμήμα εξυπηρέτησης της Nokia Care ή τον παροχέα διαδικτύου."
+
+msgid "nm_bd_dialog_cancel"
+msgstr "Ακύρωση"
+
+msgid "nm_bd_dialog_ok"
+msgstr "Συνέχεια"
+
+msgid "nm_bd_mailboxes"
+msgstr "Γραμματοκιβώτια"
+
+msgid "nm_bd_reset"
+msgstr "Επαναφορά λογαριασμού"
+
+msgid "nm_bd_service_info"
+msgstr "Πληροφορίες υπηρεσίας"
+
+msgid "nm_bd_synchronization"
+msgstr "Συγχρονισμός"
+
+msgid "nm_cancel_not_allowed"
+msgstr "Λειτουργία σε εκτέλεση. Παρακαλώ περιμένετε."
+
+msgid "nm_ckdg_ib_maximum_characters_reached"
+msgstr "Ο μέγιστος αριθμός χαρακτήρων έχει επιτευχθεί"
+
+msgid "nm_error_title"
+msgstr "Σφάλμα"
+
+msgid "nm_fi_day_friday"
+msgstr "Παρασκευή"
+
+msgid "nm_fi_day_monday"
+msgstr "Δευτέρα"
+
+msgid "nm_fi_day_saturday"
+msgstr "Σάββατο"
+
+msgid "nm_fi_day_sunday"
+msgstr "Κυριακή"
+
+msgid "nm_fi_day_thursday"
+msgstr "Πέμπτη"
+
+msgid "nm_fi_day_tuesday"
+msgstr "Τρίτη"
+
+msgid "nm_fi_day_wednesday"
+msgstr "Τετάρτη"
+
+msgid "nm_fi_emailsetup_servername"
+msgstr "Όνομα διακομιστή"
+
+msgid "nm_fi_end_time"
+msgstr "Τέλος χρόνου"
+
+msgid "nm_fi_options_access_point"
+msgstr "Σημείο πρόσβασης"
+
+msgid "nm_fi_options_addnewmailbox"
+msgstr "Προσθήκη νέου γραμματοκιβωτίου"
+
+msgid "nm_fi_options_days"
+msgstr "Ημέρες"
+
+msgid "nm_fi_options_delete"
+msgstr "Διαγραφή"
+
+msgid "nm_fi_options_drafts"
+msgstr "Προσχέδια"
+
+msgid "nm_fi_options_edit"
+msgstr "Επεξεργασία"
+
+msgid "nm_fi_options_email_download_size"
+msgstr "Μέγεθος λήψης "
+
+msgid "nm_fi_options_email_download_size_full_message"
+msgstr "Πλήρες μήνυμα"
+
+msgid "nm_fi_options_email_download_size_headers_only"
+msgstr "Μόνο επικεφαλίδες"
+
+msgid "nm_fi_options_email_download_size_headers_plus"
+msgstr "Ημιτελές μηνύματα"
+
+msgid "nm_fi_options_email_remove_older_than"
+msgstr "Διαγραφή παλαιότερων αντικειμένων"
+
+msgid "nm_fi_options_hours"
+msgstr "Ώρες"
+
+msgid "nm_fi_options_inbox"
+msgstr "Εισερχόμενα"
+
+msgid "nm_fi_options_password"
+msgstr "Κωδικός"
+
+msgid "nm_fi_options_password_required"
+msgstr "Απαιτείται κωδικός για αλλαγή του ονόματος"
+
+msgid "nm_fi_options_reset_data"
+msgstr "Επαναφορά δεδομένων"
+
+msgid "nm_fi_options_sent_items"
+msgstr "Συγχρονισμός απεσταλμένων αντικειμένων"
+
+msgid "nm_fi_options_server_name"
+msgstr "Όνομα διακομιστή"
+
+msgid "nm_fi_options_signature"
+msgstr "Υπογραφή"
+
+msgid "nm_fi_options_start"
+msgstr "Εκκίνηση"
+
+msgid "nm_fi_options_sync_days"
+msgstr "Nokia Messaging: Συγχρονισμός ημερών"
+
+msgid "nm_fi_options_sync_interval"
+msgstr "Αποστολή και λήψη"
+
+msgid "nm_fi_options_sync_power"
+msgstr "Απενεργοποίηση συγχρονισμού όταν"
+
+msgid "nm_fi_options_sync_while_roaming"
+msgstr "Συγχρονισμός κατά τη διάρκεια περιαγωγής"
+
+msgid "nm_fi_options_use_secure_login_incoming"
+msgstr "Χρήση ασφαλούς σύνδεσης για τα εισερχόμενα του διακομιστή"
+
+msgid "nm_fi_options_use_secure_login_outgoing"
+msgstr "Χρήση ασφαλούς σύνδεσης για τα εξερχόμενα του διακομιστή"
+
+msgid "nm_fi_options_user_name"
+msgstr "Όνομα χρήστη"
+
+msgid "nm_fi_start_time"
+msgstr "Χρόνος εκκίνησης"
+
+msgid "nm_fi_sync_days_all"
+msgstr "Κάθε ημέρα"
+
+msgid "nm_fi_sync_days_custom"
+msgstr "Προσαρμοσμένες"
+
+msgid "nm_fi_sync_days_never"
+msgstr "Ποτέ"
+
+msgid "nm_fi_sync_days_weekdays"
+msgstr "Ημέρες"
+
+msgid "nm_fi_sync_days_weekends"
+msgstr "Σαββατοκύριακα"
+
+msgid "nm_fi_sync_drafts"
+msgstr "Συγχρονισμός προσχεδίων"
+
+msgid "nm_fi_sync_inbox"
+msgstr "Εισερχόμενα"
+
+msgid "nm_fi_sync_read_server_enabled"
+msgstr "Σημείωση ως αναγνωσμένα στον διακομιστή"
+
+msgid "nm_fi_sync_sent_items"
+msgstr "Συγχρονισμός απεσταλμένων"
+
+msgid "nm_ib_advsetup_settings_saved"
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν"
+
+msgid "nm_ib_daemon_not_connected"
+msgstr "Υπηρεσία Nokia Μessaging μη διαθέσιμη"
+
+msgid "nm_imum_nc_wizard_confirm_lose_changes"
+msgstr "Όλες οι αλλαγές που έγιναν στις ρυθμίσεις θα χαθούν.\nΣυνέχεια;"
+
+msgid "nm_initializing_synchronization"
+msgstr "Αρχικοποίηση συγχρονισμού"
+
+msgid "nm_invalid_server_settings"
+msgstr "Αδύνατη η επικοινωνία με τον πάροχο ηλεκτρονικού ταχυδρομείου. Παρακαλώ ελέγξτε τις ρυθμίσεις σας."
+
+msgid "nm_mail_de_intro_bundle"
+msgstr "Αποδοχή των Όρων Χρήσης για την ενεργοποίηση της Υπηρεσίας Nokia Messaging και για να λαμβάνετε τα μηνύματα σας αυτόματα."
+
+msgid "nm_mail_de_intro_default"
+msgstr "Το Nokia Messaging είναι μία συνδρομή υπηρεσίας η οποία προωθεί αυτόματα τα μηνύματα στο γραμματοκιβώτιο σας. Μπορείτε να εγγραφείτε τώρα δωρεάν."
+
+msgid "nm_mail_de_intro_isp"
+msgstr "Το Nokia Messaging είναι μία συνδρομή υπηρεσίας που λειτουργεί με τον παροχέα e-mail και προωθεί αυτόματα τα μηνύματα στο γραμματοκιβώτιο σας. Μπορείτε να εγγραφείτε τώρα δωρεάν."
+
+msgid "nm_mail_de_no"
+msgstr "Όχι ευχαριστώ"
+
+msgid "nm_mail_de_password"
+msgstr "Κωδικός"
+
+msgid "nm_mail_de_tos_link"
+msgstr "Επιλέγοντας 'Επόμενο', δέχεστε όλους τους [Όρους της Υπηρεσίας Nokia Messaging] γι' αυτή τη δοκιμή."
+
+msgid "nm_mail_de_tos_link_bundle"
+msgstr "Επιλέγοντας 'Επόμενο', δέχεστε όλους τους [Όρους της Υπηρεσίας Nokia Messaging]."
+
+msgid "nm_mail_de_tos_link_manual_text"
+msgstr "Μπορείτε να ελέγξετε για νέα μηνύματα χειροκίνητα."
+
+msgid "nm_mail_de_yes"
+msgstr "Ναι! Θα ήθελα να εγγραφώ."
+
+msgid "nm_mail_de_yes_bundle"
+msgstr "Ενεργοποίηση του λογαριασμού μου"
+
+msgid "nm_mail_fi_email_address"
+msgstr "Διεύθυνση e-mail"
+
+msgid "nm_mail_fi_incoming_port"
+msgstr "Εισερχόμενη θύρα"
+
+msgid "nm_mail_fi_incoming_server"
+msgstr "Εισερχόμενος διακομιστής"
+
+msgid "nm_mail_fi_mailbox_name"
+msgstr "Όνομα γραμματοκιβωτίου "
+
+msgid "nm_mail_fi_my_name"
+msgstr "Το όνομα μου"
+
+msgid "nm_mail_fi_outgoing_port"
+msgstr "Εξερχόμενη θύρα"
+
+msgid "nm_mail_fi_outgoing_server"
+msgstr "Εξερχόμενος διακομιστής"
+
+msgid "nm_mail_fi_password"
+msgstr "Κωδικός"
+
+msgid "nm_mail_fi_password_prompt"
+msgstr "Ο κωδικός που έχει εισαχθεί είναι λάθος. Εισάγετε τον σωστό κωδικό ώστε να ολοκληρώσετε την ρύθμιση του λογαριασμού Nokia Messaging."
+
+msgid "nm_mail_fi_user_name"
+msgstr "Όνομα χρήστη"
+
+msgid "nm_mail_fi_username"
+msgstr "Όνομα χρήστη"
+
+msgid "nm_mail_fi_username_hint"
+msgstr "Απαιτείται από μερικούς ISPs"
+
+msgid "nm_mail_fi_username_password_prompt"
+msgstr "Η διεύθυνση e-mail συσχετίστηκε ήδη με ένα λογαριασμό Nokia Messaging. Εισάγετε τα στοιχεία του λογαριασμού Nokia Messaging για να ολοκληρωθεί η ρύθμιση του."
+
+msgid "nm_mail_ib_setting_failed"
+msgstr "Αδυναμία αποθήκευσης των ρυθμίσεων"
+
+msgid "nm_mail_type"
+msgstr "Τύπος e-mail"
+
+msgid "nm_mail_type_imap"
+msgstr "IMAP"
+
+msgid "nm_mail_type_pop"
+msgstr "POP"
+
+msgid "nm_me_folder_drafts"
+msgstr "Προσχέδια"
+
+msgid "nm_me_folder_inbox"
+msgstr "Εισερχόμενα"
+
+msgid "nm_me_folder_sent"
+msgstr "Απεσταλμένα αντικείμενα"
+
+msgid "nm_me_inbox_options"
+msgstr "Ρυθμίσεις"
+
+msgid "nm_me_inbox_options_global"
+msgstr "<Native protocol>"
+
+msgid "nm_me_inbox_options_nes"
+msgstr "Nokia Messaging"
+
+msgid "nm_nms_cannot_download_attachment"
+msgstr "Πολύ μεγάλη επισύναψη για λήψη"
+
+msgid "nm_nms_downloading_attachment"
+msgstr "Λήψη"
+
+msgid "nm_nms_password_prompt"
+msgstr "Εισάγετε τον κωδικό για το Nokia Messaging. Αυτός είναι ο κωδικός για την πρώτη ρύθμιση διεύθυνσης e-mail του Nokia Messaging."
+
+msgid "nm_ods_email_intro"
+msgstr "Η διεύθυνση e-mail σας μαζί με άλλες τεχνικές πληροφορίες όπως το ID της συσκευής σας θα σταλθούν στη Nokia. Η Nokia δεν θα επεξεργαστεί ή θα αποθηκεύσει αυτές τις πληροφορίες μετά την ενεργοποίηση χωρίς την συναίνεσή σας."
+
+msgid "nm_ods_error_account_locked"
+msgstr "Ο λογαριασμός αποκλείστηκε εξαιτίας της πραγματοποίησης πολλαπλών αποτυχημένων προσπαθειών για σύνδεση. Επικοινωνήστε με το τμήμα Εξυπηρέτησης Nokia Care ή με τον παροχέα διαδικτύου."
+
+msgid "nm_ods_error_cant_setup"
+msgstr "Πρόβλημα ρύθμισης του γραμματοκιβωτίου μηνυμάτων. Παρακαλώ ελέγξτε τις ρυθμίσεις και προσπαθήστε αργότερα."
+
+msgid "nm_ods_error_generic"
+msgstr "Πρόβλημα ρύθμισης του γραμματοκιβωτίου. Παρακαλώ ελέγξτε τις ρυθμίσεις και προσπαθήστε αργότερα. (%04x)"
+
+msgid "nm_ods_error_restart"
+msgstr "Θα γίνει επανεκκίνηση της ρύθμισης (%04lX)"
+
+msgid "nm_ods_phone_number"
+msgstr "Αριθμός τηλεφώνου"
+
+msgid "nm_ods_phone_number_required"
+msgstr "Εισάγετε τον αριθμό τηλεφώνου σας ως ταυτοποίηση της ρύθμισης της διεύθυνσης e-mail"
+
+msgid "nm_ods_setup_failed_emailid_exists_else_where"
+msgstr "Η διεύθυνση e-mail καταχωρήθηκε ήδη με άλλο λογαριασμό Nokia Messaging"
+
+msgid "nm_ods_setup_failed_notenabled"
+msgstr "Ο λογαριασμός σας δεν είναι ενεργοποιημένος. Επικοινωνήστε με το τμήμα Εξυπηρέτησης της Nokia Care ή τον παροχέα διαδικτύου."
+
+msgid "nm_ods_unable_to_connect"
+msgstr "Αδυναμία ρύθμισης του οδηγού να συνδεθεί με τον διακομιστή e-mail με αυτά τα στοιχεία."
+
+msgid "nm_reset_account"
+msgstr "Επαναφορά"
+
+msgid "nm_set_up_mail_at_later_time"
+msgstr "Ρύθμιση αργότερα"
+
+msgid "nm_set_up_mailbox_anyway"
+msgstr "Ρύθμιση γραμματοκιβωτίου παρ' όλα αυτά"
+
+msgid "nm_set_up_mailbox_anyway_help_text"
+msgstr "Η σύνδεση μπορεί να είναι δυνατή μετά τον έλεγχο του κωδικού ή αλλάζοντας κάποιες άλλες ρυθμίσεις."
+
+msgid "nm_sync_hours_customize"
+msgstr "Προσαρμογή"
+
+msgid "nm_sync_hours_on_all_day"
+msgstr "Όλη τη μέρα"
+
+msgid "nm_synchronizing"
+msgstr "Συγχρονισμός"
+
+msgid "nm_ti_intellisync_settings"
+msgstr "Ρυθμίσεις για Nokia Messaging"
+
+msgid "nm_ti_intellisync_settings_mailboxes"
+msgstr "Nokia Messaging: Γραμματοκιβώτια "
+
+msgid "nm_ti_intellisync_settings_synchronization"
+msgstr "Nokia Messaging: Συγχρονισμός"
+
+msgid "nm_ti_mailbox_settings"
+msgstr "Ρυθμίσεις γραμματοκιβωτίου"
+
+msgid "nm_ti_options_mailbox_account"
+msgstr "Λογαριασμός"
+
+msgid "nm_ti_options_mailbox_user_info"
+msgstr "Πληροφορίες χρήστη"
+
+msgid "nm_ti_options_mailboxes"
+msgstr "Γραμματοκιβώτια"
+
+msgid "nm_ti_options_native_protocol"
+msgstr "Ρυθμίσεις για <Native protocol>"
+
+msgid "nm_ti_options_nokia_email"
+msgstr "Ρυθμίσεις για Nokia Messaging"
+
+msgid "nm_ti_options_service_info"
+msgstr "Πληροφορίες υπηρεσίας"
+
+msgid "nm_ti_options_serviceinfo"
+msgstr "Πληροφορίες υπηρεσίας"
+
+msgid "nm_ti_options_what_to_sync"
+msgstr "Επιλογές συγχρονισμού"
+
+msgid "nm_ti_options_when_to_sync"
+msgstr "Πότε να γίνεται συγχρονισμός"
+
+msgid "nm_try_different_email_address"
+msgstr "Δοκιμάστε μία διαφορετική διεύθυνση e-mail"
+
+msgid "nm_unable_to_set_up_this_mailbox_with_info_provided"
+msgstr "Αδυναμία ρύθμισης του γραμματοκιβωτίου με τα στοιχεία που παρέχονται"
+
+msgid "nm_use_secure_login"
+msgstr "Χρησιμοποιείστε ασφαλή είσοδο"
+
+msgid "nm_va_delete_message_service"
+msgstr "Διαγραφή της υπηρεσίας Nokia Messaging και όλα τα συσχετισμένα γραμματοκιβώτια;"
+
+msgid "nm_va_delete_multimail_mailbox"
+msgstr "Διαγραφή από τη συσκευή;\n'%s'"
+
+msgid "nm_va_delete_nokia_messaging"
+msgstr "Διαγραφή της υπηρεσίας Nokia Messaging και όλα τα συσχετισμένα γραμματοκιβώτια από τη συσκευή;"
+
+msgid "nm_va_deleting_multimail_mailbox"
+msgstr "Διαγραφή γραμματοκιβωτίου\n'%s'"
+
+msgid "nm_va_intellisync"
+msgstr "Nokia Messaging"
+
+msgid "nm_va_multimail_mailbox_added_message"
+msgstr "Το νέο γραμματοκιβώτιο θα είναι διαθέσιμο μετά τον επόμενο συγχρονισμό με τον διακομιστή μηνυμάτων."
+
+msgid "nm_va_multimail_mailbox_delete_failed"
+msgstr "Η διαγραφή του γραμματοκιβωτίου απέτυχε"
+
+msgid "nm_va_multimail_mailbox_password_change_failed"
+msgstr "Η αλλαγή του ονόματος απέτυχε. Παρακαλώ ελέγξτε τον κωδικό και προσπαθήστε ξανά."
+
+msgid "nm_va_multimail_mailbox_removed_message"
+msgstr "Το επιλεγμένο γραμματοκιβώτιο θα αφαιρεθεί στον επόμενο συγχρονισμό με τον διακομιστή μηνυμάτων."
+
+msgid "nm_va_options_access_point_default"
+msgstr "Προκαθορισμένο"
+
+msgid "nm_va_options_older_than_1_month"
+msgstr "1 μήνα"
+
+msgid "nm_va_options_older_than_1_week"
+msgstr "1 εβδομάδα"
+
+msgid "nm_va_options_older_than_2_weeks"
+msgstr "2 εβδομάδες"
+
+msgid "nm_va_options_older_than_3_days"
+msgstr "3 ημέρες"
+
+msgid "nm_va_options_older_than_5_days"
+msgstr "5 ημέρες"
+
+msgid "nm_va_options_server_name"
+msgstr "Όνομα διακομιστή"
+
+msgid "nm_va_options_service_info"
+msgstr "Nokia Messaging: Πληροφορίες υπηρεσίας"
+
+msgid "nm_va_options_signature"
+msgstr "Υπογραφή"
+
+msgid "nm_va_options_signature_default_text"
+msgstr "Στάλθηκε από τον φορητό υπολογιστή μου χρησιμοποιώντας το Nokia Messaging"
+
+msgid "nm_va_options_signature_for_mailbox_name"
+msgstr "Υπογραφή για το %s"
+
+msgid "nm_va_options_sync_hours_all_day"
+msgstr "Όλη τη μέρα"
+
+msgid "nm_va_options_sync_hours_custom_time"
+msgstr "Nokia Messaging: Ώρες συγχρονισμού"
+
+msgid "nm_va_options_sync_hours_customize"
+msgstr "Προσαρμογή"
+
+msgid "nm_va_options_sync_interval_12_hours"
+msgstr "Κάθε 12 ώρες"
+
+msgid "nm_va_options_sync_interval_1_day"
+msgstr "Κάθε 24 ώρες"
+
+msgid "nm_va_options_sync_interval_1_hour"
+msgstr "Κάθε ώρα"
+
+msgid "nm_va_options_sync_interval_4_hours"
+msgstr "Κάθε 4 ώρες"
+
+msgid "nm_va_options_sync_interval_half_hour"
+msgstr "Κάθε 30 λεπτά"
+
+msgid "nm_va_options_sync_interval_push"
+msgstr "Το συντομότερο δυνατό"
+
+msgid "nm_va_options_sync_interval_qtr_hour"
+msgstr "Κάθε 15 λεπτά"
+
+msgid "nm_va_options_sync_power_20"
+msgstr "Μπαταρία στο 20%"
+
+msgid "nm_va_options_sync_power_5"
+msgstr "Μπαταρία στο 5%"
+
+msgid "nm_va_options_sync_power_never"
+msgstr "Ποτέ"
+
+msgid "nm_va_options_sync_power_server"
+msgstr "Τιμή διακομιστή"
+
+msgid "nm_va_options_sync_power_server_battery_level"
+msgstr "Μπαταρία στο %ld%%"
+
+msgid "nm_va_options_use_signature"
+msgstr "Χρήση υπογραφής"
+
+msgid "nm_va_options_user_name"
+msgstr "Όνομα χρήστη"
+
+msgid "nm_va_reset_data"
+msgstr "Η αντικατάσταση των δεδομένων της συσκευής με αυτά του διακομιστή μπορεί να διαρκέσει αρκετά λεπτά. Συνέχεια;"
+
+msgid "nm_va_saving_multimail_mailbox_settings"
+msgstr "Επαλήθευση τροποποιημένων ρυθμίσεων"
+
+msgid "nm_wdgt_bd_delete"
+msgstr "Διαγραφή"
+
+msgid "nm_wdgt_bd_done"
+msgstr "Εντάξει"
+
+msgid "nm_wdgt_bd_save"
+msgstr "Αποθήκευση"
+
+msgid "nm_wdgt_rb_no"
+msgstr "Όχι"
+
+msgid "nm_wdgt_rb_yes"
+msgstr "Ναι"
