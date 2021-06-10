@@ -1,0 +1,592 @@
+# 
+# Translators:
+# Toni Hermoso Pulido <toniher@softcatala.cat>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-11-30 11:33+0000\n"
+"Last-Translator: \n"
+"Language-Team: Catalan (http://www.transifex.net/projects/p/n900-extra-translations/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "nm_account_authentication"
+msgstr "Autenticació"
+
+msgid "nm_account_existing"
+msgstr "Compte existent"
+
+msgid "nm_account_existing_intro"
+msgstr "Ja existeix un compte de Nokia Messaging que reenvia correu-e a aquest dispositiu."
+
+msgid "nm_account_existing_no_info"
+msgstr "Podeu comprovar si hi ha nous missatges manualment"
+
+msgid "nm_account_existing_rb_no"
+msgstr "Crea una bústia separada"
+
+msgid "nm_account_existing_rb_yes"
+msgstr "Afegeix aquesta adreça al compte"
+
+msgid "nm_account_setup_complete"
+msgstr "Ha finalitzat la configuració del compte.\n\nToqueu 'Finalitza' per desar. Podeu editar aquestes preferències via 'Edita els comptes' al menú."
+
+msgid "nm_account_setup_completing_email_setup"
+msgstr "Es completa configuració de correu-e"
+
+msgid "nm_account_setup_contacting_email_server"
+msgstr "Es connecta amb el servidor de correu-e"
+
+msgid "nm_account_setup_email_adv_details"
+msgstr "Preferències avançades"
+
+msgid "nm_account_setup_email_delivery"
+msgstr "Lliurament de correu-e"
+
+msgid "nm_account_setup_email_details"
+msgstr "Detalls de correu-e"
+
+msgid "nm_account_setup_getting_email_settings"
+msgstr "Obtenint configuració del correu-e"
+
+msgid "nm_account_setup_retrieving_terms_conditions"
+msgstr "Obtenint els termes del servei"
+
+msgid "nm_account_setup_terms_conditions"
+msgstr "Termes del servei"
+
+msgid "nm_account_setup_validating"
+msgstr "Validant"
+
+msgid "nm_authentication_failed"
+msgstr "Nom d'usuari o contrasenya incorrectes. Verifiqueu les credencials i intenteu-ho de nou."
+
+msgid "nm_authentication_subscriptionexpired"
+msgstr "Ha caducat la vostra subscripció. "
+
+msgid "nm_authentication_trialexpired"
+msgstr "Ha caducat el període de prova. Contacteu amb Nokia Care o el vostre proveïdor d'internet."
+
+msgid "nm_bd_dialog_cancel"
+msgstr "Anul·la"
+
+msgid "nm_bd_dialog_ok"
+msgstr "Continua"
+
+msgid "nm_bd_mailboxes"
+msgstr "Bústies"
+
+msgid "nm_bd_reset"
+msgstr "Reinicia el compte"
+
+msgid "nm_bd_service_info"
+msgstr "Informació del servei"
+
+msgid "nm_bd_synchronization"
+msgstr "Sincronització"
+
+msgid "nm_cancel_not_allowed"
+msgstr "Operació en progrés. Espereu..."
+
+msgid "nm_ckdg_ib_maximum_characters_reached"
+msgstr "S'ha arribat al nombre màxim de connexions"
+
+msgid "nm_error_title"
+msgstr "Error"
+
+msgid "nm_fi_day_friday"
+msgstr "Divendres"
+
+msgid "nm_fi_day_monday"
+msgstr "Dilluns"
+
+msgid "nm_fi_day_saturday"
+msgstr "Dissabte"
+
+msgid "nm_fi_day_sunday"
+msgstr "Diumenge"
+
+msgid "nm_fi_day_thursday"
+msgstr "Dijous"
+
+msgid "nm_fi_day_tuesday"
+msgstr "Dimarts"
+
+msgid "nm_fi_day_wednesday"
+msgstr "Dimecres"
+
+msgid "nm_fi_emailsetup_servername"
+msgstr "Nom de servidor"
+
+msgid "nm_fi_end_time"
+msgstr "Hora final"
+
+msgid "nm_fi_options_access_point"
+msgstr "Punt d'accés"
+
+msgid "nm_fi_options_addnewmailbox"
+msgstr "Afegir nova bústia"
+
+msgid "nm_fi_options_days"
+msgstr "Dies"
+
+msgid "nm_fi_options_delete"
+msgstr "Esborra"
+
+msgid "nm_fi_options_drafts"
+msgstr "Sincronitza els esborranys"
+
+msgid "nm_fi_options_edit"
+msgstr "Edita"
+
+msgid "nm_fi_options_email_download_size"
+msgstr "Mida de descàrrega"
+
+msgid "nm_fi_options_email_download_size_full_message"
+msgstr "Missatges complets"
+
+msgid "nm_fi_options_email_download_size_headers_only"
+msgstr "Només capçaleres"
+
+msgid "nm_fi_options_email_download_size_headers_plus"
+msgstr "Part dels missatges"
+
+msgid "nm_fi_options_email_remove_older_than"
+msgstr "Esborra els correus més antics de"
+
+msgid "nm_fi_options_hours"
+msgstr "Hores"
+
+msgid "nm_fi_options_inbox"
+msgstr "Sincronitza la safata d'entrada"
+
+msgid "nm_fi_options_password"
+msgstr "Contrasenya"
+
+msgid "nm_fi_options_password_required"
+msgstr "Cal una contrasenya per canviar el nom"
+
+msgid "nm_fi_options_reset_data"
+msgstr "Reinicia les dades"
+
+msgid "nm_fi_options_sent_items"
+msgstr "Sincronitza els elements enviats"
+
+msgid "nm_fi_options_server_name"
+msgstr "Nom de servidor"
+
+msgid "nm_fi_options_signature"
+msgstr "Signatura"
+
+msgid "nm_fi_options_start"
+msgstr "Inici"
+
+msgid "nm_fi_options_sync_days"
+msgstr "Nokia Messaging: Dies de sincronització"
+
+msgid "nm_fi_options_sync_interval"
+msgstr "Enviament i rebuda"
+
+msgid "nm_fi_options_sync_power"
+msgstr "Inhabilita la sincronització quan"
+
+msgid "nm_fi_options_sync_while_roaming"
+msgstr "Sincronitza en itinerància"
+
+msgid "nm_fi_options_use_secure_login_incoming"
+msgstr "Utilitza una connexió segura per al servidor d'entrada"
+
+msgid "nm_fi_options_use_secure_login_outgoing"
+msgstr "Utilitza una connexió segura per al servidor de sortida"
+
+msgid "nm_fi_options_user_name"
+msgstr "Nom d'usuari"
+
+msgid "nm_fi_start_time"
+msgstr "Hora d'inici"
+
+msgid "nm_fi_sync_days_all"
+msgstr "Cada dia"
+
+msgid "nm_fi_sync_days_custom"
+msgstr "Personalitzada"
+
+msgid "nm_fi_sync_days_never"
+msgstr "Mai"
+
+msgid "nm_fi_sync_days_weekdays"
+msgstr "Dies de cada dia"
+
+msgid "nm_fi_sync_days_weekends"
+msgstr "Cap de setmana"
+
+msgid "nm_fi_sync_drafts"
+msgstr "Sincronitza els esborranys"
+
+msgid "nm_fi_sync_inbox"
+msgstr "Sincronitza la safata d'entrada"
+
+msgid "nm_fi_sync_read_server_enabled"
+msgstr "Marca al servidor els missatges com a llegits"
+
+msgid "nm_fi_sync_sent_items"
+msgstr "Sincronitza els elements enviats"
+
+msgid "nm_ib_advsetup_settings_saved"
+msgstr "Preferències desades"
+
+msgid "nm_ib_daemon_not_connected"
+msgstr "Servei Nokia Messaging no disponible"
+
+msgid "nm_imum_nc_wizard_confirm_lose_changes"
+msgstr "Els canvis realitzats no es desaran.\nVoleu continuar?"
+
+msgid "nm_initializing_synchronization"
+msgstr "Inicialitzant sincronització"
+
+msgid "nm_invalid_server_settings"
+msgstr "No s'ha pogut contactar amb el proveïdor de correu-e. Comprova la configuració."
+
+msgid "nm_mail_de_intro_bundle"
+msgstr "Accepteu els termes de servei per activar el vostre compte de Nokia Messaging."
+
+msgid "nm_mail_de_intro_default"
+msgstr "Nokia Messaging és un servei de subscripció que reenvia correu-e a la vostra safata d'entrada. Podeu donar-vos d'alta ara gratuïtament."
+
+msgid "nm_mail_de_intro_isp"
+msgstr "Nokia Messaging és un servei de subscripció que reenvia correu-e a la vostra safata d'entrada. Podeu donar-vos d'alta ara gratuïtament."
+
+msgid "nm_mail_de_no"
+msgstr "No, gràcies"
+
+msgid "nm_mail_de_password"
+msgstr "Contrasenya"
+
+msgid "nm_mail_de_tos_link"
+msgstr "En tocar 'Següent' Accepto tots els [Termes de servei]."
+
+msgid "nm_mail_de_tos_link_bundle"
+msgstr "En tocar 'Següent' Accepto tots els [Termes de servei de Nokia Messaging]."
+
+msgid "nm_mail_de_tos_link_manual_text"
+msgstr "Podeu comprovar si hi ha nous missatges manualment."
+
+msgid "nm_mail_de_yes"
+msgstr "Sí! Em vull donar d'alta."
+
+msgid "nm_mail_de_yes_bundle"
+msgstr "Activa el meu compte"
+
+msgid "nm_mail_fi_email_address"
+msgstr "Adreça de correu-e"
+
+msgid "nm_mail_fi_incoming_port"
+msgstr "Port d'entrada"
+
+msgid "nm_mail_fi_incoming_server"
+msgstr "Servidor d'entrada"
+
+msgid "nm_mail_fi_mailbox_name"
+msgstr "Nom de la bústia"
+
+msgid "nm_mail_fi_my_name"
+msgstr "El meu nom"
+
+msgid "nm_mail_fi_outgoing_port"
+msgstr "Port de sortida"
+
+msgid "nm_mail_fi_outgoing_server"
+msgstr "Servidor de sortida"
+
+msgid "nm_mail_fi_password"
+msgstr "Contrasenya"
+
+msgid "nm_mail_fi_password_prompt"
+msgstr "La contrasenya és incorrecta. Introduïu la contrasenya per completar la configuració del compte Nokia Messaging."
+
+msgid "nm_mail_fi_user_name"
+msgstr "Nom d'usuari"
+
+msgid "nm_mail_fi_username"
+msgstr "Nom d'usuari"
+
+msgid "nm_mail_fi_username_hint"
+msgstr "Requerit per alguns proveïdors de servei"
+
+msgid "nm_mail_fi_username_password_prompt"
+msgstr "Adreça de correu-e ja asocciada amb un compte de Nokia Messaging. Introduïu les credencials del compte Nokia Messaging per completar la configuració."
+
+msgid "nm_mail_ib_setting_failed"
+msgstr "No s'han pogut desar les preferències"
+
+msgid "nm_mail_type"
+msgstr "Tipus de correu-e"
+
+msgid "nm_mail_type_imap"
+msgstr "IMAP"
+
+msgid "nm_mail_type_pop"
+msgstr "POP"
+
+msgid "nm_me_folder_drafts"
+msgstr "Esborranys"
+
+msgid "nm_me_folder_inbox"
+msgstr "Safata d'entrada"
+
+msgid "nm_me_folder_sent"
+msgstr "Enviat"
+
+msgid "nm_me_inbox_options"
+msgstr "Preferències"
+
+msgid "nm_me_inbox_options_global"
+msgstr "<Protocol nadiu>"
+
+msgid "nm_me_inbox_options_nes"
+msgstr "Nokia Messaging"
+
+msgid "nm_nms_cannot_download_attachment"
+msgstr "Adjunció massa gran per baixar"
+
+msgid "nm_nms_downloading_attachment"
+msgstr "Baixant-la"
+
+msgid "nm_nms_password_prompt"
+msgstr "Introduïu la contrasenya de Nokia Messaging."
+
+msgid "nm_ods_email_intro"
+msgstr "La vostra adreça de correu-e i altres informacions tècniques com l'ID de dispositiu s'enviaran a Nokia. Nokia no emmagatzema cap dada personal sense el vostre consentiment."
+
+msgid "nm_ods_error_account_locked"
+msgstr "Compte bloquejat després d'un nombre excessiu d'intents de connexió. Contacta amb Nokia Care o el teu proveïdor de servei."
+
+msgid "nm_ods_error_cant_setup"
+msgstr "Problema configurant bústia. Comproveu la configuració i proveu-ho de nou."
+
+msgid "nm_ods_error_generic"
+msgstr "Problema configurant bústia. Comproveu la configuració i proveu-ho de nou. (%04x)"
+
+msgid "nm_ods_error_restart"
+msgstr "La configuració es reiniciarà (%04lX)"
+
+msgid "nm_ods_phone_number"
+msgstr "Número de teléfon"
+
+msgid "nm_ods_phone_number_required"
+msgstr "Introduïu el vostre número de teléfon per autenticar la configuració de correu-e"
+
+msgid "nm_ods_setup_failed_emailid_exists_else_where"
+msgstr "Compte de correu-e ja registrat amb un altre compte de Nokia Messaging"
+
+msgid "nm_ods_setup_failed_notenabled"
+msgstr "El vostre compte està inhabilitat. Contacteu amb Nokia Care o el vostre proveïdor de servei."
+
+msgid "nm_ods_unable_to_connect"
+msgstr "L'auxiliar de configuració no es pot connectar amb el servidor de correu-e amb les dades subministrades."
+
+msgid "nm_reset_account"
+msgstr "Reinicia"
+
+msgid "nm_set_up_mail_at_later_time"
+msgstr "Configura-ho després"
+
+msgid "nm_set_up_mailbox_anyway"
+msgstr "Configura la bústia de totes maneres"
+
+msgid "nm_set_up_mailbox_anyway_help_text"
+msgstr "La connexió serà possible després d'ajustar la configuració."
+
+msgid "nm_sync_hours_customize"
+msgstr "Personalitza"
+
+msgid "nm_sync_hours_on_all_day"
+msgstr "Tot el dia"
+
+msgid "nm_synchronizing"
+msgstr "Sincronitzant"
+
+msgid "nm_ti_intellisync_settings"
+msgstr "Preferències per Nokia Messaging"
+
+msgid "nm_ti_intellisync_settings_mailboxes"
+msgstr "Nokia Messaging: Bústies"
+
+msgid "nm_ti_intellisync_settings_synchronization"
+msgstr "Nokia Messaging: Sincronització"
+
+msgid "nm_ti_mailbox_settings"
+msgstr "Preferències de bústia"
+
+msgid "nm_ti_options_mailbox_account"
+msgstr "Compte"
+
+msgid "nm_ti_options_mailbox_user_info"
+msgstr "Informació d'usuari"
+
+msgid "nm_ti_options_mailboxes"
+msgstr "Bústies"
+
+msgid "nm_ti_options_native_protocol"
+msgstr "Preferències per <Native protocol>"
+
+msgid "nm_ti_options_nokia_email"
+msgstr "Preferències per Nokia Messaging"
+
+msgid "nm_ti_options_service_info"
+msgstr "Informació de servei"
+
+msgid "nm_ti_options_serviceinfo"
+msgstr "Informació de servei"
+
+msgid "nm_ti_options_what_to_sync"
+msgstr "Que sincronitzar"
+
+msgid "nm_ti_options_when_to_sync"
+msgstr "Quan sincronitzar"
+
+msgid "nm_try_different_email_address"
+msgstr "Proveu una altra adreça de correu-e"
+
+msgid "nm_unable_to_set_up_this_mailbox_with_info_provided"
+msgstr "No s'ha pogut configurar aquesta bústia amb l'informació proporcionada"
+
+msgid "nm_use_secure_login"
+msgstr "Utilitza una connexió segura"
+
+msgid "nm_va_delete_message_service"
+msgstr "S'elimina el servei Nokia Messaging i les bústies associades?"
+
+msgid "nm_va_delete_multimail_mailbox"
+msgstr "S'elimina del dispositiu?\n'%s'"
+
+msgid "nm_va_delete_nokia_messaging"
+msgstr "S'elimina el servei Nokia Messaging i les bústies associades del dispositiu?"
+
+msgid "nm_va_deleting_multimail_mailbox"
+msgstr "Eliminant la bústia\n'%s'"
+
+msgid "nm_va_intellisync"
+msgstr "Nokia Messaging"
+
+msgid "nm_va_multimail_mailbox_added_message"
+msgstr "La nova bústia estarà disponible després de la propera sincrontizació amb el servidor de correu-e"
+
+msgid "nm_va_multimail_mailbox_delete_failed"
+msgstr "Error esborrant bústia"
+
+msgid "nm_va_multimail_mailbox_password_change_failed"
+msgstr "El canvi de nom ha fallat. Comproveu la contrasenya i proveu-ho de nou."
+
+msgid "nm_va_multimail_mailbox_removed_message"
+msgstr "La bústia seleccionada s'esborrarà després de la propera sincronització amb el servidor."
+
+msgid "nm_va_options_access_point_default"
+msgstr "Per defecte"
+
+msgid "nm_va_options_older_than_1_month"
+msgstr "1 mes"
+
+msgid "nm_va_options_older_than_1_week"
+msgstr "1 setmana"
+
+msgid "nm_va_options_older_than_2_weeks"
+msgstr "2 setmanes"
+
+msgid "nm_va_options_older_than_3_days"
+msgstr "3 dies"
+
+msgid "nm_va_options_older_than_5_days"
+msgstr "5 dies"
+
+msgid "nm_va_options_server_name"
+msgstr "Nom de servidor"
+
+msgid "nm_va_options_service_info"
+msgstr "Nokia Messaging: Informació de servei"
+
+msgid "nm_va_options_signature"
+msgstr "Signatura"
+
+msgid "nm_va_options_signature_default_text"
+msgstr "Enviat des del meu N900 fent servir Nokia Messaging"
+
+msgid "nm_va_options_signature_for_mailbox_name"
+msgstr "Signatura per %s"
+
+msgid "nm_va_options_sync_hours_all_day"
+msgstr "Tot el dia"
+
+msgid "nm_va_options_sync_hours_custom_time"
+msgstr "Nokia Messaging: Hores de sincronització"
+
+msgid "nm_va_options_sync_hours_customize"
+msgstr "Personalitza"
+
+msgid "nm_va_options_sync_interval_12_hours"
+msgstr "Cada 12 hores"
+
+msgid "nm_va_options_sync_interval_1_day"
+msgstr "Cada 24 hores"
+
+msgid "nm_va_options_sync_interval_1_hour"
+msgstr "Cada hora"
+
+msgid "nm_va_options_sync_interval_4_hours"
+msgstr "Cada 4 hores"
+
+msgid "nm_va_options_sync_interval_half_hour"
+msgstr "Cada 30 minuts"
+
+msgid "nm_va_options_sync_interval_push"
+msgstr "Tan aviat com sigui possible"
+
+msgid "nm_va_options_sync_interval_qtr_hour"
+msgstr "Cada 15 minuts"
+
+msgid "nm_va_options_sync_power_20"
+msgstr "Bateria al 20%"
+
+msgid "nm_va_options_sync_power_5"
+msgstr "Bateria al 5%"
+
+msgid "nm_va_options_sync_power_never"
+msgstr "Mai"
+
+msgid "nm_va_options_sync_power_server"
+msgstr "Valor del servidor"
+
+msgid "nm_va_options_sync_power_server_battery_level"
+msgstr "Batería al %ld%%"
+
+msgid "nm_va_options_use_signature"
+msgstr "Utilitza signatura"
+
+msgid "nm_va_options_user_name"
+msgstr "Nom d'usuari"
+
+msgid "nm_va_reset_data"
+msgstr "Substituir dades del dispositiu amb dades del servidor pot trigar uns quants minuts. Voleu continuar?"
+
+msgid "nm_va_saving_multimail_mailbox_settings"
+msgstr "Verificant preferències"
+
+msgid "nm_wdgt_bd_delete"
+msgstr "Esborra"
+
+msgid "nm_wdgt_bd_done"
+msgstr "Fet"
+
+msgid "nm_wdgt_bd_save"
+msgstr "Desa"
+
+msgid "nm_wdgt_rb_no"
+msgstr "No"
+
+msgid "nm_wdgt_rb_yes"
+msgstr "Sí"
