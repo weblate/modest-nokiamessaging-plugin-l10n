@@ -3,13 +3,16 @@ msgstr ""
 "Project-Id-Version: modest-nokiamessaging-plugin 20090818210000\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.06.29 14:11+0300\n"
-"PO-Revision-Date: 2010-01-14 14:35+0100\n"
-"Last-Translator:\n"
-"Language-Team: sk_SK\n"
+"PO-Revision-Date: 2021-08-09 02:33+0000\n"
+"Last-Translator: menom <menom1@protonmail.com>\n"
+"Language-Team: Slovak <https://hosted.weblate.org/projects/maemo-leste/"
+"modest-nokiamessaging-plugin-l10n/sk/>\n"
+"Language: sk_SK\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.8-dev\n"
 
 msgid "nm_account_authentication"
 msgstr "Overenie"
@@ -65,21 +68,15 @@ msgstr "Podmienky služby"
 msgid "nm_account_setup_validating"
 msgstr "Potvrdzovanie"
 
-#, fuzzy
 msgid "nm_authentication_failed"
 msgstr ""
-"Vaša skúšobná verzia vypršala. Kontaktujte službu Nokia Care alebo svojho "
-"poskytovateľa internetových služieb."
+"Nesprávne meno užívateľa alebo heslo. Skontrolujte údaje a skúste znovu."
 
 msgid "nm_authentication_subscriptionexpired"
-msgstr ""
-"Vaše predplatné vypršalo. Kontaktujte službu Nokia Care alebo svojho "
-"poskytovateľa internetových služieb."
+msgstr "Vaše predplatné vypršalo."
 
 msgid "nm_authentication_trialexpired"
-msgstr ""
-"Vaša skúšobná verzia vypršala. Kontaktujte službu Nokia Care alebo svojho "
-"poskytovateľa internetových služieb."
+msgstr "Vaša skúšobná verzia vypršala."
 
 msgid "nm_bd_dialog_cancel"
 msgstr "Zrušiť"
@@ -257,13 +254,11 @@ msgstr ""
 "Všetky prevedené zmeny nastavenia budú stratené.\n"
 "Pokračovať?"
 
-#, fuzzy
 msgid "nm_initializing_synchronization"
-msgstr "Nokia Messaging: Synchronizácia"
+msgstr "Počiatočná synchronizácia"
 
-#, fuzzy
 msgid "nm_invalid_server_settings"
-msgstr "Nastavenie služby Nokia Messaging"
+msgstr "Nie je možné kontaktovať poskytovateľa služby. Skontrolujte nastavenia."
 
 msgid "nm_mail_de_intro_bundle"
 msgstr ""
@@ -457,7 +452,6 @@ msgstr "Prizpôsobiť"
 msgid "nm_sync_hours_on_all_day"
 msgstr "Celý deň"
 
-#, fuzzy
 msgid "nm_synchronizing"
 msgstr "Synchronizácia"
 
@@ -541,11 +535,9 @@ msgstr "Odstránenie schránky sa nepodarilo"
 msgid "nm_va_multimail_mailbox_password_change_failed"
 msgstr "Zmena mena sa nepodarila. Skontrolujte heslo a skúste to znovu."
 
-#, fuzzy
 msgid "nm_va_multimail_mailbox_removed_message"
 msgstr ""
-"Nová schránka bude dostupná po prevedení ďalšej synchronizácie s poštovým "
-"serverom"
+"Vybraná schránka bude vyčistená po ďalšej synchronizácii s poštovým serverom."
 
 msgid "nm_va_options_access_point_default"
 msgstr "Predvolený"
