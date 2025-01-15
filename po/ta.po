@@ -1,0 +1,589 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: modest-nokiamessaging-plugin 20091201100000\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.12.01 10:00-0400\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "nm_account_authentication"
+msgstr ""
+
+msgid "nm_account_existing"
+msgstr ""
+
+msgid "nm_account_existing_intro"
+msgstr ""
+
+msgid "nm_account_existing_no_info"
+msgstr ""
+
+msgid "nm_account_existing_rb_no"
+msgstr ""
+
+msgid "nm_account_existing_rb_yes"
+msgstr ""
+
+msgid "nm_account_setup_complete"
+msgstr ""
+
+msgid "nm_account_setup_completing_email_setup"
+msgstr ""
+
+msgid "nm_account_setup_contacting_email_server"
+msgstr ""
+
+msgid "nm_account_setup_email_adv_details"
+msgstr ""
+
+msgid "nm_account_setup_email_delivery"
+msgstr ""
+
+msgid "nm_account_setup_email_details"
+msgstr ""
+
+msgid "nm_account_setup_getting_email_settings"
+msgstr ""
+
+msgid "nm_account_setup_retrieving_terms_conditions"
+msgstr ""
+
+msgid "nm_account_setup_terms_conditions"
+msgstr ""
+
+msgid "nm_account_setup_validating"
+msgstr ""
+
+msgid "nm_authentication_failed"
+msgstr ""
+
+msgid "nm_authentication_subscriptionexpired"
+msgstr ""
+
+msgid "nm_authentication_trialexpired"
+msgstr ""
+
+msgid "nm_bd_dialog_cancel"
+msgstr ""
+
+msgid "nm_bd_dialog_ok"
+msgstr ""
+
+msgid "nm_bd_mailboxes"
+msgstr ""
+
+msgid "nm_bd_reset"
+msgstr ""
+
+msgid "nm_bd_service_info"
+msgstr ""
+
+msgid "nm_bd_synchronization"
+msgstr ""
+
+msgid "nm_cancel_not_allowed"
+msgstr ""
+
+msgid "nm_ckdg_ib_maximum_characters_reached"
+msgstr ""
+
+msgid "nm_error_title"
+msgstr ""
+
+msgid "nm_fi_day_friday"
+msgstr ""
+
+msgid "nm_fi_day_monday"
+msgstr ""
+
+msgid "nm_fi_day_saturday"
+msgstr ""
+
+msgid "nm_fi_day_sunday"
+msgstr ""
+
+msgid "nm_fi_day_thursday"
+msgstr ""
+
+msgid "nm_fi_day_tuesday"
+msgstr ""
+
+msgid "nm_fi_day_wednesday"
+msgstr ""
+
+msgid "nm_fi_emailsetup_servername"
+msgstr ""
+
+msgid "nm_fi_end_time"
+msgstr ""
+
+msgid "nm_fi_options_access_point"
+msgstr ""
+
+msgid "nm_fi_options_addnewmailbox"
+msgstr ""
+
+msgid "nm_fi_options_days"
+msgstr ""
+
+msgid "nm_fi_options_delete"
+msgstr ""
+
+msgid "nm_fi_options_drafts"
+msgstr ""
+
+msgid "nm_fi_options_edit"
+msgstr ""
+
+msgid "nm_fi_options_email_download_size"
+msgstr ""
+
+msgid "nm_fi_options_email_download_size_full_message"
+msgstr ""
+
+msgid "nm_fi_options_email_download_size_headers_only"
+msgstr ""
+
+msgid "nm_fi_options_email_download_size_headers_plus"
+msgstr ""
+
+msgid "nm_fi_options_email_remove_older_than"
+msgstr ""
+
+msgid "nm_fi_options_hours"
+msgstr ""
+
+msgid "nm_fi_options_inbox"
+msgstr ""
+
+msgid "nm_fi_options_password"
+msgstr ""
+
+msgid "nm_fi_options_password_required"
+msgstr ""
+
+msgid "nm_fi_options_reset_data"
+msgstr ""
+
+msgid "nm_fi_options_sent_items"
+msgstr ""
+
+msgid "nm_fi_options_server_name"
+msgstr ""
+
+msgid "nm_fi_options_signature"
+msgstr ""
+
+msgid "nm_fi_options_start"
+msgstr ""
+
+msgid "nm_fi_options_sync_days"
+msgstr ""
+
+msgid "nm_fi_options_sync_interval"
+msgstr ""
+
+msgid "nm_fi_options_sync_power"
+msgstr ""
+
+msgid "nm_fi_options_sync_while_roaming"
+msgstr ""
+
+msgid "nm_fi_options_use_secure_login_incoming"
+msgstr ""
+
+msgid "nm_fi_options_use_secure_login_outgoing"
+msgstr ""
+
+msgid "nm_fi_options_user_name"
+msgstr ""
+
+msgid "nm_fi_start_time"
+msgstr ""
+
+msgid "nm_fi_sync_days_all"
+msgstr ""
+
+msgid "nm_fi_sync_days_custom"
+msgstr ""
+
+msgid "nm_fi_sync_days_never"
+msgstr ""
+
+msgid "nm_fi_sync_days_weekdays"
+msgstr ""
+
+msgid "nm_fi_sync_days_weekends"
+msgstr ""
+
+msgid "nm_fi_sync_drafts"
+msgstr ""
+
+msgid "nm_fi_sync_inbox"
+msgstr ""
+
+msgid "nm_fi_sync_read_server_enabled"
+msgstr ""
+
+msgid "nm_fi_sync_sent_items"
+msgstr ""
+
+msgid "nm_ib_advsetup_settings_saved"
+msgstr ""
+
+msgid "nm_ib_daemon_not_connected"
+msgstr ""
+
+msgid "nm_imum_nc_wizard_confirm_lose_changes"
+msgstr ""
+
+msgid "nm_initializing_synchronization"
+msgstr ""
+
+msgid "nm_invalid_server_settings"
+msgstr ""
+
+msgid "nm_mail_de_intro_bundle"
+msgstr ""
+
+msgid "nm_mail_de_intro_default"
+msgstr ""
+
+msgid "nm_mail_de_intro_isp"
+msgstr ""
+
+msgid "nm_mail_de_no"
+msgstr ""
+
+msgid "nm_mail_de_password"
+msgstr ""
+
+msgid "nm_mail_de_tos_link"
+msgstr ""
+
+msgid "nm_mail_de_tos_link_bundle"
+msgstr ""
+
+msgid "nm_mail_de_tos_link_manual_text"
+msgstr ""
+
+msgid "nm_mail_de_yes"
+msgstr ""
+
+msgid "nm_mail_de_yes_bundle"
+msgstr ""
+
+msgid "nm_mail_fi_email_address"
+msgstr ""
+
+msgid "nm_mail_fi_incoming_port"
+msgstr ""
+
+msgid "nm_mail_fi_incoming_server"
+msgstr ""
+
+msgid "nm_mail_fi_mailbox_name"
+msgstr ""
+
+msgid "nm_mail_fi_my_name"
+msgstr ""
+
+msgid "nm_mail_fi_outgoing_port"
+msgstr ""
+
+msgid "nm_mail_fi_outgoing_server"
+msgstr ""
+
+msgid "nm_mail_fi_password"
+msgstr ""
+
+msgid "nm_mail_fi_password_prompt"
+msgstr ""
+
+msgid "nm_mail_fi_user_name"
+msgstr ""
+
+msgid "nm_mail_fi_username"
+msgstr ""
+
+msgid "nm_mail_fi_username_hint"
+msgstr ""
+
+msgid "nm_mail_fi_username_password_prompt"
+msgstr ""
+
+msgid "nm_mail_ib_setting_failed"
+msgstr ""
+
+msgid "nm_mail_type"
+msgstr ""
+
+msgid "nm_mail_type_imap"
+msgstr ""
+
+msgid "nm_mail_type_pop"
+msgstr ""
+
+msgid "nm_me_folder_drafts"
+msgstr ""
+
+msgid "nm_me_folder_inbox"
+msgstr ""
+
+msgid "nm_me_folder_sent"
+msgstr ""
+
+msgid "nm_me_inbox_options"
+msgstr ""
+
+msgid "nm_me_inbox_options_global"
+msgstr ""
+
+msgid "nm_me_inbox_options_nes"
+msgstr ""
+
+msgid "nm_nms_cannot_download_attachment"
+msgstr ""
+
+msgid "nm_nms_downloading_attachment"
+msgstr ""
+
+msgid "nm_nms_password_prompt"
+msgstr ""
+
+msgid "nm_ods_email_intro"
+msgstr ""
+
+msgid "nm_ods_error_account_locked"
+msgstr ""
+
+msgid "nm_ods_error_cant_setup"
+msgstr ""
+
+msgid "nm_ods_error_generic"
+msgstr ""
+
+msgid "nm_ods_error_restart"
+msgstr ""
+
+msgid "nm_ods_phone_number"
+msgstr ""
+
+msgid "nm_ods_phone_number_required"
+msgstr ""
+
+msgid "nm_ods_setup_failed_emailid_exists_else_where"
+msgstr ""
+
+msgid "nm_ods_setup_failed_notenabled"
+msgstr ""
+
+msgid "nm_ods_unable_to_connect"
+msgstr ""
+
+msgid "nm_reset_account"
+msgstr ""
+
+msgid "nm_set_up_mail_at_later_time"
+msgstr ""
+
+msgid "nm_set_up_mailbox_anyway"
+msgstr ""
+
+msgid "nm_set_up_mailbox_anyway_help_text"
+msgstr ""
+
+msgid "nm_sync_hours_customize"
+msgstr ""
+
+msgid "nm_sync_hours_on_all_day"
+msgstr ""
+
+msgid "nm_synchronizing"
+msgstr ""
+
+msgid "nm_ti_intellisync_settings"
+msgstr ""
+
+msgid "nm_ti_intellisync_settings_mailboxes"
+msgstr ""
+
+msgid "nm_ti_intellisync_settings_synchronization"
+msgstr ""
+
+msgid "nm_ti_mailbox_settings"
+msgstr ""
+
+msgid "nm_ti_options_mailbox_account"
+msgstr ""
+
+msgid "nm_ti_options_mailbox_user_info"
+msgstr ""
+
+msgid "nm_ti_options_mailboxes"
+msgstr ""
+
+msgid "nm_ti_options_native_protocol"
+msgstr ""
+
+msgid "nm_ti_options_nokia_email"
+msgstr ""
+
+msgid "nm_ti_options_service_info"
+msgstr ""
+
+msgid "nm_ti_options_serviceinfo"
+msgstr ""
+
+msgid "nm_ti_options_what_to_sync"
+msgstr ""
+
+msgid "nm_ti_options_when_to_sync"
+msgstr ""
+
+msgid "nm_try_different_email_address"
+msgstr ""
+
+msgid "nm_unable_to_set_up_this_mailbox_with_info_provided"
+msgstr ""
+
+msgid "nm_use_secure_login"
+msgstr ""
+
+msgid "nm_va_delete_message_service"
+msgstr ""
+
+msgid "nm_va_delete_multimail_mailbox"
+msgstr ""
+
+msgid "nm_va_delete_nokia_messaging"
+msgstr ""
+
+msgid "nm_va_deleting_multimail_mailbox"
+msgstr ""
+
+msgid "nm_va_intellisync"
+msgstr ""
+
+msgid "nm_va_multimail_mailbox_added_message"
+msgstr ""
+
+msgid "nm_va_multimail_mailbox_delete_failed"
+msgstr ""
+
+msgid "nm_va_multimail_mailbox_password_change_failed"
+msgstr ""
+
+msgid "nm_va_multimail_mailbox_removed_message"
+msgstr ""
+
+msgid "nm_va_options_access_point_default"
+msgstr ""
+
+msgid "nm_va_options_older_than_1_month"
+msgstr ""
+
+msgid "nm_va_options_older_than_1_week"
+msgstr ""
+
+msgid "nm_va_options_older_than_2_weeks"
+msgstr ""
+
+msgid "nm_va_options_older_than_3_days"
+msgstr ""
+
+msgid "nm_va_options_older_than_5_days"
+msgstr ""
+
+msgid "nm_va_options_server_name"
+msgstr ""
+
+msgid "nm_va_options_service_info"
+msgstr ""
+
+msgid "nm_va_options_signature"
+msgstr ""
+
+msgid "nm_va_options_signature_default_text"
+msgstr ""
+
+msgid "nm_va_options_signature_for_mailbox_name"
+msgstr ""
+
+msgid "nm_va_options_sync_hours_all_day"
+msgstr ""
+
+msgid "nm_va_options_sync_hours_custom_time"
+msgstr ""
+
+msgid "nm_va_options_sync_hours_customize"
+msgstr ""
+
+msgid "nm_va_options_sync_interval_12_hours"
+msgstr ""
+
+msgid "nm_va_options_sync_interval_1_day"
+msgstr ""
+
+msgid "nm_va_options_sync_interval_1_hour"
+msgstr ""
+
+msgid "nm_va_options_sync_interval_4_hours"
+msgstr ""
+
+msgid "nm_va_options_sync_interval_half_hour"
+msgstr ""
+
+msgid "nm_va_options_sync_interval_push"
+msgstr ""
+
+msgid "nm_va_options_sync_interval_qtr_hour"
+msgstr ""
+
+msgid "nm_va_options_sync_power_20"
+msgstr ""
+
+msgid "nm_va_options_sync_power_5"
+msgstr ""
+
+msgid "nm_va_options_sync_power_never"
+msgstr ""
+
+msgid "nm_va_options_sync_power_server"
+msgstr ""
+
+msgid "nm_va_options_sync_power_server_battery_level"
+msgstr ""
+
+msgid "nm_va_options_use_signature"
+msgstr ""
+
+msgid "nm_va_options_user_name"
+msgstr ""
+
+msgid "nm_va_reset_data"
+msgstr ""
+
+msgid "nm_va_saving_multimail_mailbox_settings"
+msgstr ""
+
+msgid "nm_wdgt_bd_delete"
+msgstr ""
+
+msgid "nm_wdgt_bd_done"
+msgstr ""
+
+msgid "nm_wdgt_bd_save"
+msgstr ""
+
+msgid "nm_wdgt_rb_no"
+msgstr ""
+
+msgid "nm_wdgt_rb_yes"
+msgstr ""
