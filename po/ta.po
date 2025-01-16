@@ -3,473 +3,527 @@ msgstr ""
 "Project-Id-Version: modest-nokiamessaging-plugin 20091201100000\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2009.06.29 14:11+0300\n"
-"PO-Revision-Date: 2009.12.01 10:00-0400\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-16 15:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"modest-nokiamessaging-plugin-l10n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "nm_account_authentication"
-msgstr ""
+msgstr "ஏற்பு"
 
 msgid "nm_account_existing"
-msgstr ""
+msgstr "தற்போதுள்ள கணக்கு"
 
 msgid "nm_account_existing_intro"
 msgstr ""
+"இந்த சாதனத்திற்கு மின்னஞ்சலை அனுப்ப நோக்கியா செய்தியிடல் கணக்கு ஏற்கனவே உள்ளது."
 
 msgid "nm_account_existing_no_info"
-msgstr ""
+msgstr "புதிய செய்திகளை கைமுறையாக சரிபார்க்கலாம்"
 
 msgid "nm_account_existing_rb_no"
-msgstr ""
+msgstr "தனி அஞ்சல் பெட்டியை உருவாக்கவும்"
 
 msgid "nm_account_existing_rb_yes"
-msgstr ""
+msgstr "இந்த முகவரியை கணக்கில் சேர்க்கவும்"
 
 msgid "nm_account_setup_complete"
 msgstr ""
+"கணக்கு அமைப்பு முடிந்தது.\n"
+"\n"
+" சேமிக்க 'பூச்சு' என்பதைத் தட்டவும். இந்த அமைப்புகளை பட்டியலில் 'கணக்குகளைத் திருத்து' "
+"வழியாக திருத்தலாம்."
 
 msgid "nm_account_setup_completing_email_setup"
-msgstr ""
+msgstr "மின்னஞ்சல் அமைப்பை நிறைவு செய்தல்"
 
 msgid "nm_account_setup_contacting_email_server"
-msgstr ""
+msgstr "மின்னஞ்சல் சேவையகத்தைத் தொடர்பு கொள்கிறது"
 
 msgid "nm_account_setup_email_adv_details"
-msgstr ""
+msgstr "மேம்பட்ட அமைப்புகள்"
 
 msgid "nm_account_setup_email_delivery"
-msgstr ""
+msgstr "மின்னஞ்சல் வழங்கல்"
 
 msgid "nm_account_setup_email_details"
-msgstr ""
+msgstr "மின்னஞ்சல் விவரங்கள்"
 
 msgid "nm_account_setup_getting_email_settings"
-msgstr ""
+msgstr "மின்னஞ்சல் அமைப்புகளைப் பெறுதல்"
 
 msgid "nm_account_setup_retrieving_terms_conditions"
-msgstr ""
+msgstr "பணி விதிமுறைகளை மீட்டெடுப்பது"
 
 msgid "nm_account_setup_terms_conditions"
-msgstr ""
+msgstr "பணி விதிமுறைகள்"
 
 msgid "nm_account_setup_validating"
-msgstr ""
+msgstr "சரிபார்ப்பு"
 
 msgid "nm_authentication_failed"
 msgstr ""
+"தவறான பயனர்பெயர் அல்லது கடவுச்சொல். தயவுசெய்து சான்றுகளை சரிபார்த்து மீண்டும் "
+"முயற்சிக்கவும்."
 
 msgid "nm_authentication_subscriptionexpired"
 msgstr ""
+"உங்கள் சந்தா காலாவதியானது. நோக்கியா பராமரிப்பு அல்லது உங்கள் இணைய பணி வழங்குநரைத் "
+"தொடர்பு கொள்ளுங்கள்."
 
 msgid "nm_authentication_trialexpired"
 msgstr ""
+"உங்கள் சோதனை காலாவதியானது. நோக்கியா பராமரிப்பு அல்லது உங்கள் இணைய பணி வழங்குநரைத் "
+"தொடர்பு கொள்ளுங்கள்."
 
 msgid "nm_bd_dialog_cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 msgid "nm_bd_dialog_ok"
-msgstr ""
+msgstr "தொடரவும்"
 
 msgid "nm_bd_mailboxes"
-msgstr ""
+msgstr "அஞ்சல் பெட்டிகள்"
 
 msgid "nm_bd_reset"
-msgstr ""
+msgstr "கணக்கை மீட்டமைக்கவும்"
 
 msgid "nm_bd_service_info"
-msgstr ""
+msgstr "பணி செய்தி"
 
 msgid "nm_bd_synchronization"
-msgstr ""
+msgstr "ஒத்திசைவு"
 
 msgid "nm_cancel_not_allowed"
-msgstr ""
+msgstr "செயல்பாட்டில் செயல்பாட்டில். தயவுசெய்து காத்திருங்கள்."
 
 msgid "nm_ckdg_ib_maximum_characters_reached"
-msgstr ""
+msgstr "அதிகபட்ச எழுத்துக்கள் அடைந்தன"
 
 msgid "nm_error_title"
-msgstr ""
+msgstr "பிழை"
 
 msgid "nm_fi_day_friday"
-msgstr ""
+msgstr "வெள்ளிக்கிழமை"
 
 msgid "nm_fi_day_monday"
-msgstr ""
+msgstr "திங்கள்"
 
 msgid "nm_fi_day_saturday"
-msgstr ""
+msgstr "காரிக்கிழமை"
 
 msgid "nm_fi_day_sunday"
-msgstr ""
+msgstr "ஞாயிற்றுக்கிழமை"
 
 msgid "nm_fi_day_thursday"
-msgstr ""
+msgstr "வியாழக்கிழமை"
 
 msgid "nm_fi_day_tuesday"
-msgstr ""
+msgstr "செவ்வாய்க்கிழமை"
 
 msgid "nm_fi_day_wednesday"
-msgstr ""
+msgstr "புதன்கிழமை"
 
 msgid "nm_fi_emailsetup_servername"
-msgstr ""
+msgstr "சேவையக பெயர்"
 
 msgid "nm_fi_end_time"
-msgstr ""
+msgstr "இறுதி நேரம்"
 
 msgid "nm_fi_options_access_point"
-msgstr ""
+msgstr "அணுகல் புள்ளி"
 
 msgid "nm_fi_options_addnewmailbox"
-msgstr ""
+msgstr "புதிய அஞ்சல் பெட்டியைச் சேர்க்கவும்"
 
 msgid "nm_fi_options_days"
-msgstr ""
+msgstr "நாட்கள்"
 
 msgid "nm_fi_options_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "nm_fi_options_drafts"
-msgstr ""
+msgstr "ஒத்திசைவு வரைவுகள்"
 
 msgid "nm_fi_options_edit"
-msgstr ""
+msgstr "தொகு"
 
 msgid "nm_fi_options_email_download_size"
-msgstr ""
+msgstr "பதிவிறக்க அளவு"
 
 msgid "nm_fi_options_email_download_size_full_message"
-msgstr ""
+msgstr "முழு செய்தி"
 
 msgid "nm_fi_options_email_download_size_headers_only"
-msgstr ""
+msgstr "தலைப்புகள் மட்டுமே"
 
 msgid "nm_fi_options_email_download_size_headers_plus"
-msgstr ""
+msgstr "பகுதி செய்தி"
 
 msgid "nm_fi_options_email_remove_older_than"
-msgstr ""
+msgstr "பழைய பொருட்களை அகற்றவும்"
 
 msgid "nm_fi_options_hours"
-msgstr ""
+msgstr "மணி"
 
 msgid "nm_fi_options_inbox"
-msgstr ""
+msgstr "இன்பாக்சை ஒத்திசைக்கவும்"
 
 msgid "nm_fi_options_password"
-msgstr ""
+msgstr "கடவுச்சொல்"
 
 msgid "nm_fi_options_password_required"
-msgstr ""
+msgstr "பெயரை மாற்ற கடவுச்சொல் தேவை"
 
 msgid "nm_fi_options_reset_data"
-msgstr ""
+msgstr "தரவை மீட்டமைக்கவும்"
 
 msgid "nm_fi_options_sent_items"
-msgstr ""
+msgstr "அனுப்பப்பட்ட பொருட்களை ஒத்திசைக்கவும்"
 
 msgid "nm_fi_options_server_name"
-msgstr ""
+msgstr "சேவையக பெயர்"
 
 msgid "nm_fi_options_signature"
-msgstr ""
+msgstr "கையொப்பம்"
 
 msgid "nm_fi_options_start"
-msgstr ""
+msgstr "தொடங்கு"
 
 msgid "nm_fi_options_sync_days"
-msgstr ""
+msgstr "நோக்கியா செய்தி: ஒத்திசைவு நாட்கள்"
 
 msgid "nm_fi_options_sync_interval"
-msgstr ""
+msgstr "அனுப்பி பெறுங்கள்"
 
 msgid "nm_fi_options_sync_power"
-msgstr ""
+msgstr "எப்போது ஒத்திசைவை முடக்கு"
 
 msgid "nm_fi_options_sync_while_roaming"
-msgstr ""
+msgstr "ரோமிங் செய்யும் போது ஒத்திசைக்கவும்"
 
 msgid "nm_fi_options_use_secure_login_incoming"
-msgstr ""
+msgstr "உள்வரும் சேவையகத்திற்கு பாதுகாப்பான உள்நுழைவைப் பயன்படுத்தவும்"
 
 msgid "nm_fi_options_use_secure_login_outgoing"
-msgstr ""
+msgstr "வெளிச்செல்லும் சேவையகத்திற்கு பாதுகாப்பான உள்நுழைவைப் பயன்படுத்தவும்"
 
 msgid "nm_fi_options_user_name"
-msgstr ""
+msgstr "பயனர் பெயர்"
 
 msgid "nm_fi_start_time"
-msgstr ""
+msgstr "தொடக்க நேரம்"
 
 msgid "nm_fi_sync_days_all"
-msgstr ""
+msgstr "தினமும்"
 
 msgid "nm_fi_sync_days_custom"
-msgstr ""
+msgstr "தனிப்பயனாக்கப்பட்டது"
 
 msgid "nm_fi_sync_days_never"
-msgstr ""
+msgstr "ஒருபோதும்"
 
 msgid "nm_fi_sync_days_weekdays"
-msgstr ""
+msgstr "வார நாட்கள்"
 
 msgid "nm_fi_sync_days_weekends"
-msgstr ""
+msgstr "வார இறுதி நாட்கள்"
 
 msgid "nm_fi_sync_drafts"
-msgstr ""
+msgstr "ஒத்திசைவு வரைவுகள்"
 
 msgid "nm_fi_sync_inbox"
-msgstr ""
+msgstr "இன்பாக்சை ஒத்திசைக்கவும்"
 
 msgid "nm_fi_sync_read_server_enabled"
-msgstr ""
+msgstr "சேவையகத்தில் படித்தபடி செய்திகளைக் குறிக்கவும்"
 
 msgid "nm_fi_sync_sent_items"
-msgstr ""
+msgstr "அனுப்பப்பட்ட பொருட்களை ஒத்திசைக்கவும்"
 
 msgid "nm_ib_advsetup_settings_saved"
-msgstr ""
+msgstr "அமைப்புகள் சேமிக்கப்பட்டன"
 
 msgid "nm_ib_daemon_not_connected"
-msgstr ""
+msgstr "நோக்கியா மெசேசிங் டீமான் கிடைக்கவில்லை"
 
 msgid "nm_imum_nc_wizard_confirm_lose_changes"
 msgstr ""
+"அமைப்புகளில் செய்யப்பட்ட அனைத்து மாற்றங்களும் இழக்கப்படும்.\n"
+" எப்படியும் தொடரவா?"
 
 msgid "nm_initializing_synchronization"
-msgstr ""
+msgstr "ஒத்திசைவைத் தொடங்குதல்"
 
 msgid "nm_invalid_server_settings"
 msgstr ""
+"மின்னஞ்சல் வழங்குநரை தொடர்பு கொள்ள முடியவில்லை. உங்கள் அமைப்புகளை சரிபார்க்கவும்."
 
 msgid "nm_mail_de_intro_bundle"
 msgstr ""
+"உங்கள் நோக்கியா செய்தியிடல் கணக்கை செயல்படுத்த பணி விதிமுறைகளை ஏற்றுக்கொண்டு, உங்கள் "
+"மின்னஞ்சலை தானாக வழங்கவும்."
 
 msgid "nm_mail_de_intro_default"
 msgstr ""
+"நோக்கியா மெசேசிங் என்பது சந்தா சேவையாகும், இது உங்கள் மின்னஞ்சலை தானாகவே உங்கள் "
+"இன்பாக்சுக்கு அனுப்புகிறது. கூடுதல் கட்டணம் இல்லாமல் நீங்கள் இப்போது பதிவுபெறலாம்."
 
 msgid "nm_mail_de_intro_isp"
 msgstr ""
+"நோக்கியா மெசேசிங் என்பது சந்தா சேவையாகும், இது உங்கள் மின்னஞ்சல் பணி வழங்குநருடன் இணைந்து "
+"செயல்பட்டு உங்கள் மின்னஞ்சலை தானாகவே உங்கள் இன்பாக்சுக்கு அனுப்புகிறது. கூடுதல் கட்டணம் "
+"இல்லாமல் நீங்கள் இப்போது பதிவுபெறலாம்."
 
 msgid "nm_mail_de_no"
-msgstr ""
+msgstr "நன்றி இல்லை"
 
 msgid "nm_mail_de_password"
-msgstr ""
+msgstr "கடவுச்சொல்"
 
 msgid "nm_mail_de_tos_link"
 msgstr ""
+"'அடுத்ததாக' தட்டுவதன் மூலம், இந்த சோதனைக்கு எல்லா [சேவை விதிமுறைகளையும்] "
+"ஏற்றுக்கொள்கிறேன்."
 
 msgid "nm_mail_de_tos_link_bundle"
 msgstr ""
+"'அடுத்து' தட்டுவதன் மூலம், நான் [நோக்கியா செய்தியிடல் விதிமுறைகளை] ஏற்றுக்கொள்கிறேன்."
 
 msgid "nm_mail_de_tos_link_manual_text"
-msgstr ""
+msgstr "புதிய செய்திகளை கைமுறையாக சரிபார்க்கலாம்."
 
 msgid "nm_mail_de_yes"
-msgstr ""
+msgstr "ஆம்! நான் பதிவுபெற விரும்புகிறேன்."
 
 msgid "nm_mail_de_yes_bundle"
-msgstr ""
+msgstr "எனது கணக்கை செயல்படுத்தவும்"
 
 msgid "nm_mail_fi_email_address"
-msgstr ""
+msgstr "மின்னஞ்சல் முகவரி"
 
 msgid "nm_mail_fi_incoming_port"
-msgstr ""
+msgstr "உள்வரும் துறைமுகம்"
 
 msgid "nm_mail_fi_incoming_server"
-msgstr ""
+msgstr "உள்வரும் சேவையகம்"
 
 msgid "nm_mail_fi_mailbox_name"
-msgstr ""
+msgstr "அஞ்சல் பெட்டி பெயர்"
 
 msgid "nm_mail_fi_my_name"
-msgstr ""
+msgstr "என் பெயர்"
 
 msgid "nm_mail_fi_outgoing_port"
-msgstr ""
+msgstr "வெளிச்செல்லும் துறைமுகம்"
 
 msgid "nm_mail_fi_outgoing_server"
-msgstr ""
+msgstr "வெளிச்செல்லும் சேவையகம்"
 
 msgid "nm_mail_fi_password"
-msgstr ""
+msgstr "கடவுச்சொல்"
 
 msgid "nm_mail_fi_password_prompt"
 msgstr ""
+"உள்ளிடப்பட்ட கடவுச்சொல் தவறானது. நோக்கியா செய்தியிடல் கணக்கு அமைப்பை முடிக்க சரியான "
+"கடவுச்சொல்லை உள்ளிடவும்."
 
 msgid "nm_mail_fi_user_name"
-msgstr ""
+msgstr "பயனர் பெயர்"
 
 msgid "nm_mail_fi_username"
-msgstr ""
+msgstr "பயனர் பெயர்"
 
 msgid "nm_mail_fi_username_hint"
-msgstr ""
+msgstr "சில ISP களுக்கு தேவை"
 
 msgid "nm_mail_fi_username_password_prompt"
 msgstr ""
+"மின்னஞ்சல் முகவரி ஏற்கனவே நோக்கியா செய்தியிடல் கணக்குடன் தொடர்புடையது. மின்னஞ்சல் அமைப்பை "
+"முடிக்க நோக்கியா மெசேசிங் கணக்கு நற்சான்றிதழ்களை உள்ளிடவும்."
 
 msgid "nm_mail_ib_setting_failed"
-msgstr ""
+msgstr "அமைப்புகளைச் சேமிக்க முடியவில்லை"
 
 msgid "nm_mail_type"
-msgstr ""
+msgstr "மின்னஞ்சல் வகை"
 
 msgid "nm_mail_type_imap"
-msgstr ""
+msgstr "Imap"
 
 msgid "nm_mail_type_pop"
-msgstr ""
+msgstr "பாப்"
 
 msgid "nm_me_folder_drafts"
-msgstr ""
+msgstr "வரைவுகள்"
 
 msgid "nm_me_folder_inbox"
-msgstr ""
+msgstr "இன்பாக்ச்"
 
 msgid "nm_me_folder_sent"
-msgstr ""
+msgstr "அனுப்பப்பட்ட உருப்படிகள்"
 
 msgid "nm_me_inbox_options"
-msgstr ""
+msgstr "அமைப்புகள்"
 
 msgid "nm_me_inbox_options_global"
-msgstr ""
+msgstr "<சொந்த நெறிமுறை>"
 
 msgid "nm_me_inbox_options_nes"
-msgstr ""
+msgstr "நோக்கியா செய்தி"
 
 msgid "nm_nms_cannot_download_attachment"
-msgstr ""
+msgstr "பதிவிறக்கம் செய்ய மிகப் பெரிய இணைப்பு"
 
 msgid "nm_nms_downloading_attachment"
-msgstr ""
+msgstr "பதிவிறக்குகிறது"
 
 msgid "nm_nms_password_prompt"
 msgstr ""
+"நோக்கியா செய்தியிடல் கடவுச்சொல்லை உள்ளிடவும். நோக்கியா செய்திக்கு அமைக்கப்பட்ட முதல் "
+"மின்னஞ்சல் முகவரிக்கான கடவுச்சொல் இது."
 
 msgid "nm_ods_email_intro"
 msgstr ""
+"சாதன ஐடி போன்ற பிற தொழில்நுட்ப தகவல்களுடன் உங்கள் அஞ்சல் முகவரி நோக்கியாவுக்கு "
+"அனுப்பப்படும். உங்கள் அனுமதியின்றி செயல்படுத்தப்பட்ட பின்னர் தனிப்பட்ட அடையாளம் காணக்கூடிய "
+"தகவல்களை நோக்கியா செயலாக்கவோ அல்லது சேமிக்கவோ மாட்டாது."
 
 msgid "nm_ods_error_account_locked"
 msgstr ""
+"அதிகப்படியான தோல்வியுற்ற உள்நுழைவுகளைத் தொடர்ந்து கணக்கு தடுக்கப்பட்டது. நோக்கியா "
+"பராமரிப்பு அல்லது உங்கள் இணைய பணி வழங்குநரைத் தொடர்பு கொள்ளுங்கள்."
 
 msgid "nm_ods_error_cant_setup"
 msgstr ""
+"அஞ்சல் பெட்டியை அமைப்பதில் சிக்கல். தயவுசெய்து அமைப்புகளை சரிபார்த்து பின்னர் மீண்டும் "
+"முயற்சிக்கவும்."
 
 msgid "nm_ods_error_generic"
 msgstr ""
+"அஞ்சல் பெட்டியை அமைப்பதில் சிக்கல். தயவுசெய்து அமைப்புகளை சரிபார்த்து பின்னர் மீண்டும் "
+"முயற்சிக்கவும். (%04x)"
 
 msgid "nm_ods_error_restart"
-msgstr ""
+msgstr "அமைவு மறுதொடக்கம் செய்யும் (%04LX)"
 
 msgid "nm_ods_phone_number"
-msgstr ""
+msgstr "தொலைபேசி எண்"
 
 msgid "nm_ods_phone_number_required"
-msgstr ""
+msgstr "மின்னஞ்சல் அமைப்பை அங்கீகரிக்க உங்கள் தொலைபேசி எண்ணை உள்ளிடவும்"
 
 msgid "nm_ods_setup_failed_emailid_exists_else_where"
 msgstr ""
+"மின்னஞ்சல் முகவரி ஏற்கனவே மற்றொரு நோக்கியா செய்தியிடல் கணக்கில் பதிவு செய்யப்பட்டுள்ளது"
 
 msgid "nm_ods_setup_failed_notenabled"
 msgstr ""
+"உங்கள் கணக்கு இயக்கப்படவில்லை. நோக்கியா பராமரிப்பு அல்லது உங்கள் இணைய பணி வழங்குநரைத் "
+"தொடர்பு கொள்ளுங்கள்."
 
 msgid "nm_ods_unable_to_connect"
 msgstr ""
+"அமைவு வழிகாட்டி வழங்கப்பட்ட தகவலுடன் மின்னஞ்சல் சேவையகத்துடன் இணைக்க முடியவில்லை."
 
 msgid "nm_reset_account"
-msgstr ""
+msgstr "மீட்டமை"
 
 msgid "nm_set_up_mail_at_later_time"
-msgstr ""
+msgstr "பின்னர் அமைக்கவும்"
 
 msgid "nm_set_up_mailbox_anyway"
-msgstr ""
+msgstr "எப்படியும் அஞ்சல் பெட்டியை அமைக்கவும்"
 
 msgid "nm_set_up_mailbox_anyway_help_text"
 msgstr ""
+"கடவுச்சொல்லைச் சரிபார்த்த பிறகு அல்லது பிற அமைப்புகளை சரிசெய்த பிறகு இணைப்பு "
+"சாத்தியமாகும்."
 
 msgid "nm_sync_hours_customize"
-msgstr ""
+msgstr "தனிப்பயனாக்கு"
 
 msgid "nm_sync_hours_on_all_day"
-msgstr ""
+msgstr "நாள் முழுவதும்"
 
 msgid "nm_synchronizing"
-msgstr ""
+msgstr "ஒத்திசைவு"
 
 msgid "nm_ti_intellisync_settings"
-msgstr ""
+msgstr "நோக்கியா செய்தியிடலுக்கான அமைப்புகள்"
 
 msgid "nm_ti_intellisync_settings_mailboxes"
-msgstr ""
+msgstr "நோக்கியா செய்தி: அஞ்சல் பெட்டிகள்"
 
 msgid "nm_ti_intellisync_settings_synchronization"
-msgstr ""
+msgstr "நோக்கியா செய்தி: ஒத்திசைவு"
 
 msgid "nm_ti_mailbox_settings"
-msgstr ""
+msgstr "அஞ்சல் பெட்டி அமைப்புகள்"
 
 msgid "nm_ti_options_mailbox_account"
-msgstr ""
+msgstr "கணக்கு"
 
 msgid "nm_ti_options_mailbox_user_info"
-msgstr ""
+msgstr "பயனர் செய்தி"
 
 msgid "nm_ti_options_mailboxes"
-msgstr ""
+msgstr "அஞ்சல் பெட்டிகள்"
 
 msgid "nm_ti_options_native_protocol"
-msgstr ""
+msgstr "<சொந்த நெறிமுறை> அமைப்புகள்"
 
 msgid "nm_ti_options_nokia_email"
-msgstr ""
+msgstr "நோக்கியா செய்தியிடலுக்கான அமைப்புகள்"
 
 msgid "nm_ti_options_service_info"
-msgstr ""
+msgstr "பணி செய்தி"
 
 msgid "nm_ti_options_serviceinfo"
-msgstr ""
+msgstr "பணி செய்தி"
 
 msgid "nm_ti_options_what_to_sync"
-msgstr ""
+msgstr "என்ன ஒத்திசைக்க வேண்டும்"
 
 msgid "nm_ti_options_when_to_sync"
-msgstr ""
+msgstr "எப்போது ஒத்திசைக்க வேண்டும்"
 
 msgid "nm_try_different_email_address"
-msgstr ""
+msgstr "வேறு மின்னஞ்சல் முகவரியை முயற்சிக்கவும்"
 
 msgid "nm_unable_to_set_up_this_mailbox_with_info_provided"
-msgstr ""
+msgstr "வழங்கப்பட்ட தகவல்களுடன் இந்த அஞ்சல் பெட்டியை அமைக்க முடியவில்லை"
 
 msgid "nm_use_secure_login"
-msgstr ""
+msgstr "பாதுகாப்பான உள்நுழைவைப் பயன்படுத்தவும்"
 
 msgid "nm_va_delete_message_service"
 msgstr ""
+"நோக்கியா செய்தியிடல் பணி மற்றும் அனைத்து தொடர்புடைய அஞ்சல் பெட்டிகளையும் நீக்கவா?"
 
 msgid "nm_va_delete_multimail_mailbox"
 msgstr ""
+"சாதனத்திலிருந்து நீக்கவா?\n"
+" '%s'"
 
 msgid "nm_va_delete_nokia_messaging"
 msgstr ""
+"சாதனத்திலிருந்து நோக்கியா செய்தி பணி மற்றும் அனைத்து தொடர்புடைய அஞ்சல் பெட்டிகளையும் "
+"அகற்றவா?"
 
 msgid "nm_va_deleting_multimail_mailbox"
 msgstr ""
+"அஞ்சல் பெட்டியை நீக்குகிறது\n"
+" '%s'"
 
 msgid "nm_va_intellisync"
-msgstr ""
+msgstr "நோக்கியா செய்தி"
 
 msgid "nm_va_multimail_mailbox_added_message"
 msgstr ""
@@ -553,7 +607,7 @@ msgid "nm_va_options_sync_power_5"
 msgstr ""
 
 msgid "nm_va_options_sync_power_never"
-msgstr ""
+msgstr "ஒருபோதும்"
 
 msgid "nm_va_options_sync_power_server"
 msgstr ""
@@ -574,13 +628,13 @@ msgid "nm_va_saving_multimail_mailbox_settings"
 msgstr ""
 
 msgid "nm_wdgt_bd_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "nm_wdgt_bd_done"
-msgstr ""
+msgstr "முடிந்தது"
 
 msgid "nm_wdgt_bd_save"
-msgstr ""
+msgstr "சேமி"
 
 msgid "nm_wdgt_rb_no"
 msgstr ""
